@@ -1,0 +1,1235 @@
+阿贝多	a bei duo	1
+阿贾克斯	a jia ke si	1
+阿莫斯之弓	a mo si zhi gong	1
+埃洛伊	ai luo yi	1
+安柏	an bai	1
+黯淡棱镜	an dan leng jing	1
+暗铁剑	an tie jian	1
+暗巷酒与诗	an xiang jiu yu shi	1
+暗巷猎手	an xiang lie shou	1
+暗巷闪光	an xiang shan guang	1
+昂藏之月	ang cang zhi yue	1
+奥藏山	ao cang shan	1
+奥义梦想真说	ao yi meng xiang zhen shuo	1
+奥兹发射器	ao zi fa she qi	1
+芭芭拉	ba ba la	1
+八重神子	ba chong shen zi	1
+八重堂	ba chong tang	1
+拔刀术	ba dao shu	1
+八方之岩	ba fang zhi yan	1
+八酝岛	ba yun dao	1
+白案功夫	bai an gong fu	1
+白辰之环	bai chen zhi huan	1
+白鹭公主	bai lu gong zhu	1
+白铁块	bai tie kuai	1
+白铁矿	bai tie kuang	1
+白夜极星	bai ye ji xing	1
+白影剑	bai ying jian	1
+白缨枪	bai ying qiang	1
+白汁时蔬烩肉	bai zhi shi shu hui rou	1
+白术	bai zhu	1
+半部讨龙真君	ban bu tao long zhen jun	1
+班尼冒险团	ban ni mao xian tuan	1
+班尼特	ban ni te	1
+暴风之眼	bao feng zhi yan	1
+饱腹感凝胶	bao fu gan ning jiao	1
+爆炎树	bao yan shu	1
+宝藏归离	bao zang gui li	1
+北地烟熏鸡	bei di yan xun ji	1
+北斗	bei dou	1
+北风王狼	bei feng wang lang	1
+被怜爱少女	bei lian ai shao nv	1
+杯皿	bei min	1
+被遗忘苦心	bei yi wang ku xin	1
+奔狼领	ben lang ling	1
+奔狼领主	ben lang ling zhu	1
+奔霆腾闪	ben ting teng shan	1
+蹦蹦炸弹	beng beng zha dan	1
+碧水原	bi shui yuan	1
+遍宇灵光	bian yu ling guang	1
+冰尘弹	bing chen dan	1
+冰尘雪野	bing chen xue ye	1
+冰盾丘丘人	bing dun qiu qiu ren	1
+冰风迷途勇士	bing feng mi tu yong shi	1
+冰弩丘丘人	bing nu qiu qiu ren	1
+冰胖	bing pang	1
+冰史莱姆	bing shi lai mu	1
+冰霜丘丘暴徒	bing shuang qiu qiu bao tu	1
+冰雾花花蕊	bing wu hua hua rui	1
+冰巫师	bing wu shi	1
+冰萤术士	bing ying shu shi	1
+冰元素	bing yuan su	1
+冰渊之心	bing yuan zhi xin	1
+薄冰舞踏	bo bing wu ta	1
+薄红蟹	bo hong xie	1
+不卜庐	bu bu lu	1
+不倒貉貉	bu dao hao hao	1
+不灭月华	bu mie yue hua	1
+彩色歌谣	cai se ge yao	1
+蔡书瑾	cai shu jin	1
+裁雨法	cai yu fa	1
+苍白之火	cang bai zhi huo	1
+苍翠猎弓	cang cui lie gong	1
+苍风高地	cang feng gao di	1
+草萨满	cao sa man	1
+草史莱姆	cao shi lai mu	1
+草元素	cao yuan su	1
+茶烟笼白榻	cha yan long bai ta	1
+长杓座	chang biao zuo	1
+长生仙	chang sheng xian	1
+长夜守望	chang ye shou wang	1
+长野原烟花店	chang ye yuan yan hua dian	1
+常驻祈愿	chang zhu qi yuan	1
+超导	chao dao	1
+超导反应	chao dao fan ying	1
+超载反应	chao zai fan ying	1
+尘歌壶	chen ge hu	1
+沉沦之心	chen lun zhi xin	1
+尘世巡游	chen shi xun you	1
+尘世之锁	chen shi zhi suo	1
+陈婷婷	chen ting ting	1
+晨曦酒庄	chen xi jiu zhuang	1
+赤楯座	chi dun zuo	1
+螭骨剑	chi gu jian	1
+炽火崩破	chi huo beng po	1
+炽烈炎之魔女	chi lie yan zhi mo nv	1
+赤魔王	chi mo wang	1
+赤鳍陆鳗鳗	chi qi lu man man	1
+炽热余烬	chi re yu jin	1
+赤团开时	chi tuan kai shi	1
+炽焰箭	chi yan jian	1
+吃鱼虎刀	chi yu hu dao	1
+池中宅邸	chi zhong zhai di	1
+充盈之月	chong ying zhi yue	1
+抽胡桃	chou hu tao	1
+楚此渚田	chu ci zhu tian	1
+串串三味	chuan chuan san wei	1
+创生火柱技能	chuang sheng huo zhu ji neng	1
+创世结晶	chuang shi jie jing	1
+炊具	chui ju	1
+吹往未来诗风	chui wang wei lai shi feng	1
+纯水精灵	chun shui jing ling	1
+纯阳之体	chun yang zhi ti	1
+纯真羁绊	chun zhen ji ban	1
+刺身拼盘	ci shen pin pan	1
+翠玦块	cui jue kuai	1
+淬炼之剑	cui lian zhi jian	1
+翠绿之影	cui lv zhi ying	1
+脆弱树脂	cui ruo shu zhi	1
+村濑步	cun lai bu	1
+达达利亚	da da li ya	1
+达达乌帕谷	da da wu pa gu	1
+大火宽油	da huo kuan you	1
+大姐头	da jie tou	1
+大力药剂	da li yao ji	1
+大龙卷旋火轮	da long juan xuan huo lun	1
+大原沙耶香	da yuan sha ye xiang	1
+戴因斯雷布	dai yin si lei bu	1
+盗宝团	dao bao tuan	1
+刀剑成梦	dao jian cheng meng	1
+稻米	dao mi	1
+稻妻	dao qi	1
+稻妻城	dao qi cheng	1
+稻妻钓鱼协会	dao qi diao yu xie hui	1
+岛崎信长	dao qi xin chang	1
+等离子场	deng li zi chang	1
+迪奥娜	di ao na	1
+荻花州	di hua zhou	1
+荻花洲	di hua zhou	1
+笛剑	di jian	1
+地灵龛	di ling kan	1
+迪卢克	di lu ke	1
+第七个武士	di qi ge wu shi	1
+低语森林	di yu sen lin	1
+地中之盐	di zhong zhi yan	1
+电感余震	dian gan yu zhen	1
+电气骗骗花	dian qi pian pian hua	1
+电气水晶	dian qi shui jing	1
+电威横织	dian wei heng zhi	1
+点赞哥	dian zan ge	1
+冻冻回魂夜	dong dong hui hun ye	1
+董海龙	dong hai long	1
+冬极白星	dong ji bai xing	1
+冻结反应	dong jie fan ying	1
+洞天珍物	dong tian zhen wu	1
+洞天种物	dong tian zhong wu	1
+斗棘鱼	dou ji yu	1
+嘟嘟莲	du du lian	1
+嘟嘟莲海鲜羹	du du lian hai xian geng	1
+肚饿真君	du e zhen jun	1
+赌狗乐章	du gou yue zhang	1
+渡过烈火贤人	du guo lie huo xian ren	1
+渡来禽肉	du lai qin rou	1
+杜冥鸦	du ming ya	1
+独眼小宝	du yan xiao bao	1
+断浪长鳍	duan lang chang qi	1
+断罪雷影箭	duan zui lei ying jian	1
+断罪之皇女	duan zui zhi huang nv	1
+堆高高	dui gao gao	1
+盾牌丘丘人	dun pai qiu qiu ren	1
+遁玉陵	dun yu ling	1
+多多烧	duo duo shao	1
+恶王丸	e wang wan	1
+恩眷万民狮牙	en juan wan min shi ya	1
+发光髓	fa guang sui	1
+反抗军	fan kang jun	1
+防潮药剂	fang chao yao ji	1
+防尘药剂	fang chen yao ji	1
+放电石	fang dian shi	1
+防风药剂	fang feng yao ji	1
+放火烧山真君	fang huo shao shan zhen jun	1
+绯红玉髓	fei hong yu sui	1
+肺棘鱼	fei ji yu	1
+飞雷之巴印	fei lei zhi ba yin	1
+飞雷之弦振	fei lei zhi xian zhen	1
+飞天大御剑	fei tian da yu jian	1
+飞天御剑	fei tian yu jian	1
+菲谢尔	fei xie er	1
+飞行冠军	fei xing guan jun	1
+飞萤	fei ying	1
+绯樱饼	fei ying bing	1
+绯樱天妇罗	fei ying tian fu luo	1
+翡玉法球	fei yu fa qiu	1
+飞云商会	fei yun shang hui	1
+芬德尼尔之顶	fen de ni er zhi ding	1
+粉碎者	fen sui zhe	1
+粉碎之冰	fen sui zhi bing	1
+粉碎之月	fen sui zhi yue	1
+逢坂良太	feng ban liang tai	1
+风风轮舞踢	feng feng lun wu ti	1
+风风轮之姿	feng feng lun zhi zi	1
+风花节纪念气球	feng hua jie ji nian qi qiu	1
+烽火台	feng huo tai	1
+风龙废墟	feng long fei xu	1
+风轮两立	feng lun liang li	1
+风魔龙	feng mo long	1
+枫木	feng mu	1
+风起地	feng qi di	1
+风拳	feng quan	1
+丰穰勾玉	feng rang gou yu	1
+风萨满	feng sa man	1
+风色诗人	feng se shi ren	1
+风神巴巴托斯	feng shen ba ba tuo si	1
+风神之诗	feng shen zhi shi	1
+风史莱姆	feng shi lai mu	1
+风涡剑	feng wo jian	1
+风物之诗琴	feng wu zhi shi qin	1
+风息激荡	feng xi ji dang	1
+风啸山坡	feng xiao shan po	1
+风雅的指引	feng ya de zhi yin	1
+风压剑	feng ya jian	1
+风鹰剑	feng ying jian	1
+风萤术士	feng ying shu shi	1
+风佑之羽球	feng you zhi yu qiu	1
+风与牧歌之城	feng yu mu ge zhi cheng	1
+风与异乡人	feng yu yi xiang ren	1
+风元素	feng yuan su	1
+枫原万叶	feng yuan wan ye	1
+风之翼	feng zhi yi	1
+风之印	feng zhi yin	1
+符法之力	fu fa zhi li	1
+浮空平台	fu kong ping tai	1
+浮空石	fu kong shi	1
+复燃技能	fu ran ji neng	1
+浮世	fu shi	1
+浮世的指引	fu shi de zhi yin	1
+复苏之风	fu su zhi feng	1
+祓行	fu xing	1
+浮游干核	fu you gan he	1
+浮云霜天	fu yun shuang tian	1
+感电	gan dian	1
+感电反应	gan dian fan ying	1
+干烧香鱼	gan shao xiang yu	1
+绀田事话	gan tian shi hua	1
+绀田煮	gan tian zhu	1
+甘雨	gan yu	1
+钢脊	gang ji	1
+钢轮弓	gang lun gong	1
+钢铁炽焰	gang tie chi yan	1
+高频斩击	gao pin zhan ji	1
+高桥李依	gao qiao li yi	1
+高桥智秋	gao qiao zhi qiu	1
+高天协奏	gao tian xie zou	1
+高天之歌	gao tian zhi ge	1
+高尾奏音	gao wei zou yin	1
+高垣彩阳	gao yuan cai yang	1
+歌声之环	ge sheng zhi huan	1
+歌仙座	ge xian zuo	1
+革新旋风	ge xin xuan feng	1
+耿铭琳	geng ming lin	1
+弓藏	gong cang	1
+攻守易形著神机	gong shou yi xing zhu shen ji	1
+钩钩果	gou gou guo	1
+孤岛诊疗谭	gu dao zhen liao tan	1
+古贺葵	gu he kui	1
+古华飞云	gu hua fei yun	1
+古华剑裁雨留虹	gu hua jian cai yu liu hong	1
+古华剑法	gu hua jian fa	1
+古华剑画雨笼山	gu hua jian hua yu long shan	1
+故事构思法	gu shi gou si fa	1
+古时孤影	gu shi gu ying	1
+古岩龙蜥	gu yan long xi	1
+孤云阁	gu yun ge	1
+古云有螭	gu yun you chi	1
+孤舟斩蛟	gu zhou zhan jiao	1
+广海守望	guang hai shou wang	1
+光辉季节	guang hui ji jie	1
+归还之路	gui huan zhi lu	1
+归离原	gui li yuan	1
+桂木斩长正	gui mu zhan chang zheng	1
+龟娘	gui niang	1
+鬼头明里	gui tou ming li	1
+贵重道具	gui zhong dao ju	1
+锅巴出击	guo ba chu ji	1
+锅巴发射器	guo ba fa she qi	1
+锅巴凶猛	guo ba xiong meng	1
+果酒湖	guo jiu hu	1
+果香串烤	guo xiang chuan kao	1
+海风之梦	hai feng zhi meng	1
+海灵芝	hai ling zhi	1
+海乱鬼	hai luan gui	1
+海乱鬼雷腾	hai luan gui lei teng	1
+海乱鬼炎威	hai luan gui yan wei	1
+海祇岛	hai qi dao	1
+海人化羽	hai ren hua yu	1
+海上男儿	hai shang nan er	1
+还圣奥迹	hai sheng ao ji	1
+海滩横行者	hai tan heng xing zhe	1
+海渊仙草灵验记	hai yuan xian cao ling yan ji	1
+海月之誓	hai yue zhi shi	1
+寒冰之国	han bing zhi guo	1
+寒风剑士	han feng jian shi	1
+寒天宣命祝词	han tian xuan ming zhu ci	1
+好运剑	hao yun jian	1
+鹤观	he guan	1
+鹤观之行	he guan zhi xing	1
+和璞鸢	he pu yuan	1
+黑剑	hei jian	1
+黑檀弓	hei tan gong	1
+黑岩长剑	hei yan chang jian	1
+黑岩刺枪	hei yan ci qiang	1
+黑岩绯玉	hei yan fei yu	1
+黑岩斩刀	hei yan zhan dao	1
+黑岩战弓	hei yan zhan gong	1
+黑缨枪	hei ying qiang	1
+恒常机关阵列	heng chang ji guan zhen lie	1
+恒风随行	heng feng sui xing	1
+轰轰火花	hong hong huo hua	1
+红烩兽肉	hong hui shou rou	1
+轰击之星	hong ji zhi xing	1
+红炉一点雪	hong lu yi dian xue	1
+红羽团扇	hong yu tuan shan	1
+护法夜叉	hu fa ye cha	1
+护法夜叉大将	hu fa ye cha da jiang	1
+呼唤奧兹守护	hu huan ao zi shou hu	1
+琥牢山	hu lao shan	1
+护摩	hu mo	1
+护摩之杖	hu mo zhi zhang	1
+琥珀玥	hu po yue	1
+胡堂主	hu tang zhu	1
+胡桃	hu tao	1
+胡桃池	hu tao chi	1
+胡桃池子	hu tao chi zi	1
+胡婷婷	hu ting ting	1
+湖心岛	hu xin dao	1
+护心铠	hu xin kai	1
+胡行钟	hu xing zhong	1
+狐斋宫	hu zhai gong	1
+华光林	hua guang lin	1
+化海月	hua hai yue	1
+花鳉	hua jiang	1
+华清归藏密宫	hua qing gui zang mi gong	1
+椛染之庭	hua ran zhi ting	1
+花守由美里	hua shou you mei li	1
+华章之翼	hua zhang zhi yi	1
+化种匣	hua zhong xia	1
+坏劫国土碾尘	huai jie guo tu nian chen	1
+幻鸦座	huan ya zuo	1
+煌煌千道镇式	huang huang qian dao zhen shi	1
+皇女幻绮谭	huang nv huan qi tan	1
+黄油松茸	huang you song rong	1
+黄油蟹蟹	huang you xie xie	1
+辉煌乐句	hui huang yue ju	1
+绘绮庭	hui qi ting	1
+绘绮之枕印	hui qi zhi zhen yin	1
+晦朔之月	hui shuo zhi yue	1
+回转怒风	hui zhuan nu feng	1
+活动祈愿	huo dong qi yuan	1
+火花骑士	huo hua qi shi	1
+火花无限	huo hua wu xian	1
+火火肉酱面	huo huo rou jiang mian	1
+火炬丘丘人	huo ju qiu qiu ren	1
+活力喵饭	huo li miao fan	1
+火弩丘丘人	huo nu qiu qiu ren	1
+火枪	huo qiang	1
+火球丘丘人	huo qiu qiu qiu ren	1
+火热激情	huo re ji qing	1
+火史莱姆	huo shi lai mu	1
+火巫师	huo wu shi	1
+急冻树	ji dong shu	1
+极寒轻吻	ji han qing wen	1
+玑衡仪座	ji heng yi zuo	1
+疾雷攻逐	ji lei gong zhu	1
+祭礼残章	ji li can zhang	1
+祭礼大剑	ji li da jian	1
+祭礼弓	ji li gong	1
+祭礼剑	ji li jian	1
+激流精油	ji liu jing you	1
+机巧阵陔	ji qiao zhen gai	1
+疾如野火	ji ru ye huo	1
+祭神奏上	ji shen zou shang	1
+纪行神将	ji xing shen jiang	1
+甲级宝珏	jia ji bao jue	1
+加隈亚衣	jia wei ya yi	1
+坚船固甲	jian chuan gu jia	1
+箭雨	jian yu	1
+蒋静菊	jiang jing ju	1
+将军蟹	jiang jun xie	1
+蒋丽	jiang li	1
+交叉火力	jiao cha huo li	1
+角斗士终幕礼	jiao dou shi zhong mu li	1
+教官套	jiao guan tao	1
+皎月云间之梦	jiao yue yun jian zhi meng	1
+皆川纯子	jie chuan chun zi	1
+结晶反应	jie jing fan ying	1
+借景之馆	jie jing zhi guan	1
+金杯座	jin bei zuo	1
+金赤假龙	jin chi jia long	1
+金翅鹏王座	jin chi peng wang zuo	1
+金船	jin chuan	1
+菫鹮	jin huan	1
+金娜	jin na	1
+金色五星	jin se wu xing	1
+菫色之庭	jin se zhi ting	1
+津田健次郎	jin tian jian ci lang	1
+今昔剧画之恶尉	jin xi ju hua zhi e wei	1
+今昔剧画之虎啮	jin xi ju hua zhi hu nie	1
+金鱼草	jin yu cao	1
+锦织座	jin zhi zuo	1
+金紫定垂座	jin zi ding chui zuo	1
+静电场力	jing dian chang li	1
+晶蝶粉	jing die fen	1
+精锻用魔矿	jing duan yong mo kuang	1
+晶核	jing he	1
+镜花听世	jing hua ting shi	1
+镜花之琴	jing hua zhi qin	1
+精进不止	jing jin bu zhi	1
+惊雷精油	jing lei jing you	1
+精力灵药	jing li ling yao	1
+精算盈亏	jing suan ying kui	1
+鲸天座	jing tian zuo	1
+靖妖傩舞	jing yao nuo wu	1
+井泽诗织	jing ze shi zhi	1
+纠缠信风	jiu chan xin feng	1
+纠缠之缘	jiu chan zhi yuan	1
+九条家	jiu tiao jia	1
+九条裟罗	jiu tiao sha luo	1
+九条阵屋	jiu tiao zhen wu	1
+九条之纹	jiu tiao zhi wen	1
+旧味难寻	jiu wei nan xun	1
+久野美咲	jiu ye mei xiao	1
+聚电石	ju dian shi	1
+巨盾牛头人	ju dun niu tou ren	1
+巨斧牛头人	ju fu niu tou ren	1
+菊花花	ju hua hua	1
+眷护和风	juan hu he feng	1
+卷积微尘	juan ji wei chen	1
+眷恋泠风	juan lian ling feng	1
+决斗之枪	jue dou zhi qiang	1
+诀箓阴阳寮	jue lu yin yang liao	1
+掘墓者	jue mu zhe	1
+角色培养	jue se pei yang	1
+绝弦	jue xian	1
+绝缘之旗印	jue yuan zhi qi yin	1
+绝云朝天椒	jue yun chao tian jiao	1
+绝云间	jue yun jian	1
+开拓心魂	kai tuo xin hun	1
+凯亚	kai ya	1
+坎瑞亚	kan rui ya	1
+抗争暴风	kang zheng bao feng	1
+烤蘑菇披萨	kao mo gu pi sa	1
+烤肉排	kao rou pai	1
+可莉	ke li	1
+可莉特调	ke li te tiao	1
+刻晴	ke qing	1
+刻师傅	ke shi fu	1
+孔雀木	kong que mu	1
+孔雀羽座	kong que yu zuo	1
+口袋锚点	kou dai mao dian	1
+口袋魔导书	kou dai mo dao shu	1
+堀江瞬	ku jiang shun	1
+苦炮鲀	ku pao tun	1
+快跑药膏	kuai pao yao gao	1
+狂风核心	kuang feng he xin	1
+狂风精油	kuang feng jing you	1
+狂风之核	kuang feng zhi he	1
+矿工头子	kuang gong tou zi	1
+狂乱崩岩	kuang luan beng yan	1
+狂乱的崩岩	kuang luan de beng yan	1
+昆吾断虹	kun wu duan hong	1
+扩散反应	kuo san fan ying	1
+辣肉窝窝头	la rou wo wo tou	1
+辣味时蔬烩肉	la wei shi shu hui rou	1
+濑户麻沙美	lai hu ma sha mei	1
+瀬戸麻沙美	lai hu ma sha mei	1
+蓝染花鳉	lan ran hua jiang	1
+蓝色三星	lan se san xing	1
+浪船	lang chuan	1
+浪花骑士	lang hua qi shi	1
+狼末路	lang mo lu	1
+狼性	lang xing	1
+雷锤	lei chui	1
+雷弹丘丘人	lei dan qiu qiu ren	1
+雷电将军	lei dian jiang jun	1
+雷电之纹	lei dian zhi wen	1
+雷罚恶曜之眼	lei fa e yao zhi yan	1
+雷斧丘丘暴徒	lei fu qiu qiu bao tu	1
+雷轰电转	lei hong dian zhuan	1
+雷祸	lei huo	1
+雷极	lei ji	1
+雷劫精油	lei jie jing you	1
+雷晶蝶	lei jing die	1
+雷鸣仙	lei ming xian	1
+雷弩丘丘人	lei nu qiu qiu ren	1
+雷丘丘萨满	lei qiu qiu sa man	1
+雷神瞳共鸣石	lei shen tong gong ming shi	1
+雷深渊法师	lei shen yuan fa shi	1
+雷史莱姆	lei shi lai mu	1
+雷霆探针	lei ting tan zhen	1
+雷牙	lei ya	1
+雷野险踪	lei ye xian zong	1
+雷音权现	lei yin quan xian	1
+雷影剑	lei ying jian	1
+雷樱枝条	lei ying zhi tiao	1
+雷元素	lei yuan su	1
+雷元素浓度	lei yuan su nong du	1
+雷泽	lei ze	1
+雷之魔弹	lei zhi mo dan	1
+雷之寻宝罗盘	lei zhi xun bao luo pan	1
+雷之印	lei zhi yin	1
+雷种子	lei zhong zi	1
+冷冻炸弹	leng dong zha dan	1
+冷刃	leng ren	1
+冷肉拼盘	leng rou pin pan	1
+冷血之剑	leng xue zhi jian	1
+李春胤	li chun yin	1
+离岛	li dao	1
+离岛之路	li dao zhi lu	1
+历练猎弓	li lian lie gong	1
+黎明神剑	li ming shen jian	1
+雳木	li mu	1
+丽莎	li sha	1
+璃沙郊	li sha jiao	1
+璃月	li yue	1
+璃月地	li yue di	1
+璃月港	li yue gang	1
+璃月七星	li yue qi xing	1
+利爪	li zhua	1
+利爪与苍雷	li zhua yu cang lei	1
+连环轰隆	lian huan hong long	1
+炼金的偏执	lian jin de pian zhi	1
+炼武秘境	lian wu mi jing	1
+疗愈兵机	liao yu bing ji	1
+猎弓	lie gong	1
+烈火精油	lie huo jing you	1
+烈火与勇气	lie huo yu yong qi	1
+裂空魔龙	lie kong mo long	1
+裂空之风	lie kong zhi feng	1
+烈烧佑命之侍护	lie shao you ming zhi shi hu	1
+烈焰花花蕊	lie yan hua hua rui	1
+烈音齐奏	lie yin qi zou	1
+凛冽冰戏	lin lie bing xi	1
+凛冽轮舞	lin lie lun wu	1
+林敏	lin min	1
+林尼	lin ni	1
+琳妮特	lin ni te	1
+林簌	lin su	1
+林中小书	lin zhong xiao shu	1
+灵炬关	ling ju guan	1
+灵沼云池	ling zhao yun chi	1
+六边形战士	liu bian xing zhan shi	1
+流放者	liu fang zhe	1
+流火焦灼	liu huo jiao zhuo	1
+琉金火光	liu jin huo guang	1
+琉金火花	liu jin huo hua	1
+琉金云间草	liu jin yun jian cao	1
+琉金之章	liu jin zhi zhang	1
+流浪大地乐团	liu lang da di yue tuan	1
+流浪乐章	liu lang yue zhang	1
+琉璃袋	liu li dai	1
+琉璃花鳉	liu li hua jiang	1
+留念镜	liu nian jing	1
+流纹茶蝶鱼	liu wen cha die yu	1
+流纹褐蝶鱼	liu wen he die yu	1
+流纹京紫蝶鱼	liu wen jing zi die yu	1
+六星角色	liu xing jue se	1
+琉焰华舞宵宫	liu yan hua wu xiao gong	1
+流月针	liu yue zhen	1
+流转剑脊暴风	liu zhuan jian ji bao feng	1
+龙脊雪山	long ji xue shan	1
+龙头砸地	long tou za di	1
+龙息	long xi	1
+龙爪攻击	long zhua gong ji	1
+卢锅巴	lu guo ba	1
+渌华池	lu hua chi	1
+陆敏悦	lu min yue	1
+乱舞之月	luan wu zhi yue	1
+轮旋冰凌	lun xuan bing ling	1
+萝卜时蔬汤	luo bo shi shu tang	1
+落雷	luo lei	1
+落日鳅鳅	luo ri qiu qiu	1
+罗莎莉亚	luo sha li ya	1
+履虫	lv chong	1
+旅人座	lv ren zuo	1
+绿色二星	lv se er xing	1
+旅行剑	lv xing jian	1
+旅行者风	lv xing zhe feng	1
+旅行者空	lv xing zhe kong	1
+旅行者雷	lv xing zhe lei	1
+旅行者岩	lv xing zhe yan	1
+旅行者荧	lv xing zhe ying	1
+马斯克礁	ma si ke jiao	1
+马洋	ma yang	1
+满足沙拉	man zu sha la	1
+猫尾酒馆	mao wei jiu guan	1
+冒险憧憬	mao xian chong jing	1
+冒险家协会	mao xian jia xie hui	1
+茂知之壳	mao zhi zhi ke	1
+猫爪冻冻	mao zhua dong dong	1
+美妙旅程	mei miao lv cheng	1
+蒙德	meng de	1
+蒙德城	meng de cheng	1
+蒙德土豆饼	meng de tu dou bing	1
+蒙德往事	meng de wang shi	1
+梦见木	meng jian mu	1
+梦里花	meng li hua	1
+梦里生花	meng li sheng hua	1
+曚云之月	meng yun zhi yue	1
+米饭布丁	mi fan bu ding	1
+蜜酱胡萝卜煎肉	mi jiang hu luo bo jian rou	1
+谜境悬兵	mi jing xuan bing	1
+迷你仙灵紫苑	mi ni xian ling zi yuan	1
+米云币	mi yun bi	1
+眠龙之章	mian long zhi zhang	1
+珉林	min lin	1
+明冠山地	ming guan shan di	1
+明冠峡	ming guan xia	1
+鸣雷纯晶	ming lei chun jing	1
+鸣雷霰子	ming lei xian zi	1
+明神大社	ming shen da she	1
+鸣神大社	ming shen da she	1
+鸣神岛	ming shen dao	1
+鸣神寻踪	ming shen xun zong	1
+鸣神御灵的欢喜	ming shen yu ling de huan xi	1
+命运试金石	ming yun shi jin shi	1
+明蕴镇	ming yun zhen	1
+命之座	ming zhi zuo	1
+名椎滩	ming zhui tan	1
+魔导绪论	mo dao xu lun	1
+魔法肉酱面	mo fa rou jiang mian	1
+末光之剑	mo guang zhi jian	1
+魔晶矿	mo jing kuang	1
+摩拉	mo la	1
+莫娜	mo na	1
+魔能渴求	mo neng ke qiu	1
+魔偶剑鬼	mo ou jian gui	1
+木村良平	mu cun liang ping	1
+沐霏	mu fei	1
+慕风蘑菇	mu feng mo gu	1
+木南料亭	mu nan liao ting	1
+穆雪婷	mu xue ting	1
+沐浴龙血剑	mu yu long xue jian	1
+纳塔	na ta	1
+耐寒药剂	nai han yao ji	1
+耐热药剂	nai re yao ji	1
+南十字船队	nan shi zi chuan dui	1
+南天海山座	nan tian hai shan zuo	1
+南天门	nan tian men	1
+内山昂辉	nei shan ang hui	1
+内田真礼	nei tian zhen li	1
+能量潮汐	neng liang chao xi	1
+薿此芝田	ni ci zhi tian	1
+逆飞流星	ni fei liu xing	1
+逆焰之刃	ni yan zhi ren	1
+鸟蛋烧	niao dan shao	1
+鸟蛋寿司	niao dan shou si	1
+鸟海浩辅	niao hai hao fu	1
+鸟枪	niao qiang	1
+鸟羽	niao yu	1
+凝冰渡海真君	ning bing du hai zhen jun	1
+凝光	ning guang	1
+牛杂师傅	niu za shi fu	1
+农民宝藏	nong min bao zang	1
+努力即魔法	nu li ji mo fa	1
+暖意	nuan yi	1
+诺艾尔	nuo ai er	1
+派蒙	pai meng	1
+磐石精油	pan shi jing you	1
+炮鲀	pao tun	1
+彭博	peng bo	1
+砰砰礼物	peng peng li wu	1
+飘浮灵	piao fu ling	1
+平息雷鸣尊者	ping xi lei ming zun zhe	1
+破镜循声技能	po jing xun sheng ji neng	1
+破旧的刀镡	po jiu de dao chan	1
+破魔之弓	po mo zhi gong	1
+破破弹片	po po tan pian	1
+破碎绝岩	po sui jue yan	1
+普尔希娜光钉	pu er xi na guang ding	1
+蒲公英国土	pu gong ying guo tu	1
+蒲公英领域	pu gong ying ling yu	1
+蒲公英骑士	pu gong ying qi shi	1
+蒲公英之风	pu gong ying zhi feng	1
+普契涅拉	pu qi nie la	1
+蒲烧鳗肉	pu shao man rou	1
+普通丘丘人	pu tong qiu qiu ren	1
+奇策	qi ce	1
+奇怪丘丘人	qi guai qiu qiu ren	1
+七七	qi qi	1
+奇石珠宝录	qi shi zhu bao lu	1
+齐藤壮马	qi teng zhuang ma	1
+七天神像	qi tian shen xiang	1
+齐天怡	qi tian yi	1
+七星璨璨凝流光	qi xing can can ning liu guang	1
+祈愿池	qi yuan chi	1
+千风神殿	qian feng shen dian	1
+千风诗篇	qian feng shi pian	1
+千金掷	qian jin zhi	1
+乾坤锋座	qian kun feng zuo	1
+千里之信	qian li zhi xin	1
+千门虚舟	qian men xu zhou	1
+千岩长枪	qian yan chang qiang	1
+千岩古剑	qian yan gu jian	1
+千岩牢固	qian yan lao gu	1
+前野智昭	qian ye zhi zhao	1
+锖假龙	qiang jia long	1
+蔷薇雷光	qiang wei lei guang	1
+蔷薇魔女	qiang wei mo nv	1
+敲针	qiao zhen	1
+禽肉	qin rou	1
+擒霞客	qin xia ke	1
+轻策之藏	qing ce zhi cang	1
+轻策庄	qing ce zhuang	1
+庆典倾耳	qing dian qing er	1
+庆典一揆	qing dian yi kui	1
+清籁岛	qing lai dao	1
+清籁旧宝	qing lai jiu bao	1
+清籁旧忆	qing lai jiu yi	1
+清籁逐雷记	qing lai zhu lei ji	1
+清泉镇	qing quan zhen	1
+清算黑暗炎之剑	qing suan hei an yan zhi jian	1
+晴天鳅鳅	qing tian qiu qiu	1
+青墟浦	qing xu pu	1
+庆云顶	qing yun ding	1
+琼玑野	qiong ji ye	1
+琼屏千扇正天衡	qiong ping qian shan zheng tian heng	1
+丘丘暴徒	qiu qiu bao tu	1
+丘丘部族	qiu qiu bu zu	1
+丘丘雷兜王	qiu qiu lei dou wang	1
+丘丘人	qiu qiu ren	1
+丘丘人弓箭手	qiu qiu ren gong jian shou	1
+丘丘萨满	qiu qiu sa man	1
+丘丘射手	qiu qiu she shou	1
+丘丘霜铠王	qiu qiu shuang kai wang	1
+丘丘王	qiu qiu wang	1
+曲径通幽之处	qu jing tong you zhi chu	1
+全能美食队	quan neng mei shi dui	1
+拳术家	quan shu jia	1
+群星涡风	qun xing wo feng	1
+燃烧状态	ran shao zhuang tai	1
+染血骑士道	ran xue qi shi dao	1
+热情不灭	re qing bu mie	1
+热情复燃	re qing fu ran	1
+热情过载	re qing guo zai	1
+人物池	ren wu chi	1
+日落鲷鱼烧	ri luo diao yu shao	1
+融化反应	rong hua fan ying	1
+熔毁之翼	rong hui zhi yi	1
+如雷盛怒	ru lei sheng nu	1
+如梦如电隽永	ru meng ru dian juan yong	1
+若雷结界	ruo lei jie jie	1
+若雷石	ruo lei shi	1
+若陀龙王	ruo tuo long wang	1
+若竹煮	ruo zhu zhu	1
+赛诺	sai nuo	1
+塞西莉亚花	sai xi li ya hua	1
+塞西莉亚苗圃	sai xi li ya miao pu	1
+散兵	san bing	1
+三彩团子	san cai tuan zi	1
+三奉行	san feng xing	1
+三清铃座	san qing ling zuo	1
+三森铃子	san sen ling zi	1
+三眼五显仙人	san yan wu xian xian ren	1
+森田成一	sen tian cheng yi	1
+砂流之庭	sha liu zhi ting	1
+沙漏座	sha lou zuo	1
+砂糖	sha tang	1
+珊瑚宫	shan hu gong	1
+珊瑚宫心海	shan hu gong xin hai	1
+珊瑚宫之纹	shan hu gong zhi wen	1
+闪耀偶像	shan yao ou xiang	1
+闪耀奇迹	shan yao qi ji	1
+闪耀协奏	shan yao xie zou	1
+上田丽奈	shang tian li nai	1
+韶光抚月	shao guang fu yue	1
+烧瓶座	shao ping zuo	1
+社奉行	she feng xing	1
+涉过未知雷云	she guo wei zhi lei yun	1
+蛇环座	she huan zuo	1
+蛇神之首	she shen zhi shou	1
+神变恶曜开眼	shen bian e yao kai yan	1
+神代射术	shen dai she shu	1
+深境螺旋	shen jing luo xuan	1
+神里家	shen li jia	1
+神里绫华	shen li ling hua	1
+神里流冰华	shen li liu bing hua	1
+神里流霜灭	shen li liu shuang mie	1
+神里流霞步	shen li liu xia bu	1
+神里流霰步	shen li liu xian bu	1
+神里之纹	shen li zhi wen	1
+深林狸囃子	shen lin li za zi	1
+深潜者	shen qian zhe	1
+神射手之誓	shen she shou zhi shi	1
+神瞳	shen tong	1
+神瞳感应石	shen tong gan ying shi	1
+神通空中自在法	shen tong kong zhong zi zai fa	1
+神无冢	shen wu zhong	1
+神无冢踏鞴砂	shen wu zhong ta bei sha	1
+神樱	shen ying	1
+神樱大祓	shen ying da fu	1
+神樱眷顾	shen ying juan gu	1
+深渊法师	shen yuan fa shi	1
+深渊使徒	shen yuan shi tu	1
+深渊咏者	shen yuan yong zhe	1
+神之眼	shen zhi yan	1
+神铸定轨	shen zhu ding gui	1
+神铸赋形	shen zhu fu xing	1
+圣裁影羽	sheng cai ying yu	1
+圣龛巡礼	sheng kan xun li	1
+生水要诀	sheng shui yao jue	1
+生物炼金	sheng wu lian jin	1
+式大将	shi da jiang	1
+侍奉之心	shi feng zhi xin	1
+石见舞菜香	shi jian wu cai xiang	1
+市井杂煮	shi jing za zhu	1
+史莱姆	shi lai mu	1
+释凌咏冰	shi ling yong bing	1
+石珀	shi po	1
+嗜髓蜥	shi sui xi	1
+世外洞天	shi wai dong tian	1
+时欣蕾	shi xin lei	1
+噬星魔鸦	shi xing mo ya	1
+誓言岬	shi yan jia	1
+石英大剑	shi ying da jian	1
+柿原彻也	shi yuan che ye	1
+式札	shi zha	1
+试作澹月	shi zuo dan yue	1
+试作金珀	shi zuo jin po	1
+试作星镰	shi zuo xing lian	1
+试作斩岩	shi zuo zhan yan	1
+兽骨拉面	shou gu la mian	1
+守护之心	shou hu zhi xin	1
+守护众人坚盾	shou hu zhong ren jian dun	1
+兽魂	shou hun	1
+兽境猎犬	shou jing lie quan	1
+兽境幼兽	shou jing you shou	1
+守具兵机	shou ju bing ji	1
+守桥之责	shou qiao zhi ze	1
+兽肉	shou rou	1
+曙光记	shu guang ji	1
+曙光预言	shu guang yu yan	1
+树莓水馒头	shu mei shui man tou	1
+霜见雪关扉	shuang jian xue guan fei	1
+霜杀墨染樱	shuang sha mo ran ying	1
+霜袭	shuang xi	1
+水晶矿	shui jing kuang	1
+水晶宴	shui jing yan	1
+水胖	shui pang	1
+水萨满	shui sa man	1
+水史莱姆	shui shi lai mu	1
+水巫师	shui wu shi	1
+水元素	shui yuan su	1
+水之浅唱	shui zhi qian chang	1
+顺风而行	shun feng er xing	1
+四风原典	si feng yuan dian	1
+四灵捧圣	si ling peng sheng	1
+四叶草座	si ye cao zuo	1
+松冈祯丞	song gang zhen cheng	1
+宋媛媛	song yuan yuan	1
+苏子芜	su zi wu	1
+碎冰反应	sui bing fan ying	1
+孙晔	sun ye	1
+锁国令	suo guo ling	1
+索拉雅	suo la ya	1
+踏鞴物语	ta bei wu yu	1
+踏破绝境	ta po jue jing	1
+唐夙凌	tang su ling	1
+唐雅菁	tang ya jing	1
+陶典	tao dian	1
+讨龙英杰谭	tao long ying jie tan	1
+藤田茜	teng tian qian	1
+藤纹陆鳗鳗	teng wen lu man man	1
+薙草之稻光	ti cao zhi dao guang	1
+提神醒脑披萨	ti shen xing nao pi sa	1
+提瓦特大陆	ti wa te da lu	1
+提瓦特煎蛋	ti wa te jian dan	1
+田村由香里	tian cun you xiang li	1
+天地刚风	tian di gang feng	1
+天地万象	tian di wan xiang	1
+天赋培养	tian fu pei yang	1
+天赋培养素材	tian fu pei yang su cai	1
+天赋书	tian fu shu	1
+天狗别馆	tian gou bie guan	1
+天狗咒雷金刚坏	tian gou zhou lei jin gang huai	1
+天狗咒雷雷伏	tian gou zhou lei lei fu	1
+天狗咒雷雷砾	tian gou zhou lei lei li	1
+天光的指引	tian guang de zhi yin	1
+天衡山	tian heng shan	1
+天空之傲	tian kong zhi ao	1
+天空之卷	tian kong zhi juan	1
+天空之刃	tian kong zhi ren	1
+天空之翼	tian kong zhi yi	1
+天领奉行	tian ling feng xing	1
+天目影打刀	tian mu ying da dao	1
+天青现虹	tian qing xian hong	1
+天遒谷	tian qiu gu	1
+天权崩玉	tian quan beng yu	1
+天权星	tian quan xing	1
+甜甜花	tian tian hua	1
+甜甜花鳉	tian tian hua jiang	1
+甜甜花酿鸡	tian tian hua niang ji	1
+天下人之章	tian xia ren zhi zhang	1
+甜虾寿司	tian xia shou si	1
+田中理惠	tian zhong li hui	1
+天坠之	tian zhui zhi	1
+铁蜂刺	tie feng ci	1
+铁尖枪	tie jian qiang	1
+铁影阔剑	tie ying kuo jian	1
+霆霓快雨	ting ni kuai yu	1
+听凭风引	ting ping feng yin	1
+头晕回避术改	tou yun hui bi shu gai	1
+兔兔伯爵	tu tu bo jue	1
+托马	tuo ma	1
+外景锚点	wai jing mao dian	1
+万国诸海图谱	wan guo zhu hai tu pu	1
+万华之月	wan hua zhi yue	1
+万籁协奏	wan lai xie zou	1
+万民百味	wan min bai wei	1
+万民堂	wan min tang	1
+万民堂大厨	wan min tang da chu	1
+万千言祝之月	wan qian yan zhu zhi yue	1
+万文集此	wan wen ji ci	1
+望风角	wang feng jiao	1
+望风山地	wang feng shan di	1
+往生堂	wang sheng tang	1
+望舒客栈	wang shu ke zhan	1
+王小美	wang xiao mei	1
+王雅欣	wang ya xin	1
+威光落雷	wei guang luo lei	1
+巍然青岩	wei ran qing yan	1
+未授勋之花	wei shou xun zhi hua	1
+温迪	wen di	1
+文火慢煨	wen huo man wei	1
+文心豆腐	wen xin dou fu	1
+无锋剑	wu feng jian	1
+无工之剑	wu gong zhi jian	1
+雾海纪行	wu hai ji xing	1
+无害甜度	wu hai tian du	1
+雾海悬谜境	wu hai xuan mi jing	1
+雾海云间寻访记	wu hai yun jian xun fang ji	1
+呜呼流风隐急进	wu hu liu feng yin ji jin	1
+武火急烹	wu huo ji peng	1
+无尽霜舞	wu jin shuang wu	1
+五郎	wu lang	1
+武器池	wu qi chi	1
+武器池子	wu qi chi zi	1
+武器突破	wu qi tu po	1
+雾切之巴印	wu qie zhi ba yin	1
+雾切之回光	wu qie zhi hui guang	1
+武人	wu ren	1
+无畏热血	wu wei re xue	1
+无限的电回路	wu xian de dian hui lu	1
+无想刃狭间	wu xiang ren xia jian	1
+无相元素	wu xiang yuan su	1
+无相之冰	wu xiang zhi bing	1
+无相之风	wu xiang zhi feng	1
+无相之火	wu xiang zhi huo	1
+无相之雷	wu xiang zhi lei	1
+无相之水	wu xiang zhi shui	1
+乌羽	wu yu	1
+乌羽护持	wu yu hu chi	1
+物泽	wu ze	1
+武者宿命	wu zhe su ming	1
+喜多村英梨	xi duo cun ying li	1
+喜多院十文字	xi duo yuan shi wen zi	1
+西风长枪	xi feng chang qiang	1
+西风吹拂之时	xi feng chui fu zhi shi	1
+西风大剑	xi feng da jian	1
+西风剑	xi feng jian	1
+西风剑术	xi feng jian shu	1
+西风教会	xi feng jiao hui	1
+西风猎弓	xi feng lie gong	1
+西风秘典	xi feng mi dian	1
+西风骑士团	xi feng qi shi tuan	1
+熄灭状态	xi mie zhuang tai	1
+昔日绯月	xi ri fei yue	1
+昔日宗室之仪	xi ri zong shi zhi yi	1
+蜥蜴尾巴	xi yi wei ba	1
+夏祭女王	xia ji nv wang	1
+夏祭游鱼	xia ji you yu	1
+匣里龙吟	xia li long yin	1
+匣里灭辰	xia li mie chen	1
+匣里日月	xia li ri yue	1
+弦发苍风	xian fa cang feng	1
+险峻重岩	xian jun chong yan	1
+险路座	xian lu zuo	1
+先遣队	xian qian dui	1
+线圈	xian quan	1
+鲜鱼炖萝卜	xian yu dun luo bo	1
+先阵之月	xian zhen zhi yue	1
+衔珠海皇	xian zhu hai huang	1
+香菱	xiang ling	1
+降魔大圣	xiang mo da sheng	1
+降魔平妖大圣	xiang mo ping yao da sheng	1
+相遇之缘	xiang yu zhi yuan	1
+小艾咪	xiao ai mi	1
+小灯草	xiao deng cao	1
+宵宫	xiao gong	1
+小狼座	xiao lang zuo	1
+小清水亚美	xiao qing shui ya mei	1
+小兔座	xiao tu zuo	1
+小舞	xiao wu	1
+咲耶花屋	xiao ye hua wu	1
+小野贤章	xiao ye xian zhang	1
+小原好美	xiao yuan hao mei	1
+小泽亚李	xiao ze ya li	1
+蟹黄火腿焗时蔬	xie huang huo tui ju shi shu	1
+蟹黄壳壳烧	xie huang ke ke shao	1
+邪眼	xie yan	1
+谢莹	xie ying	1
+心护座	xin hu zuo	1
+信使	xin shi	1
+新手长枪	xin shou chang qiang	1
+辛焱	xin yan	1
+星尘	xing chen	1
+星螺	xing luo	1
+星罗宿列天权临	xing luo su lie tian quan lin	1
+行秋	xing qiu	1
+杏仁豆腐	xing ren dou fu	1
+星天水镜	xing tian shui jing	1
+星移势转	xing yi shi zhuan	1
+星银矿	xing yin kuang	1
+星陨剑	xing yun jian	1
+行者之心	xing zhe zhi xin	1
+星之归还	xing zhi gui huan	1
+朽裂之庚牌	xiu lie zhi geng pai	1
+绪风之拥	xu feng zhi yong	1
+蓄力攻击	xu li gong ji	1
+须弥	xu mi	1
+须弥教令院	xu mi jiao ling yuan	1
+墟散人离之处	xu san ren li zhi chu	1
+虚实工笔	xu shi gong bi	1
+虚实流动	xu shi liu dong	1
+玄此玉田	xuan ci yu tian	1
+旋风女仆	xuan feng nv pu	1
+旋火轮	xuan huo lun	1
+璇玑合璧镇昆仑	xuan ji he bi zhen kun lun	1
+璇玑屏	xuan ji ping	1
+漩涡落星与冰山	xuan wo luo xing yu bing shan	1
+悬星尽散击云碎	xuan xing jin san ji yun sui	1
+雪鹤之章	xue he zhi zhang	1
+雪融有踪	xue rong you zong	1
+学徒笔记	xue tu bi ji	1
+血战之人	xue zhan zhi ren	1
+雪中君	xue zhong jun	1
+寻宝罗盘	xun bao luo pan	1
+训练大剑	xun lian da jian	1
+熏禽肉	xun qin rou	1
+寻食之旅	xun shi zhi lv	1
+寻找遗迹石碑	xun zhao yi ji shi bei	1
+寻找遗迹圆盘	xun zhao yi ji yuan pan	1
+鸦羽弓	ya yu gong	1
+压制射击	ya zhi she ji	1
+岩潮叠嶂	yan chao die zhang	1
+胭儿	yan er	1
+烟绯	yan fei	1
+岩神像	yan shen xiang	1
+岩史莱姆	yan shi lai mu	1
+眼狩令	yan shou ling	1
+岩王帝君	yan wang di jun	1
+焰硝庭火舞	yan xiao ting huo wu	1
+严艺楠	yan yi nan	1
+岩元素	yan yuan su	1
+掩月天权	yan yue tian quan	1
+岩之龙蜥	yan zhi long xi	1
+言祝	yan zhu	1
+杨梦露	yang meng lu	1
+杨昕燃	yang xin ran	1
+瑶光滩	yao guang tan	1
+药剂通识	yao ji tong shi	1
+妖狸	yao li	1
+姚彦泽	yao yan ze	1
+野岛健儿	ye dao jian er	1
+野伏火付番	ye fu huo fu fan	1
+野伏机巧番	ye fu ji qiao fan	1
+野伏阵刀番	ye fu zhen dao fan	1
+野伏众	ye fu zhong	1
+野菇鸡肉串	ye gu ji rou chuan	1
+谒索雷痕	ye suo lei hen	1
+夜枭座	ye xiao zuo	1
+夜巡影翼	ye xun ying yi	1
+伊安珊	yi an shan	1
+异邦铁风	yi bang tie feng	1
+异邦岩峰	yi bang yan feng	1
+仪典剑术	yi dian jian shu	1
+异国披萨	yi guo pi sa	1
+遗迹地下室	yi ji di xia shi	1
+遗迹防卫者	yi ji fang wei zhe	1
+遗迹歼击者	yi ji jian ji zhe	1
+遗迹猎手	yi ji lie shou	1
+遗迹守卫	yi ji shou wei	1
+遗迹巡弋者	yi ji xun yi zhe	1
+遗迹侦察者	yi ji zhen cha zhe	1
+遗迹重机	yi ji zhong ji	1
+一箭双丘丘	yi jian shuang qiu qiu	1
+仪来羽衣	yi lai yu yi	1
+异世界行记	yi shi jie xing ji	1
+异世相逢	yi shi xiang feng	1
+医樱	yi ying	1
+异种魔兽	yi zhong mo shou	1
+隐藏药剂	yin cang yao ji	1
+引蝶座	yin die zuo	1
+银剑	yin jian	1
+引路明星	yin lu ming xing	1
+隐兽指爪	yin shou zhi zhao	1
+胤种	yin zhong	1
+硬皮药剂	ying pi yao ji	1
+萤术士	ying shu shi	1
+映天座	ying tian zuo	1
+影向祓行	ying xiang fu xing	1
+鹰翔海滩	ying xiang hai tan	1
+影向役者三人众	ying xiang yi zhe san ren zhong	1
+影照浮世风流	ying zhao fu shi feng liu	1
+鹰之门	ying zhi men	1
+佣兵重剑	yong bing zhong jian	1
+永不休止	yong bu xiu zhi	1
+永世磐岩	yong shi pan yan	1
+永夜之禽	yong ye zhi qin	1
+勇者之心	yong zhe zhi xin	1
+幽灯蕈	you deng xun	1
+悠古磐岩	you gu pan yan	1
+优菈	you la	1
+悠木碧	you mu bi	1
+幼狮座	you shi zuo	1
+幽邃鸦眼	you sui ya yan	1
+幼岩龙蜥	you yan long xi	1
+雨裁	yu cai	1
+鱼冻	yu dong	1
+羽冠	yu guan	1
+玉衡星	yu heng xing	1
+渔获	yu huo	1
+御伽木	yu jia mu	1
+雨帘剑	yu lian jian	1
+鱼龙护体	yu long hu ti	1
+雨奇晴好	yu qi qing hao	1
+渔人吐司	yu ren tu si	1
+愚人众	yu ren zhong	1
+愚人众藏镜仕女	yu ren zhong cang jing shi nv	1
+愚人众先遣队	yu ren zhong xian qian dui	1
+愚人众执行官	yu ren zhong zhi xing guan	1
+御三家	yu san jia	1
+羽扇枫	yu shan feng	1
+雨深闭门	yu shen bi men	1
+远海夷地的玉枝	yuan hai yi di de yu zhi	1
+元鸿老头	yuan hong lao tou	1
+远吕羽氏遗事	yuan lv yu shi yi shi	1
+元气迸发	yuan qi beng fa	1
+渊色黑翼	yuan se hei yi	1
+原石	yuan shi	1
+元素低潮	yuan su di chao	1
+元素晶球	yuan su jing qiu	1
+元素满潮	yuan su man chao	1
+元素生命	yuan su sheng ming	1
+元素藤蔓	yuan su teng wan	1
+元素微粒	yuan su wei li	1
+元素之印	yuan su zhi yin	1
+元素转化	yuan su zhuan hua	1
+渊月祝福	yuan yue zhu fu	1
+月光鳍	yue guang qi	1
+钺矛	yue mao	1
+月浴之渊	yue yu zhi yuan	1
+云尽光生	yun jin guang sheng	1
+云来海	yun lai hai	1
+畠中祐	zai zhong you	1
+栽种之法	zai zhong zhi fa	1
+早见沙织	zao jian sha zhi	1
+早柚	zao you	1
+泽城美雪	ze cheng mei xue	1
+增谷康纪	zeng gu kang ji	1
+炸萝卜丸子	zha luo bo wan zi	1
+斋藤千和	zhai teng qian he	1
+摘星崖	zhai xing ya	1
+斩草	zhan cao	1
+张沛	zhang pei	1
+张亚珠	zhang ya zhu	1
+昭告黎明火之鸟	zhao gao li ming huo zhi niao	1
+昭心	zhao xin	1
+侦察骑士	zhen cha qi shi	1
+侦查骑士烤肉	zhen cha qi shi kao rou	1
+阵代屋敷	zhen dai wu fu	1
+真道正理	zhen dao zheng li	1
+真红炽火之大铠	zhen hong chi huo zhi da kai	1
+鸩棘鱼	zhen ji yu	1
+镇守之森	zhen shou zhi sen	1
+珍珠纪行	zhen zhu ji xing	1
+珍珠之歌	zhen zhu zhi ge	1
+蒸发反应	zheng fa fan ying	1
+征服寒冬勇士	zheng fu han dong yong shi	1
+征涛	zheng tao	1
+志村屋	zhi cun wu	1
+至冬	zhi dong	1
+指尖雷暴	zhi jian lei bao	1
+至冷拥抱	zhi leng yong bao	1
+织诗成锦	zhi shi cheng jin	1
+智识之冕	zhi shi zhi mian	1
+植田佳奈	zhi tian jia nai	1
+执望三千里	zhi wang san qian li	1
+至夜幻现	zhi ye huan xian	1
+至夜默示录	zhi ye mo shi lu	1
+钟剑	zhong jian	1
+终竟花海	zhong jing hua hai	1
+钟可	zhong ke	1
+钟离	zhong li	1
+重帘留香	zhong lian liu xiang	1
+终末番	zhong mo fan	1
+终末嗟叹之诗	zhong mo jie tan zhi shi	1
+终天闭幕曲	zhong tian bi mu qu	1
+重云	zhong yun	1
+洲崎绫	zhou qi ling	1
+周帅	zhou shuai	1
+周天运转	zhou tian yun zhuan	1
+咒阵	zhou zhen	1
+诸国游记	zhu guo you ji	1
+祝圣秘境	zhu sheng mi jing	1
+祝圣油膏	zhu sheng you gao	1
+诸愿百眼之轮	zhu yuan bai yan zhi lun	1
+逐月节	zhu yue jie	1
+爪爪土豆饼	zhua zhua tu dou bing	1
+庄园烤松饼	zhuang yuan kao song bing	1
+庄子裕衣	zhuang zi yu yi	1
+坠星山谷	zhui xing shan gu	1
+追忆之注连	zhui yi zhi zhu lian	1
+捉浪	zhuo lang	1
+斫雷	zhuo lei	1
+卓越血脉	zhuo yue xue mai	1
+自律机关	zi lv ji guan	1
+紫色四星	zi se si xing	1
+自由凛风	zi you lin feng	1
+宗室长弓	zong shi chang gong	1
+宗室长剑	zong shi chang jian	1
+宗室大剑	zong shi da jian	1
+宗室秘法录	zong shi mi fa lu	1
+罪罚裁断	zui fa cai duan	1
+罪灭之矢	zui mie zhi shi	1
+佐仓绫音	zuo cang ling yin	1
+佐藤利奈	zuo teng li nai	1

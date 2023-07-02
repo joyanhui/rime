@@ -1,0 +1,4614 @@
+阿吉斯公司	a ji si gong si	1
+阿瓦山寨	a wa shan zhai	1
+阿依莲	a yi lian	1
+爱家超市	ai jia chao shi	1
+爱佳家居广场	ai jia jia ju guang chang	1
+艾家庄	ai jia zhuang	1
+艾洼	ai wa	1
+艾洼村	ai wa cun	1
+艾洼村委	ai wa cun wei	1
+爱心慈善超市	ai xin ci shan chao shi	1
+安村	an cun	1
+安家海	an jia hai	1
+安家林村	an jia lin cun	1
+安家崖	an jia ya	1
+安家庄	an jia zhuang	1
+安家庄村	an jia zhuang cun	1
+安驾庄镇	an jia zhuang zhen	1
+安驾庄镇政府	an jia zhuang zhen zheng fu	1
+安乐村	an le cun	1
+安乐庄村	an le zhuang cun	1
+安临站镇	an lin zhan zhen	1
+安刘村	an liu cun	1
+安能公司	an neng gong si	1
+安全村	an quan cun	1
+庵上村	an shang cun	1
+安顺加油站	an shun jia you zhan	1
+安泰宾馆	an tai bin guan	1
+安信公司	an xin gong si	1
+安庄村	an zhuang cun	1
+安子	an zi	1
+安子村	an zi cun	1
+安子沟	an zi gou	1
+安子沟村	an zi gou cun	1
+安子口	an zi kou	1
+安子岭	an zi ling	1
+傲徕峰	ao lai feng	1
+傲徕峰路南段	ao lai feng lu nan duan	1
+岙山村	ao shan cun	1
+岙山东村	ao shan dong cun	1
+傲饰集团	ao shi ji tuan	1
+岙阴村	ao yin cun	1
+鏊子山	ao zi shan	1
+八大村	ba da cun	1
+八道岭村	ba dao ling cun	1
+坝后	ba hou	1
+八里庙村	ba li miao cun	1
+八里湾村	ba li wan cun	1
+八里峪	ba li yu	1
+八里庄	ba li zhuang	1
+八里庄村	ba li zhuang cun	1
+八亩地村	ba mu di cun	1
+坝前	ba qian	1
+拔山	ba shan	1
+八十八医院	ba shi ba yi yuan	1
+八石山	ba shi shan	1
+巴蜀传说	ba shu chuan shuo	1
+八仙洞	ba xian dong	1
+八仙桥	ba xian qiao	1
+八一宾馆	ba yi bin guan	1
+白草山	bai cao shan	1
+白佛山	bai fo shan	1
+百福图村	bai fu tu cun	1
+白鹤泉	bai he quan	1
+百货超市	bai huo chao shi	1
+百货大楼	bai huo da lou	1
+柏家村	bai jia cun	1
+白家河	bai jia he	1
+白家楼村	bai jia lou cun	1
+柏家庄	bai jia zhuang	1
+白家庄	bai jia zhuang	1
+白家庄村	bai jia zhuang cun	1
+柏角峪	bai jiao yu	1
+白马庙村	bai ma miao cun	1
+白马石村	bai ma shi cun	1
+白马石村东	bai ma shi cun dong	1
+白马石社区	bai ma shi she qu	1
+白马寺	bai ma si	1
+白庙村	bai miao cun	1
+百墓山	bai mu shan	1
+白山	bai shan	1
+白石头	bai shi tou	1
+白塔寺村	bai ta si cun	1
+白塘	bai tang	1
+白土厂村	bai tu chang cun	1
+白屯村	bai tun cun	1
+百信大药店	bai xin da yao dian	1
+百姓浴池	bai xing yu chi	1
+白杨沟	bai yang gou	1
+白杨沟村	bai yang gou cun	1
+白窑	bai yao	1
+白窑村	bai yao cun	1
+白峪店子村	bai yu dian zi cun	1
+白云村	bai yun cun	1
+白云山小区	bai yun shan xiao qu	1
+白云寺村	bai yun si cun	1
+白庄	bai zhuang	1
+白庄村	bai zhuang cun	1
+柏子村	bai zi cun	1
+搬倒井	ban dao jing	1
+搬倒井村	ban dao jing cun	1
+斑鸠店镇	ban jiu dian zhen	1
+板桥子	ban qiao zi	1
+梆子沟	bang zi gou	1
+梆子峪	bang zi yu	1
+保安村	bao an cun	1
+保安庄村	bao an zhuang cun	1
+鲍家屯	bao jia tun	1
+鲍家庄	bao jia zhuang	1
+宝来利来	bao lai li lai	1
+宝龙城市广场	bao long cheng shi guang chang	1
+宝龙社区	bao long she qu	1
+保全村	bao quan cun	1
+宝泉村	bao quan cun	1
+宝泉寺	bao quan si	1
+宝泉庄村	bao quan zhuang cun	1
+宝盛大酒店	bao sheng da jiu dian	1
+宝石大酒店	bao shi da jiu dian	1
+堡头村	bao tou cun	1
+鲍屯	bao tun	1
+鲍音村	bao yin cun	1
+宝峪	bao yu	1
+鲍庄村	bao zhuang cun	1
+北安村	bei an cun	1
+北白楼村	bei bai lou cun	1
+北鲍村	bei bao cun	1
+北鄙村	bei bi cun	1
+北冰洋宾馆	bei bing yang bin guan	1
+北冰洋大酒店	bei bing yang da jiu dian	1
+北场村	bei chang cun	1
+北陈村	bei chen cun	1
+北陈新村	bei chen xin cun	1
+北城子村	bei cheng zi cun	1
+北池	bei chi	1
+北仇村	bei chou cun	1
+北臭泉村	bei chou quan cun	1
+北大留村	bei da liu cun	1
+北大吴村	bei da wu cun	1
+北代村	bei dai cun	1
+北店村	bei dian cun	1
+北店子	bei dian zi	1
+北店子村	bei dian zi cun	1
+北洞	bei dong	1
+北高家庄村	bei gao jia zhuang cun	1
+北高余村	bei gao yu cun	1
+北沟	bei gou	1
+北沟头村	bei gou tou cun	1
+北故城村	bei gu cheng cun	1
+北古店村	bei gu dian cun	1
+北谷庄	bei gu zhuang	1
+北关村	bei guan cun	1
+北关市场	bei guan shi chang	1
+北关小学	bei guan xiao xue	1
+北官庄村	bei guan zhuang cun	1
+北河东村	bei he dong cun	1
+北河西村	bei he xi cun	1
+北河庄村	bei he zhuang cun	1
+北侯村	bei hou cun	1
+北湖村	bei hu cun	1
+北胡庄	bei hu zhuang	1
+北黄村	bei huang cun	1
+北吉城村	bei ji cheng cun	1
+北集坡镇	bei ji po zhen	1
+北京汇源集团	bei jing hui yuan ji tuan	1
+北李家庄	bei li jia zhuang	1
+北李庄	bei li zhuang	1
+北李庄村	bei li zhuang cun	1
+北岭	bei ling	1
+北留村	bei liu cun	1
+北刘家村	bei liu jia cun	1
+北流泉村	bei liu quan cun	1
+北刘庄村	bei liu zhuang cun	1
+北栾村	bei luan cun	1
+北吕村	bei lv cun	1
+北满庄村	bei man zhuang cun	1
+北孟庄村	bei meng zhuang cun	1
+北坡	bei po	1
+北坡村	bei po cun	1
+北桥	bei qiao	1
+北桥村	bei qiao cun	1
+北邱村	bei qiu cun	1
+北山村	bei shan cun	1
+北山根	bei shan gen	1
+北山庄	bei shan zhuang	1
+北上高村	bei shang gao cun	1
+北上高小区	bei shang gao xiao qu	1
+北上庄村	bei shang zhuang cun	1
+北石槽	bei shi cao	1
+北石沟村	bei shi gou cun	1
+北双村	bei shuang cun	1
+北水峪	bei shui yu	1
+北宋村	bei song cun	1
+北孙家庄村	bei sun jia zhuang cun	1
+北台	bei tai	1
+北坦	bei tan	1
+北腾村	bei teng cun	1
+北天门大街西段	bei tian men da jie xi duan	1
+北洼	bei wa	1
+北望村	bei wang cun	1
+北王村	bei wang cun	1
+北王家庄村	bei wang jia zhuang cun	1
+北王庄村	bei wang zhuang cun	1
+北韦村	bei wei cun	1
+北窝	bei wo	1
+北西遥村	bei xi yao cun	1
+北小王庄	bei xiao wang zhuang	1
+北新村	bei xin cun	1
+北辛村	bei xin cun	1
+北新庄	bei xin zhuang	1
+北辛庄	bei xin zhuang	1
+北邢家寨	bei xing jia zhai	1
+北许村	bei xu cun	1
+北崖头	bei ya tou	1
+北杨村	bei yang cun	1
+北杨庄村	bei yang zhuang cun	1
+北冶村	bei ye cun	1
+北仪仙村	bei yi xian cun	1
+北峪村	bei yu cun	1
+北苑宾馆	bei yuan bin guan	1
+北寨	bei zhai	1
+北宅村	bei zhai cun	1
+北寨村	bei zhai cun	1
+北站村	bei zhan cun	1
+北张村	bei zhang cun	1
+北张家庄村	bei zhang jia zhuang cun	1
+北张庄村	bei zhang zhuang cun	1
+北赵庄	bei zhao zhuang	1
+北赵庄村	bei zhao zhuang cun	1
+北庄	bei zhuang	1
+北庄村	bei zhuang cun	1
+北庄子村	bei zhuang zi cun	1
+碧霞祠	bi xia ci	1
+毕庄村	bi zhuang cun	1
+篦子店	bi zi dian	1
+篦子店村南	bi zi dian cun nan	1
+边家庄村	bian jia zhuang cun	1
+边院镇	bian yuan zhen	1
+卞庄村	bian zhuang cun	1
+彬伊奴	bin yi nu	1
+鹁鸽楼	bo ge lou	1
+鹁鸽崖	bo ge ya	1
+簸箕山	bo ji shan	1
+簸箕掌	bo ji zhang	1
+博士眼镜店	bo shi yan jing dian	1
+博元纸业	bo yuan zhi ye	1
+卜家岭	bu jia ling	1
+不见不散	bu jian bu san	1
+卜楼村	bu lou cun	1
+埠南村	bu nan cun	1
+埠前村	bu qian cun	1
+布山	bu shan	1
+埠上村	bu shang cun	1
+步天桥	bu tian qiao	1
+埠阳庄	bu yang zhuang	1
+布衣侯粥道馆	bu yi hou zhou dao guan	1
+埠子	bu zi	1
+蔡村	cai cun	1
+彩虹花园	cai hong hua yuan	1
+蔡家沟	cai jia gou	1
+蔡家庄	cai jia zhuang	1
+彩山	cai shan	1
+彩山村	cai shan cun	1
+彩山水库	cai shan shui ku	1
+财神庙	cai shen miao	1
+财兴街东段	cai xing jie dong duan	1
+财兴街中段	cai xing jie zhong duan	1
+财源	cai yuan	1
+财源小学	cai yuan xiao xue	1
+财政局	cai zheng ju	1
+蔡庄	cai zhuang	1
+蚕子峪	can zi yu	1
+草泊	cao bo	1
+草茨村	cao ci cun	1
+曹村	cao cun	1
+漕河村	cao he cun	1
+曹家村	cao jia cun	1
+曹家村小区	cao jia cun xiao qu	1
+曹家坪村	cao jia ping cun	1
+曹家寨村	cao jia zhai cun	1
+曹家庄	cao jia zhuang	1
+曹家庄村	cao jia zhuang cun	1
+曹庙村	cao miao cun	1
+草山坡	cao shan po	1
+草寺村	cao si cun	1
+曹寨村	cao zhai cun	1
+曹庄	cao zhuang	1
+曹庄村	cao zhuang cun	1
+曹庄矿宿舍	cao zhuang kuang su she	1
+曾庙村	ceng miao cun	1
+岔河村	cha he cun	1
+茶棚	cha peng	1
+茶山	cha shan	1
+茶石峪	cha shi yu	1
+茶叶庄	cha ye zhuang	1
+查庄村	cha zhuang cun	1
+岔子沟	cha zi gou	1
+柴家庄	chai jia zhuang	1
+柴汶河	chai wen he	1
+柴汶河大桥	chai wen he da qiao	1
+柴庄村	chai zhuang cun	1
+长安宾馆	chang an bin guan	1
+长安村	chang an cun	1
+长安山	chang an shan	1
+长城宾馆	chang cheng bin guan	1
+长城加油站	chang cheng jia you zhan	1
+长城岭	chang cheng ling	1
+长城路	chang cheng lu	1
+长城路十二号街	chang cheng lu shi er hao jie	1
+长城铁路立交桥	chang cheng tie lu li jiao qiao	1
+长城西路	chang cheng xi lu	1
+长城中学	chang cheng zhong xue	1
+长春饭店	chang chun fan dian	1
+常家屯村	chang jia tun cun	1
+常家庄	chang jia zhuang	1
+常家庄村	chang jia zhuang cun	1
+长江电器	chang jiang dian qi	1
+长岭	chang ling	1
+常庙村	chang miao cun	1
+长山	chang shan	1
+长山后	chang shan hou	1
+常山庄	chang shan zhuang	1
+长山子	chang shan zi	1
+长途汽车站	chang tu qi che zhan	1
+长兴村	chang xing cun	1
+常庄	chang zhuang	1
+常庄村	chang zhuang cun	1
+潮泉镇	chao quan zhen	1
+潮泉中学	chao quan zhong xue	1
+车家岭	che jia ling	1
+车庙村	che miao cun	1
+车往峪村	che wang yu cun	1
+车箱	che xiang	1
+车阳村	che yang cun	1
+车庄	che zhuang	1
+车庄村	che zhuang cun	1
+陈堤村	chen di cun	1
+陈店村	chen dian cun	1
+陈坊村	chen fang cun	1
+陈家埠村	chen jia bu cun	1
+陈家店	chen jia dian	1
+陈家店村	chen jia dian cun	1
+陈家沟	chen jia gou	1
+陈家沟村	chen jia gou cun	1
+陈家街	chen jia jie	1
+陈家岭	chen jia ling	1
+陈家楼	chen jia lou	1
+陈家楼村	chen jia lou cun	1
+陈家庙村	chen jia miao cun	1
+陈家台	chen jia tai	1
+陈家洼	chen jia wa	1
+陈家小庄	chen jia xiao zhuang	1
+陈家行村	chen jia xing cun	1
+陈家峪	chen jia yu	1
+陈家园	chen jia yuan	1
+陈家庄	chen jia zhuang	1
+陈家庄村	chen jia zhuang cun	1
+陈粮村	chen liang cun	1
+陈良村	chen liang cun	1
+陈良庄	chen liang zhuang	1
+陈刘村	chen liu cun	1
+陈流泽村	chen liu ze cun	1
+陈楼	chen lou	1
+陈楼村	chen lou cun	1
+陈圈村	chen quan cun	1
+陈山	chen shan	1
+陈山口村	chen shan kou cun	1
+陈洼村	chen wa cun	1
+陈小庄	chen xiao zhuang	1
+陈辛庄村	chen xin zhuang cun	1
+陈园	chen yuan	1
+陈庄	chen zhuang	1
+陈庄村	chen zhuang cun	1
+程村	cheng cun	1
+城东村	cheng dong cun	1
+城关派出所	cheng guan pai chu suo	1
+程家沟	cheng jia gou	1
+程家岭	cheng jia ling	1
+程家峪村	cheng jia yu cun	1
+程家庄	cheng jia zhuang	1
+程家庄村	cheng jia zhuang cun	1
+城建大楼	cheng jian da lou	1
+城角	cheng jiao	1
+城南村	cheng nan cun	1
+城前村	cheng qian cun	1
+城区热力	cheng qu re li	1
+城市湿地公园	cheng shi shi di gong yuan	1
+诚信宾馆	cheng xin bin guan	1
+程庄村	cheng zhuang cun	1
+池家沟	chi jia gou	1
+池家峪	chi jia yu	1
+池口	chi kou	1
+齿轮箱厂	chi lun xiang chang	1
+池子崖	chi zi ya	1
+崇本庄村	chong ben zhuang cun	1
+出入口	chu ru kou	1
+褚庄	chu zhuang	1
+川骄火锅城	chuan jiao huo guo cheng	1
+传输局	chuan shu ju	1
+传统永和豆浆	chuan tong yong he dou jiang	1
+创业大街西首	chuang ye da jie xi shou	1
+春光旅馆	chun guang lv guan	1
+春升大厦	chun sheng da sha	1
+椿树沟	chun shu gou	1
+春天城市花园	chun tian cheng shi hua yuan	1
+春天服饰广场	chun tian fu shi guang chang	1
+春晓国际幼儿园	chun xiao guo ji you er yuan	1
+春雨幼儿园	chun yu you er yuan	1
+雌山	ci shan	1
+雌山村	ci shan cun	1
+慈心医院	ci xin yi yuan	1
+磁窑镇	ci yao zhen	1
+徂徕村	cu lai cun	1
+徂徕山	cu lai shan	1
+徂徕山林场	cu lai shan lin chang	1
+徂徕镇	cu lai zhen	1
+崔村	cui cun	1
+崔家沟	cui jia gou	1
+崔家河村	cui jia he cun	1
+崔家庄村	cui jia zhuang cun	1
+崔山	cui shan	1
+大安	da an	1
+大安村	da an cun	1
+大安家	da an jia	1
+大安山村	da an shan cun	1
+大安庄村	da an zhuang cun	1
+大白峪	da bai yu	1
+大北山	da bei shan	1
+大伯集村	da bo ji cun	1
+大地村	da di cun	1
+大地美食城	da di mei shi cheng	1
+大顶	da ding	1
+大董家庄	da dong jia zhuang	1
+大东门村	da dong men cun	1
+大董庄	da dong zhuang	1
+大东庄村	da dong zhuang cun	1
+大董庄村	da dong zhuang cun	1
+大陡山村	da dou shan cun	1
+大凡神农	da fan shen nong	1
+大佛寺	da fo si	1
+大佛寺村	da fo si cun	1
+达芙妮	da fu ni	1
+大福源超市	da fu yuan chao shi	1
+大港村	da gang cun	1
+大高庄村	da gao zhuang cun	1
+大庚玻纤	da geng bo xian	1
+大沟村	da gou cun	1
+大沟桥村	da gou qiao cun	1
+大沟头村	da gou tou cun	1
+大沟巷	da gou xiang	1
+大鼓山	da gu shan	1
+大官庄	da guan zhuang	1
+大官庄村	da guan zhuang cun	1
+大海山	da hai shan	1
+大河北	da he bei	1
+大河村	da he cun	1
+大河东村	da he dong cun	1
+大河口	da he kou	1
+大河桥	da he qiao	1
+大河水库	da he shui ku	1
+大河站	da he zhan	1
+大河庄	da he zhuang	1
+大和庄村	da he zhuang cun	1
+大横岭	da heng ling	1
+大横山	da heng shan	1
+大红山	da hong shan	1
+大侯村	da hou cun	1
+大侯庄村	da hou zhuang cun	1
+大胡村	da hu cun	1
+大胡庄村	da hu zhuang cun	1
+大华宾馆	da hua bin guan	1
+大槐树村	da huai shu cun	1
+大津口乡	da jin kou xiang	1
+大井	da jing	1
+大井村	da jing cun	1
+大兰沃村	da lan wo cun	1
+大涝沟	da lao gou	1
+大梁庄村	da liang zhuang cun	1
+大林村	da lin cun	1
+大岭	da ling	1
+大刘庄	da liu zhuang	1
+大刘庄村	da liu zhuang cun	1
+大娄	da lou	1
+大路山村	da lu shan cun	1
+大洛沟	da luo gou	1
+大吕庄	da lv zhuang	1
+大马庄	da ma zhuang	1
+大马庄村	da ma zhuang cun	1
+大门寨	da men zhai	1
+大孟村	da meng cun	1
+大明眼镜	da ming yan jing	1
+大磨庄村	da mo zhuang cun	1
+大牛村	da niu cun	1
+大胖涮锅	da pang shuan guo	1
+大桥村	da qiao cun	1
+大桥小区	da qiao xiao qu	1
+大桥庄村	da qiao zhuang cun	1
+大清河	da qing he	1
+大圈	da quan	1
+大泉	da quan	1
+大山头	da shan tou	1
+大山头村	da shan tou cun	1
+大山洼	da shan wa	1
+大尚村	da shang cun	1
+大上庄村	da shang zhuang cun	1
+大石关村	da shi guan cun	1
+大石铺村	da shi pu cun	1
+大石桥	da shi qiao	1
+大石桥村	da shi qiao cun	1
+大石庄	da shi zhuang	1
+大水场	da shui chang	1
+大寺	da si	1
+大寺村	da si cun	1
+大寺山村	da si shan cun	1
+大谭村	da tan cun	1
+大屯村	da tun cun	1
+大洼	da wa	1
+大洼村	da wa cun	1
+大旺村	da wang cun	1
+大王村	da wang cun	1
+大王山	da wang shan	1
+大王营村	da wang ying cun	1
+大王庄村	da wang zhuang cun	1
+大汶口文化遗址	da wen kou wen hua yi zhi	1
+大汶口站	da wen kou zhan	1
+大汶口镇	da wen kou zhen	1
+大吴村	da wu cun	1
+大武村	da wu cun	1
+大西门村	da xi men cun	1
+大西牛村	da xi niu cun	1
+大西峪村	da xi yu cun	1
+大协村	da xie cun	1
+大新村	da xin cun	1
+大辛村	da xin cun	1
+大辛庄村	da xin zhuang cun	1
+大兴加油站	da xing jia you zhan	1
+大徐庄村	da xu zhuang cun	1
+大学生书店	da xue sheng shu dian	1
+大延东村	da yan dong cun	1
+大羊乡	da yang xiang	1
+大杨庄村	da yang zhuang cun	1
+大窑沟村	da yao gou cun	1
+大药乡	da yao xiang	1
+大峪	da yu	1
+大峪村	da yu cun	1
+大寨	da zhai	1
+大寨村	da zhai cun	1
+大展庄	da zhan zhuang	1
+大张庄村	da zhang zhuang cun	1
+大赵村	da zhao cun	1
+大众桥	da zhong qiao	1
+大周村	da zhou cun	1
+大驻马村	da zhu ma cun	1
+大柱子村	da zhu zi cun	1
+大庄村	da zhuang cun	1
+岱道庵	dai dao an	1
+岱道庵小学	dai dao an xiao xue	1
+戴家沟	dai jia gou	1
+代家庄	dai jia zhuang	1
+岱家庄村	dai jia zhuang cun	1
+代金山	dai jin shan	1
+岱庙	dai miao	1
+岱庙北门	dai miao bei men	1
+戴庙村	dai miao cun	1
+戴庙乡	dai miao xiang	1
+岱庙正阳门	dai miao zheng yang men	1
+代屯	dai tun	1
+岱下华庭	dai xia hua ting	1
+岱下明珠	dai xia ming zhu	1
+岱下阳光花园	dai xia yang guang hua yuan	1
+岱银大厦	dai yin da sha	1
+岱银集团	dai yin ji tuan	1
+岱岳花园	dai yue hua yuan	1
+岱岳区	dai yue qu	1
+岱岳区财政局	dai yue qu cai zheng ju	1
+岱岳区电业局	dai yue qu dian ye ju	1
+岱岳区供电局	dai yue qu gong dian ju	1
+岱岳区技工学校	dai yue qu ji gong xue xiao	1
+岱岳区区委区政府	dai yue qu qu wei qu zheng fu	1
+岱岳区委区政府	dai yue qu wei qu zheng fu	1
+岱岳区职业中专	dai yue qu zhi ye zhong zhuan	1
+岱宗大街东	dai zong da jie dong	1
+岱宗坊	dai zong fang	1
+单家庄村	dan jia zhuang cun	1
+单楼村	dan lou cun	1
+弹子山	dan zi shan	1
+道沟	dao gou	1
+道口村	dao kou cun	1
+道朗镇	dao lang zhen	1
+刀山	dao shan	1
+道士庄	dao shi zhuang	1
+稻屯村	dao tun cun	1
+道洼村	dao wa cun	1
+得时村	de shi cun	1
+邓家沟村	deng jia gou cun	1
+邓家山	deng jia shan	1
+邓家庄村	deng jia zhuang cun	1
+邓李付村	deng li fu cun	1
+登山宾馆	deng shan bin guan	1
+邓庄	deng zhuang	1
+邓庄村	deng zhuang cun	1
+第八十八医院	di ba shi ba yi yuan	1
+地方税务局	di fang shui wu ju	1
+第三化肥厂	di san hua fei chang	1
+滴水泉	di shui quan	1
+地坛	di tan	1
+第一人民医院	di yi ren min yi yuan	1
+堤子村	di zi cun	1
+电力加油站	dian li jia you zhan	1
+电力学校	dian li xue xiao	1
+电校	dian xiao	1
+店子	dian zi	1
+店子村	dian zi cun	1
+钓鱼台	diao yu tai	1
+钓鱼台村	diao yu tai cun	1
+垤路村	die lu cun	1
+顶顶香	ding ding xiang	1
+丁家庄村	ding jia zhuang cun	1
+丁沙村	ding sha cun	1
+丁堂村	ding tang cun	1
+丁坞村	ding wu cun	1
+丁庄	ding zhuang	1
+东安门村	dong an men cun	1
+东白沙村	dong bai sha cun	1
+东鲍村	dong bao cun	1
+东北沟	dong bei gou	1
+东北岭	dong bei ling	1
+东北农家院	dong bei nong jia yuan	1
+东北庄村	dong bei zhuang cun	1
+东埠村	dong bu cun	1
+东埠前村	dong bu qian cun	1
+东场	dong chang	1
+东城村	dong cheng cun	1
+东程村	dong cheng cun	1
+东城村委	dong cheng cun wei	1
+东城前村	dong cheng qian cun	1
+东大封村	dong da feng cun	1
+东大吴村	dong da wu cun	1
+东代村	dong dai cun	1
+东店子	dong dian zi	1
+东店子村	dong dian zi cun	1
+东钓台村	dong diao tai cun	1
+东都宾馆	dong du bin guan	1
+东杜村	dong du cun	1
+东都站	dong du zhan	1
+东都镇	dong du zhen	1
+东方宾馆	dong fang bin guan	1
+东方大酒店	dong fang da jiu dian	1
+东方肥牛王	dong fang fei niu wang	1
+东方假日酒店	dong fang jia ri jiu dian	1
+东方手机港	dong fang shou ji gang	1
+东方洗浴城	dong fang xi yu cheng	1
+东方学院	dong fang xue yuan	1
+东方学院北门	dong fang xue yuan bei men	1
+东峰	dong feng	1
+东风宾馆	dong feng bin guan	1
+东峰村	dong feng cun	1
+东付村	dong fu cun	1
+东付小学	dong fu xiao xue	1
+东皋村	dong gao cun	1
+东高峰	dong gao feng	1
+东沟	dong gou	1
+东古城村	dong gu cheng cun	1
+东关	dong guan	1
+东关村	dong guan cun	1
+东关山口	dong guan shan kou	1
+东关小学	dong guan xiao xue	1
+东关新村	dong guan xin cun	1
+东官庄村	dong guan zhuang cun	1
+东郭庄村	dong guo zhuang cun	1
+东海子村	dong hai zi cun	1
+东韩庄村	dong han zhuang cun	1
+东河北村	dong he bei cun	1
+东洪河村	dong hong he cun	1
+东红庙村	dong hong miao cun	1
+东湖	dong hu	1
+东湖公园	dong hu gong yuan	1
+东湖加油站	dong hu jia you zhan	1
+东湖酒楼	dong hu jiu lou	1
+东湖路	dong hu lu	1
+东湖路口	dong hu lu kou	1
+东湖小区	dong hu xiao qu	1
+东华庄	dong hua zhuang	1
+董家街村	dong jia jie cun	1
+董家庄	dong jia zhuang	1
+董家庄村	dong jia zhuang cun	1
+董家庄小区	dong jia zhuang xiao qu	1
+东郊宾馆	dong jiao bin guan	1
+东焦村	dong jiao cun	1
+东金马村	dong jin ma cun	1
+东孔村	dong kong cun	1
+东李楼	dong li lou	1
+东里一村	dong li yi cun	1
+东李庄村	dong li zhuang cun	1
+东梁村	dong liang cun	1
+东良庄	dong liang zhuang	1
+东梁庄村	dong liang zhuang cun	1
+东林村	dong lin cun	1
+东岭	dong ling	1
+东岭村	dong ling cun	1
+东柳村	dong liu cun	1
+东刘杜村	dong liu du cun	1
+东刘家山村	dong liu jia shan cun	1
+东龙山村	dong long shan cun	1
+东楼	dong lou	1
+东陆房村	dong lu fang cun	1
+东栾庄	dong luan zhuang	1
+东洛沟村	dong luo gou cun	1
+东马家庄	dong ma jia zhuang	1
+东马山	dong ma shan	1
+东茂王村	dong mao wang cun	1
+东门加油站	dong men jia you zhan	1
+东门庄	dong men zhuang	1
+东孟村	dong meng cun	1
+董庙村	dong miao cun	1
+东磨庄村	dong mo zhuang cun	1
+东南场	dong nan chang	1
+东南岭	dong nan ling	1
+东南庄	dong nan zhuang	1
+东南佐村	dong nan zuo cun	1
+东彭村	dong peng cun	1
+东平大桥	dong ping da qiao	1
+东平服务区	dong ping fu wu qu	1
+东平高级中学	dong ping gao ji zhong xue	1
+东平湖	dong ping hu	1
+东平技校	dong ping ji xiao	1
+东平汽车站	dong ping qi che zhan	1
+东平县	dong ping xian	1
+东平县财政局	dong ping xian cai zheng ju	1
+东平县公安局	dong ping xian gong an ju	1
+东平县公路局	dong ping xian gong lu ju	1
+东平县环保局	dong ping xian huan bao ju	1
+东平县教育局	dong ping xian jiao yu ju	1
+东平县农业局	dong ping xian nong ye ju	1
+东平县人民医院	dong ping xian ren min yi yuan	1
+东平县实验小学	dong ping xian shi yan xiao xue	1
+东平县实验中学	dong ping xian shi yan zhong xue	1
+东平县卫生局	dong ping xian wei sheng ju	1
+东平县政府	dong ping xian zheng fu	1
+东平县中医院	dong ping xian zhong yi yuan	1
+东平一中	dong ping yi zhong	1
+东平迎宾馆	dong ping ying bin guan	1
+东平镇政府	dong ping zhen zheng fu	1
+东平职业中专	dong ping zhi ye zhong zhuan	1
+东坡村	dong po cun	1
+东蒲村	dong pu cun	1
+东桥村	dong qiao cun	1
+东乔庄	dong qiao zhuang	1
+东邱村	dong qiu cun	1
+东三宿舍	dong san su she	1
+东沙岭	dong sha ling	1
+东山	dong shan	1
+洞山	dong shan	1
+东山别墅	dong shan bie shu	1
+东山草峪村	dong shan cao yu cun	1
+东山村	dong shan cun	1
+东山根	dong shan gen	1
+东山前村	dong shan qian cun	1
+东山阴村	dong shan yin cun	1
+东尚村	dong shang cun	1
+东上庄	dong shang zhuang	1
+东升国际商务港	dong sheng guo ji shang wu gang	1
+东盛佳苑	dong sheng jia yuan	1
+东盛酒店	dong sheng jiu dian	1
+东石沟村	dong shi gou cun	1
+东石井村	dong shi jing cun	1
+东石门	dong shi men	1
+东疏镇	dong shu zhen	1
+东孙村	dong sun cun	1
+东孙庄	dong sun zhuang	1
+东台	dong tai	1
+东泰华	dong tai hua	1
+东太平村	dong tai ping cun	1
+董堂村	dong tang cun	1
+东堂峪村	dong tang yu cun	1
+东堂子村	dong tang zi cun	1
+东桃园村	dong tao yuan cun	1
+东腾村	dong teng cun	1
+东屯村	dong tun cun	1
+东王村	dong wang cun	1
+东王庄村	dong wang zhuang cun	1
+东坞村	dong wu cun	1
+东西桥	dong xi qiao	1
+东西周村	dong xi zhou cun	1
+东下村	dong xia cun	1
+东夏村	dong xia cun	1
+东贤村	dong xian cun	1
+东辛村	dong xin cun	1
+东辛庄村	dong xin zhuang cun	1
+东兴大酒店	dong xing da jiu dian	1
+东徐村	dong xu cun	1
+东许庄	dong xu zhuang	1
+东亚商城	dong ya shang cheng	1
+东延东村	dong yan dong cun	1
+东颜张村	dong yan zhang cun	1
+东杨家庄	dong yang jia zhuang	1
+东杨楼村	dong yang lou cun	1
+东羊楼村	dong yang lou cun	1
+东杨庄村	dong yang zhuang cun	1
+东窑	dong yao	1
+东窑沟	dong yao gou	1
+董一村	dong yi cun	1
+东尹庄	dong yin zhuang	1
+东营村	dong ying cun	1
+东营子	dong ying zi	1
+东峪	dong yu	1
+东峪村	dong yu cun	1
+东御道	dong yu dao	1
+东于庄	dong yu zhuang	1
+东苑庄村	dong yuan zhuang cun	1
+东岳宾馆	dong yue bin guan	1
+东岳庙	dong yue miao	1
+东岳山庄	dong yue shan zhuang	1
+东岳实验学校	dong yue shi yan xue xiao	1
+东岳中学	dong yue zhong xue	1
+东枣林村	dong zao lin cun	1
+东寨村	dong zhai cun	1
+东栈	dong zhan	1
+东张村	dong zhang cun	1
+东掌村	dong zhang cun	1
+东张家庄村	dong zhang jia zhuang cun	1
+东张庄村	dong zhang zhuang cun	1
+东赵村	dong zhao cun	1
+东赵庄	dong zhao zhuang	1
+东赵庄村	dong zhao zhuang cun	1
+东郑庄村	dong zheng zhuang cun	1
+东周村	dong zhou cun	1
+东周水库	dong zhou shui ku	1
+东朱	dong zhu	1
+东朱村	dong zhu cun	1
+东庄	dong zhuang	1
+董庄	dong zhuang	1
+东庄村	dong zhuang cun	1
+董庄村	dong zhuang cun	1
+东庄乡	dong zhuang xiang	1
+东庄乡政府	dong zhuang xiang zheng fu	1
+东尊大酒店	dong zun da jiu dian	1
+东尊优山美地	dong zun you shan mei di	1
+豆腐营村	dou fu ying cun	1
+陡沟村	dou gou cun	1
+斗虎屯村	dou hu tun cun	1
+窦家村	dou jia cun	1
+窦家庄	dou jia zhuang	1
+斗母宫	dou mu gong	1
+斗山	dou shan	1
+豆山	dou shan	1
+豆山村	dou shan cun	1
+窦庄村	dou zhuang cun	1
+杜村	du cun	1
+杜海	du hai	1
+杜家村	du jia cun	1
+杜家岗村	du jia gang cun	1
+杜家庙	du jia miao	1
+杜家庄	du jia zhuang	1
+杜家庄村	du jia zhuang cun	1
+独龙山	du long shan	1
+杜莫庄村	du mo zhuang cun	1
+独山	du shan	1
+独山村	du shan cun	1
+都市丽人	du shi li ren	1
+段家庄村	duan jia zhuang cun	1
+段孟李村	duan meng li cun	1
+段峪	duan yu	1
+段庄村	duan zhuang cun	1
+对臼村	dui jiu cun	1
+对松山	dui song shan	1
+对松亭	dui song ting	1
+垛石	duo shi	1
+垛庄村	duo zhuang cun	1
+恶沟	e gou	1
+鹅山	e shan	1
+峨峪	e yu	1
+二道坡	er dao po	1
+二虎村	er hu cun	1
+二建公司	er jian gong si	1
+二建医院	er jian yi yuan	1
+二郎担山	er lang dan shan	1
+二郎庙村	er lang miao cun	1
+二涝峪村	er lao yu cun	1
+二龙山	er long shan	1
+二十里埠	er shi li bu	1
+二十里铺村	er shi li pu cun	1
+儿童乐园	er tong le yuan	1
+儿童医院	er tong yi yuan	1
+二洼村	er wa cun	1
+二中	er zhong	1
+阀门厂	fa men chang	1
+法正律师所	fa zheng lv shi suo	1
+范岗村	fan gang cun	1
+范家山	fan jia shan	1
+范家庄	fan jia zhuang	1
+范家庄村	fan jia zhuang cun	1
+范山村	fan shan cun	1
+范洼	fan wa	1
+范洼村	fan wa cun	1
+范镇	fan zhen	1
+范镇站	fan zhen zhan	1
+范庄	fan zhuang	1
+樊庄村	fan zhuang cun	1
+范庄村	fan zhuang cun	1
+放城镇	fang cheng zhen	1
+房村镇	fang cun zhen	1
+房管局	fang guan ju	1
+房家庄	fang jia zhuang	1
+房家庄村	fang jia zhuang cun	1
+方特欢乐世界	fang te huan le shi jie	1
+方圆宾馆	fang yuan bin guan	1
+方圆超市	fang yuan chao shi	1
+方正宾馆	fang zheng bin guan	1
+坊子村	fang zi cun	1
+肥城百货大楼	fei cheng bai huo da lou	1
+肥城饭店	fei cheng fan dian	1
+肥城矿务局	fei cheng kuang wu ju	1
+肥城矿业集团	fei cheng kuang ye ji tuan	1
+肥城汽车站	fei cheng qi che zhan	1
+肥城人民商厦	fei cheng ren min shang sha	1
+肥城三中	fei cheng san zhong	1
+肥城市	fei cheng shi	1
+肥城市财政局	fei cheng shi cai zheng ju	1
+肥城市地税局	fei cheng shi di shui ju	1
+肥城市公安局	fei cheng shi gong an ju	1
+肥城市公路局	fei cheng shi gong lu ju	1
+肥城市工商局	fei cheng shi gong shang ju	1
+肥城市国税局	fei cheng shi guo shui ju	1
+肥城市河西小学	fei cheng shi he xi xiao xue	1
+肥城市环保局	fei cheng shi huan bao ju	1
+肥城市检察院	fei cheng shi jian cha yuan	1
+肥城市建设局	fei cheng shi jian she ju	1
+肥城市焦化厂	fei cheng shi jiao hua chang	1
+肥城市教育局	fei cheng shi jiao yu ju	1
+肥城市粮食局	fei cheng shi liang shi ju	1
+肥城市民政局	fei cheng shi min zheng ju	1
+肥城市人民医院	fei cheng shi ren min yi yuan	1
+肥城市人事局	fei cheng shi ren shi ju	1
+肥城市实验小学	fei cheng shi shi yan xiao xue	1
+肥城市实验中学	fei cheng shi shi yan zhong xue	1
+肥城市水利局	fei cheng shi shui li ju	1
+肥城市新华书店	fei cheng shi xin hua shu dian	1
+肥城市政府	fei cheng shi zheng fu	1
+肥城市政协	fei cheng shi zheng xie	1
+肥城四中	fei cheng si zhong	1
+肥城网通	fei cheng wang tong	1
+肥城造纸厂	fei cheng zao zhi chang	1
+肥城站	fei cheng zhan	1
+肥城中医院	fei cheng zhong yi yuan	1
+肥矿党校	fei kuang dang xiao	1
+菲林格尔木地板	fei lin ge er mu di ban	1
+飞龙宾馆	fei long bin guan	1
+飞龙飞	fei long fei	1
+飞龙酒店	fei long jiu dian	1
+飞龙山庄	fei long shan zhuang	1
+沸腾鱼乡	fei teng yu xiang	1
+肥猪山	fei zhu shan	1
+粉店	fen dian	1
+分水岭村	fen shui ling cun	1
+坟台	fen tai	1
+凤凰城	feng huang cheng	1
+凤凰村	feng huang cun	1
+凤凰岭	feng huang ling	1
+凤凰泉村	feng huang quan cun	1
+凤凰山	feng huang shan	1
+凤凰山村	feng huang shan cun	1
+凤凰台	feng huang tai	1
+凤凰台村	feng huang tai cun	1
+凤凰头	feng huang tou	1
+凤凰小区	feng huang xiao qu	1
+凤凰小学	feng huang xiao xue	1
+凤凰庄	feng huang zhuang	1
+凤凰庄村	feng huang zhuang cun	1
+冯家村	feng jia cun	1
+冯家栗行村	feng jia li xing cun	1
+冯家楼村	feng jia lou cun	1
+冯家泉	feng jia quan	1
+冯家峪	feng jia yu	1
+冯家庄	feng jia zhuang	1
+冯楼村	feng lou cun	1
+丰柔皮革集团	feng rou pi ge ji tuan	1
+封山	feng shan	1
+丰山村	feng shan cun	1
+凤台村	feng tai cun	1
+凤台小学	feng tai xiao xue	1
+凤台幼儿园	feng tai you er yuan	1
+凤台中学	feng tai zhong xue	1
+冯洼	feng wa	1
+冯洼村	feng wa cun	1
+冯玉祥墓	feng yu xiang mu	1
+丰园小区	feng yuan xiao qu	1
+冯张村	feng zhang cun	1
+冯庄	feng zhuang	1
+丰庄村	feng zhuang cun	1
+冯庄村	feng zhuang cun	1
+福安宾馆	fu an bin guan	1
+富安娜家纺	fu an na jia fang	1
+府东小区	fu dong xiao qu	1
+富都大酒店	fu dou da jiu dian	1
+富贵小区	fu gui xiao qu	1
+付家沟	fu jia gou	1
+傅家庄	fu jia zhuang	1
+付家庄村	fu jia zhuang cun	1
+府前超市	fu qian chao shi	1
+浮邱村	fu qiu cun	1
+富山	fu shan	1
+伏山镇	fu shan zhen	1
+伏山镇政府	fu shan zhen zheng fu	1
+附设站	fu she zhan	1
+副食品批发市场	fu shi pin pi fa shi chang	1
+附属医院	fu shu yi yuan	1
+福田加油站	fu tian jia you zhan	1
+妇幼保健院	fu you bao jian yuan	1
+府苑宾馆	fu yuan bin guan	1
+富源巷商城	fu yuan xiang shang cheng	1
+付庄村	fu zhuang cun	1
+服装学院	fu zhuang xue yuan	1
+甘露村	gan lu cun	1
+甘露堂村	gan lu tang cun	1
+杆石桥	gan shi qiao	1
+钢材市场	gang cai shi chang	1
+堽城镇	gang cheng zhen	1
+岗上村	gang shang cun	1
+岗子村	gang zi cun	1
+高本	gao ben	1
+膏城花园	gao cheng hua yuan	1
+高东村	gao dong cun	1
+高范村	gao fan cun	1
+高沟	gao gou	1
+高沟村	gao gou cun	1
+高杭村	gao hang cun	1
+高胡庄村	gao hu zhuang cun	1
+高级技校	gao ji ji xiao	1
+高家村	gao jia cun	1
+高家地	gao jia di	1
+高家店村	gao jia dian cun	1
+高家楼村	gao jia lou cun	1
+高家圈村	gao jia quan cun	1
+高家堂	gao jia tang	1
+高家峪	gao jia yu	1
+高家庄	gao jia zhuang	1
+高家庄村	gao jia zhuang cun	1
+高岭村	gao ling cun	1
+高孟村	gao meng cun	1
+高墙	gao qiang	1
+高桥村	gao qiao cun	1
+高桥新村	gao qiao xin cun	1
+高泉村	gao quan cun	1
+告山	gao shan	1
+皋山	gao shan	1
+高铁安居小区	gao tie an ju xiao qu	1
+高铁泰安站	gao tie tai an zhan	1
+高铁新区	gao tie xin qu	1
+高王寺村	gao wang si cun	1
+高新开发区	gao xin kai fa qu	1
+高新区派出所	gao xin qu pai chu suo	1
+高新区中学	gao xin qu zhong xue	1
+高兴庄村	gao xing zhuang cun	1
+高徐村	gao xu cun	1
+高崖村	gao ya cun	1
+高崖头	gao ya tou	1
+高崖头村	gao ya tou cun	1
+高峪村	gao yu cun	1
+高庄	gao zhuang	1
+高庄村	gao zhuang cun	1
+葛沟村	ge gou cun	1
+葛沟河村	ge gou he cun	1
+葛家庄村	ge jia zhuang cun	1
+格林商城	ge lin shang cheng	1
+葛石镇	ge shi zhen	1
+葛条沟	ge tiao gou	1
+葛针园村	ge zhen yuan cun	1
+葛庄村	ge zhuang cun	1
+格子村	ge zi cun	1
+耿家庄村	geng jia zhuang cun	1
+耿庄村	geng zhuang cun	1
+公安局	gong an ju	1
+宫北完小	gong bei wan xiao	1
+公厕	gong ce	1
+龚长安	gong chang an	1
+宫村	gong cun	1
+工行火车站支行	gong hang huo che zhan zhi hang	1
+宫家村	gong jia cun	1
+龚家岭	gong jia ling	1
+公家庄村	gong jia zhuang cun	1
+公交高铁停车场	gong jiao gao tie ting che chang	1
+公交公司	gong jiao gong si	1
+公交公司三队	gong jiao gong si san dui	1
+公交加油站	gong jiao jia you zhan	1
+宫里镇	gong li zhen	1
+巩楼村	gong lou cun	1
+公路局	gong lu ju	1
+公路局加油站	gong lu ju jia you zhan	1
+公汽公司	gong qi gong si	1
+工人村	gong ren cun	1
+工人文化宫	gong ren wen hua gong	1
+公山	gong shan	1
+工商行政管理局	gong shang xing zheng guan li ju	1
+巩堂村	gong tang cun	1
+供销社加油站	gong xiao she jia you zhan	1
+供销小区	gong xiao xiao qu	1
+宫庄	gong zhuang	1
+巩庄村	gong zhuang cun	1
+沟坝	gou ba	1
+沟北村	gou bei cun	1
+沟堤	gou di	1
+沟南村	gou nan cun	1
+沟头村	gou tou cun	1
+沟西村	gou xi cun	1
+古城村	gu cheng cun	1
+古城桥	gu cheng qiao	1
+顾村	gu cun	1
+古店村	gu dian cun	1
+固顶山	gu ding shan	1
+谷堆山	gu dui shan	1
+咕咕山	gu gu shan	1
+古河村	gu he cun	1
+谷家泉村	gu jia quan cun	1
+顾家庄	gu jia zhuang	1
+古井贡酒	gu jing gong jiu	1
+骨科研究所	gu ke yan jiu suo	1
+骨科医院	gu ke yi yuan	1
+谷里站	gu li zhan	1
+谷里镇	gu li zhen	1
+孤山	gu shan	1
+孤山村	gu shan cun	1
+谷山村	gu shan cun	1
+谷山林场	gu shan lin chang	1
+谷山寺	gu shan si	1
+古树口村	gu shu kou cun	1
+古台寺村	gu tai si cun	1
+古玩城	gu wan cheng	1
+故县	gu xian	1
+谷庄	gu zhuang	1
+顾庄	gu zhuang	1
+古庄村	gu zhuang cun	1
+顾庄村	gu zhuang cun	1
+拐子沟	guai zi gou	1
+官场村	guan chang cun	1
+官地	guan di	1
+官房	guan fang	1
+管家洼	guan jia wa	1
+管家洼村	guan jia wa cun	1
+管家庄	guan jia zhuang	1
+官家庄村	guan jia zhuang cun	1
+官路村	guan lu cun	1
+官桥	guan qiao	1
+管桥村	guan qiao cun	1
+观山口	guan shan kou	1
+关王庙村	guan wang miao cun	1
+观音堂村	guan yin tang cun	1
+官庄	guan zhuang	1
+灌庄	guan zhuang	1
+官庄村	guan zhuang cun	1
+灌庄村	guan zhuang cun	1
+灌庄社区	guan zhuang she qu	1
+灌庄小学	guan zhuang xiao xue	1
+广播电视局	guang bo dian shi ju	1
+光彩大市场	guang cai da shi chang	1
+广和路口	guang he lu kou	1
+光华寺	guang hua si	1
+光明北村	guang ming bei cun	1
+光明村	guang ming cun	1
+光明东村	guang ming dong cun	1
+光明南村	guang ming nan cun	1
+光明水库	guang ming shui ku	1
+光明眼镜	guang ming yan jing	1
+光明眼科医院	guang ming yan ke yi yuan	1
+光山	guang shan	1
+广通奥迪	guang tong ao di	1
+桂花庄	gui hua zhuang	1
+桂林村	gui lin cun	1
+龟山	gui shan	1
+郭场村	guo chang cun	1
+过村	guo cun	1
+郭堤口	guo di kou	1
+郭店村	guo dian cun	1
+果都村	guo dou cun	1
+果都镇	guo dou zhen	1
+郭海	guo hai	1
+国华经典小区	guo hua jing dian xiao qu	1
+国华科技	guo hua ke ji	1
+国基食品	guo ji shi pin	1
+国际养生城	guo ji yang sheng cheng	1
+郭家村	guo jia cun	1
+郭家沟	guo jia gou	1
+郭家沟村	guo jia gou cun	1
+国家级高创中心	guo jia ji gao chuang zhong xin	1
+郭家岭	guo jia ling	1
+郭家楼村	guo jia lou cun	1
+郭家泉村	guo jia quan cun	1
+郭家小庄	guo jia xiao zhuang	1
+郭家小庄村	guo jia xiao zhuang cun	1
+过驾院	guo jia yuan	1
+郭家庄	guo jia zhuang	1
+国家庄村	guo jia zhuang cun	1
+郭家庄村	guo jia zhuang cun	1
+郭刘村	guo liu cun	1
+郭楼村	guo lou cun	1
+郭山村	guo shan cun	1
+国税局市直分局	guo shui ju shi zhi fen ju	1
+国土局	guo tu ju	1
+国屯村	guo tun cun	1
+郭辛村	guo xin cun	1
+国兴大酒店	guo xing da jiu dian	1
+国营加油站	guo ying jia you zhan	1
+果园村	guo yuan cun	1
+果庄	guo zhuang	1
+郭庄	guo zhuang	1
+果庄村	guo zhuang cun	1
+郭庄村	guo zhuang cun	1
+哈尔滨餐厅	ha er bin can ting	1
+蛤蟆山	ha ma shan	1
+蛤蟆塘	ha ma tang	1
+海岱花园酒店	hai dai hua yuan jiu dian	1
+海尔专卖店	hai er zhuan mai dian	1
+海力集团	hai li ji tuan	1
+海普风栖湾	hai pu feng qi wan	1
+海洼村	hai wa cun	1
+海眼	hai yan	1
+海子村	hai zi cun	1
+韩村	han cun	1
+汉方堂大药房	han fang tang da yao fang	1
+韩家店村	han jia dian cun	1
+韩家沟	han jia gou	1
+韩家结庄	han jia jie zhuang	1
+韩家结庄新村	han jia jie zhuang xin cun	1
+韩家林	han jia lin	1
+韩家岭	han jia ling	1
+韩家洼	han jia wa	1
+韩家寨村	han jia zhai cun	1
+韩家庄村	han jia zhuang cun	1
+汉明堂	han ming tang	1
+韩山	han shan	1
+韩山村	han shan cun	1
+韩庄	han zhuang	1
+韩庄村	han zhuang cun	1
+韩庄头村	han zhuang tou cun	1
+航天特种车有限公司	hang tian te zhong che you xian gong si	1
+航天特种车制造有限公司	hang tian te zhong che zhi zao you xian gong si	1
+郝沟村	hao gou cun	1
+郝家村	hao jia cun	1
+郝家庄	hao jia zhuang	1
+郝家庄村	hao jia zhuang cun	1
+蒿里山	hao li shan	1
+好邻居超市	hao lin ju chao shi	1
+蒿滩	hao tan	1
+郝洼村	hao wa cun	1
+好心情超市	hao xin qing chao shi	1
+好易购超市	hao yi gou chao shi	1
+郝庄村	hao zhuang cun	1
+河北村	he bei cun	1
+河北崖	he bei ya	1
+河岔口村	he cha kou cun	1
+何村	he cun	1
+河东	he dong	1
+河东村	he dong cun	1
+河东崖	he dong ya	1
+河沟村	he gou cun	1
+荷花楼村	he hua lou cun	1
+和家庄	he jia zhuang	1
+贺家庄	he jia zhuang	1
+何家庄村	he jia zhuang cun	1
+贺家庄村	he jia zhuang cun	1
+河口村	he kou cun	1
+何李村	he li cun	1
+合力快餐	he li kuai can	1
+和平村	he ping cun	1
+和平饭店	he ping fan dian	1
+何圈	he quan	1
+合仁堂	he ren tang	1
+鹤山	he shan	1
+鹤山乡	he shan xiang	1
+河山子村	he shan zi cun	1
+和尚帽	he shang mao	1
+和尚庄	he shang zhuang	1
+合顺村	he shun cun	1
+核桃行	he tao xing	1
+河套园	he tao yuan	1
+河洼	he wa	1
+河洼村	he wa cun	1
+河西	he xi	1
+河西村	he xi cun	1
+河西小区	he xi xiao qu	1
+河西小学	he xi xiao xue	1
+河西崖	he xi ya	1
+和信得	he xin de	1
+贺一村	he yi cun	1
+何庄	he zhuang	1
+贺庄村	he zhuang cun	1
+黑风口	hei feng kou	1
+黑沟村	hei gou cun	1
+黑虎泉	hei hu quan	1
+黑虎山	hei hu shan	1
+黑虎石	hei hu shi	1
+黑虎崖	hei hu ya	1
+黑牛山	hei niu shan	1
+黑山	hei shan	1
+黑山村	hei shan cun	1
+黑山前	hei shan qian	1
+黑山水库	hei shan shui ku	1
+黑山头村	hei shan tou cun	1
+黑山寨	hei shan zhai	1
+黑山子	hei shan zi	1
+黑石埠村	hei shi bu cun	1
+黑石村	hei shi cun	1
+黑石拉	hei shi la	1
+黑水湾	hei shui wan	1
+黑水湾村	hei shui wan cun	1
+黑峪	hei yu	1
+黑峪村	hei yu cun	1
+横岭	heng ling	1
+横岭村	heng ling cun	1
+横山	heng shan	1
+横山村	heng shan cun	1
+横山学校	heng shan xue xiao	1
+恒心酒店	heng xin jiu dian	1
+恒兴酒店	heng xing jiu dian	1
+洪福寺村	hong fu si cun	1
+洪沟村	hong gou cun	1
+洪沟站	hong gou zhan	1
+洪河	hong he	1
+红河	hong he	1
+洪河村	hong he cun	1
+红河村	hong he cun	1
+红箭服饰	hong jian fu shi	1
+红康药店	hong kang yao dian	1
+红领	hong ling	1
+红岭子	hong ling zi	1
+红楼百货	hong lou bai huo	1
+红门	hong men	1
+红庙	hong miao	1
+红庙村	hong miao cun	1
+红旗村	hong qi cun	1
+红旗水库	hong qi shui ku	1
+洪强康复医院	hong qiang kang fu yi yuan	1
+虹桥宾馆	hong qiao bin guan	1
+虹桥村	hong qiao cun	1
+红山	hong shan	1
+红山村	hong shan cun	1
+红山子	hong shan zi	1
+弘盛现代城	hong sheng xian dai cheng	1
+红石板村	hong shi ban cun	1
+红树林大酒店	hong shu lin da jiu dian	1
+红湾	hong wan	1
+红五村	hong wu cun	1
+鸿星尔克	hong xing er ke	1
+红袖	hong xiu	1
+后泊村	hou bo cun	1
+后埠子村	hou bu zi cun	1
+后仓村	hou cang cun	1
+后茶棚村	hou cha peng cun	1
+后柴城村	hou chai cheng cun	1
+后店子	hou dian zi	1
+后陡村	hou dou cun	1
+后段庄	hou duan zhuang	1
+后伏山村	hou fu shan cun	1
+后高佐村	hou gao zuo cun	1
+后孤山村	hou gu shan cun	1
+后海子	hou hai zi	1
+后海子村	hou hai zi cun	1
+后韩庄村	hou han zhuang cun	1
+后河	hou he	1
+侯河村	hou he cun	1
+后鹤山村	hou he shan cun	1
+后黄村	hou huang cun	1
+侯家场	hou jia chang	1
+侯家店村	hou jia dian cun	1
+侯家寨	hou jia zhai	1
+侯家庄村	hou jia zhuang cun	1
+后井峪	hou jing yu	1
+后口头村	hou kou tou cun	1
+后李村	hou li cun	1
+后李楼	hou li lou	1
+后李庄	hou li zhuang	1
+后梁村	hou liang cun	1
+侯林村	hou lin cun	1
+侯楼村	hou lou cun	1
+后楼村	hou lou cun	1
+后路口村	hou lu kou cun	1
+后吕观村	hou lv guan cun	1
+后吕庄村	hou lv zhuang cun	1
+后马村	hou ma cun	1
+后麻峪村	hou ma yu cun	1
+后桥村	hou qiao cun	1
+后沙村	hou sha cun	1
+后山	hou shan	1
+后上庄村	hou shang zhuang cun	1
+后石梁村	hou shi liang cun	1
+后石桥村	hou shi qiao cun	1
+后石坞	hou shi wu	1
+后石屋	hou shi wu	1
+后水河村	hou shui he cun	1
+后寺	hou si	1
+后亭村	hou ting cun	1
+后屯	hou tun	1
+侯屯村	hou tun cun	1
+后屯村	hou tun cun	1
+后望峰村	hou wang feng cun	1
+后围村	hou wei cun	1
+后小庄	hou xiao zhuang	1
+后辛庄村	hou xin zhuang cun	1
+后学村	hou xue cun	1
+后羊村	hou yang cun	1
+后一村	hou yi cun	1
+后营村	hou ying cun	1
+后峪	hou yu	1
+后于村	hou yu cun	1
+后寨村	hou zhai cun	1
+后寨子村	hou zhai zi cun	1
+后张庄村	hou zhang zhuang cun	1
+后赵庄	hou zhao zhuang	1
+后朱庄	hou zhu zhuang	1
+侯庄	hou zhuang	1
+后庄	hou zhuang	1
+虎城村	hu cheng cun	1
+湖村	hu cun	1
+胡东村	hu dong cun	1
+护驾村	hu jia cun	1
+胡家村	hu jia cun	1
+胡家沟村	hu jia gou cun	1
+胡家岭	hu jia ling	1
+胡家楼	hu jia lou	1
+胡家庙	hu jia miao	1
+胡家泉村	hu jia quan cun	1
+胡家滩	hu jia tan	1
+胡家崖	hu jia ya	1
+胡家峪村	hu jia yu cun	1
+胡家园	hu jia yuan	1
+胡家庄	hu jia zhuang	1
+胡家庄村	hu jia zhuang cun	1
+胡林	hu lin	1
+葫芦山	hu lu shan	1
+葫芦套	hu lu tao	1
+葫芦头	hu lu tou	1
+扈山	hu shan	1
+虎山	hu shan	1
+虎山村	hu shan cun	1
+虎山东路	hu shan dong lu	1
+虎山公园	hu shan gong yuan	1
+虎山路口	hu shan lu kou	1
+虎山路中段	hu shan lu zhong duan	1
+胡台村	hu tai cun	1
+湖滩	hu tan	1
+壶天阁	hu tian ge	1
+胡疃	hu tuan	1
+湖屯站	hu tun zhan	1
+湖屯镇	hu tun zhen	1
+胡庄	hu zhuang	1
+华安宾馆	hua an bin guan	1
+华德木业	hua de mu ye	1
+华东技校	hua dong ji xiao	1
+化肥厂	hua fei chang	1
+华丰镇	hua feng zhen	1
+华府大酒店	hua fu da jiu dian	1
+花果山	hua guo shan	1
+花果峪村	hua guo yu cun	1
+华恒矿业公司	hua heng kuang ye gong si	1
+花卉市场	hua hui shi chang	1
+华家庄	hua jia zhuang	1
+华康医药	hua kang yi yao	1
+华联超市	hua lian chao shi	1
+华联购物广场	hua lian gou wu guang chang	1
+华联商厦	hua lian shang sha	1
+华联商务酒店	hua lian shang wu jiu dian	1
+华龙集团	hua long ji tuan	1
+华龙水业	hua long shui ye	1
+华龙铸造	hua long zhu zao	1
+华鲁宾馆	hua lu bin guan	1
+化马湾乡	hua ma wan xiang	1
+华美池	hua mei chi	1
+华美热电	hua mei re dian	1
+华清池	hua qing chi	1
+花石桥村	hua shi qiao cun	1
+滑石山	hua shi shan	1
+华泰大酒店	hua tai da jiu dian	1
+华泰广场	hua tai guang chang	1
+华泰驾校	hua tai jia xiao	1
+华庭嘉苑	hua ting jia yuan	1
+华夏大药房	hua xia da yao fang	1
+华新社区	hua xin she qu	1
+华新小区	hua xin xiao qu	1
+华兴大酒店	hua xing da jiu dian	1
+华兴集团	hua xing ji tuan	1
+华阳集团	hua yang ji tuan	1
+华洋制衣	hua yang zhi yi	1
+花峪村	hua yu cun	1
+花园村	hua yuan cun	1
+花园小区	hua yuan xiao qu	1
+花园小区东门	hua yuan xiao qu dong men	1
+华源医院	hua yuan yi yuan	1
+华岳玻璃	hua yue bo li	1
+化庄	hua zhuang	1
+槐林村	huai lin cun	1
+槐树口	huai shu kou	1
+环保局	huan bao ju	1
+桓村	huan cun	1
+宦家峪村	huan jia yu cun	1
+环境监测站	huan jing jian ce zhan	1
+黄庵村	huang an cun	1
+黄柏山	huang bai shan	1
+黄柏山村	huang bai shan cun	1
+黄柏峪	huang bai yu	1
+黄草岭	huang cao ling	1
+黄草岭村	huang cao ling cun	1
+黄道沟村	huang dao gou cun	1
+皇殿村	huang dian cun	1
+黄冯村	huang feng cun	1
+黄河	huang he	1
+黄花岭村	huang hua ling cun	1
+黄花山	huang hua shan	1
+黄花园村	huang hua yuan cun	1
+黄家沟	huang jia gou	1
+黄家岭	huang jia ling	1
+黄家楼	huang jia lou	1
+黄家庄	huang jia zhuang	1
+黄家庄村	huang jia zhuang cun	1
+黄名山	huang ming shan	1
+皇明太阳能	huang ming tai yang neng	1
+黄前水库	huang qian shui ku	1
+黄前镇	huang qian zhen	1
+黄山	huang shan	1
+黄山村	huang shan cun	1
+黄山头	huang shan tou	1
+黄山头村	huang shan tou cun	1
+黄山寨	huang shan zhai	1
+黄山庄村	huang shan zhuang cun	1
+黄石崖	huang shi ya	1
+黄石崖村	huang shi ya cun	1
+黄土店	huang tu dian	1
+黄土墩	huang tu dun	1
+黄土梁	huang tu liang	1
+黄土岭村	huang tu ling cun	1
+黄土崖村	huang tu ya cun	1
+黄崖	huang ya	1
+黄崖村	huang ya cun	1
+黄崖山	huang ya shan	1
+黄崖头	huang ya tou	1
+黄叶村	huang ye cun	1
+黄峪村	huang yu cun	1
+黄庄	huang zhuang	1
+黄庄村	huang zhuang cun	1
+黄庄子	huang zhuang zi	1
+汇北村	hui bei cun	1
+辉城村	hui cheng cun	1
+辉德村	hui de cun	1
+惠尔制革	hui er zhi ge	1
+汇丰大酒店	hui feng da jiu dian	1
+灰姑娘	hui gu niang	1
+回龙庄村	hui long zhuang cun	1
+回马岭	hui ma ling	1
+惠民超市	hui min chao shi	1
+惠民医院	hui min yi yuan	1
+惠普家园	hui pu jia yuan	1
+汇源大酒店	hui yuan da jiu dian	1
+汇源加油站	hui yuan jia you zhan	1
+货场路北段	huo chang lu bei duan	1
+火车站	huo che zhan	1
+火石沟	huo shi gou	1
+火石山	huo shi shan	1
+霍庄村	huo zhuang cun	1
+鸡冠岭	ji guan ling	1
+鸡冠山	ji guan shan	1
+机关幼儿园	ji guan you er yuan	1
+吉家林	ji jia lin	1
+季家山	ji jia shan	1
+纪家洼村	ji jia wa cun	1
+冀家庄	ji jia zhuang	1
+鸡家庄	ji jia zhuang	1
+姬家庄村	ji jia zhuang cun	1
+季家庄村	ji jia zhuang cun	1
+急救中心	ji jiu zhong xin	1
+济军招待所	ji jun zhao dai suo	1
+积米峪	ji mi yu	1
+鸡山	ji shan	1
+计生中心	ji sheng zhong xin	1
+姬庄村	ji zhuang cun	1
+家常菜馆	jia chang cai guan	1
+贾村	jia cun	1
+嘉德现代城	jia de xian dai cheng	1
+贾海村	jia hai cun	1
+夹河村	jia he cun	1
+嘉和新城	jia he xin cheng	1
+嘉华城市酒店	jia hua cheng shi jiu dian	1
+加华制药	jia hua zhi yao	1
+佳佳宾馆	jia jia bin guan	1
+家家乐购物广场	jia jia le gou wu guang chang	1
+贾家庄村	jia jia zhuang cun	1
+家乐超市	jia le chao shi	1
+佳乐家	jia le jia	1
+嘉纳利	jia na li	1
+贾南村	jia nan cun	1
+贾疃	jia tuan	1
+加油站	jia you zhan	1
+家园超市	jia yuan chao shi	1
+家悦超市	jia yue chao shi	1
+贾庄	jia zhuang	1
+贾庄村	jia zhuang cun	1
+夹子山	jia zi shan	1
+涧北村	jian bei cun	1
+建材批发市场	jian cai pi fa shi chang	1
+箭杆峪	jian gan yu	1
+建工医院	jian gong yi yuan	1
+建行东岳支行	jian hang dong yue zhi hang	1
+建行市中支行	jian hang shi zhong zhi hang	1
+建行泰安分行	jian hang tai an fen hang	1
+菅家峪村	jian jia yu cun	1
+建疗	jian liao	1
+尖山	jian shan	1
+尖山子	jian shan zi	1
+建设大厦	jian she da sha	1
+建设局	jian she ju	1
+建设小区	jian she xiao qu	1
+渐汶河村	jian wen he cun	1
+涧西村	jian xi cun	1
+建新村	jian xin cun	1
+建筑五金厂	jian zhu wu jin chang	1
+姜杭村	jiang hang cun	1
+姜华村	jiang hua cun	1
+蒋集镇	jiang ji zhen	1
+蒋家沟	jiang jia gou	1
+姜家庄	jiang jia zhuang	1
+江家庄	jiang jia zhuang	1
+蒋家庄	jiang jia zhuang	1
+姜家庄村	jiang jia zhuang cun	1
+将军堂村	jiang jun tang cun	1
+蒋口村	jiang kou cun	1
+姜刘村	jiang liu cun	1
+江南食府	jiang nan shi fu	1
+讲书堂	jiang shu tang	1
+江水河村	jiang shui he cun	1
+姜堂村	jiang tang cun	1
+姜玉坤眼镜	jiang yu kun yan jing	1
+姜玉坤眼镜店	jiang yu kun yan jing dian	1
+姜庄	jiang zhuang	1
+姜庄村	jiang zhuang cun	1
+江庄村	jiang zhuang cun	1
+蒋庄村	jiang zhuang cun	1
+轿车修理厂	jiao che xiu li chang	1
+焦村	jiao cun	1
+焦点服饰	jiao dian fu shi	1
+胶东庄户城	jiao dong zhuang hu cheng	1
+交行泰安分行	jiao hang tai an fen hang	1
+焦化厂	jiao hua chang	1
+焦家峪	jiao jia yu	1
+焦家庄村	jiao jia zhuang cun	1
+交警队	jiao jing dui	1
+交警六大队	jiao jing liu da dui	1
+交警一大队	jiao jing yi da dui	1
+交警支队	jiao jing zhi dui	1
+焦南村	jiao nan cun	1
+焦铺村	jiao pu cun	1
+焦山	jiao shan	1
+角山村	jiao shan cun	1
+教师村	jiao shi cun	1
+交通宾馆	jiao tong bin guan	1
+交通花苑	jiao tong hua yuan	1
+交通加油站	jiao tong jia you zhan	1
+交通局	jiao tong ju	1
+交通局驾驶培训中心	jiao tong ju jia shi pei xun zhong xin	1
+交通学校	jiao tong xue xiao	1
+交通医院	jiao tong yi yuan	1
+交通运输局	jiao tong yun shu ju	1
+焦峪	jiao yu	1
+教育局	jiao yu ju	1
+角峪镇	jiao yu zhen	1
+焦园村	jiao yuan cun	1
+交运汽车园	jiao yun qi che yuan	1
+界河村	jie he cun	1
+解家庄	jie jia zhuang	1
+解家庄村	jie jia zhuang cun	1
+解楼	jie lou	1
+解山	jie shan	1
+接山乡	jie shan xiang	1
+界首站	jie shou zhan	1
+解庄	jie zhuang	1
+借庄村	jie zhuang cun	1
+结庄村	jie zhuang cun	1
+解庄村	jie zhuang cun	1
+劲霸男装	jin ba nan zhuang	1
+金宝超市	jin bao chao shi	1
+金杯大酒店	jin bei da jiu dian	1
+金伯利钻石	jin bo li zuan shi	1
+金城加油站	jin cheng jia you zhan	1
+金鼎宾馆	jin ding bin guan	1
+金斗山	jin dou shan	1
+金斗水库	jin dou shui ku	1
+近格庄村	jin ge zhuang cun	1
+金光村	jin guang cun	1
+金贵园小区	jin gui yuan xiao qu	1
+金果村	jin guo cun	1
+金海大酒店	jin hai da jiu dian	1
+金海大厦	jin hai da sha	1
+金海湾酒店	jin hai wan jiu dian	1
+近河村	jin he cun	1
+锦华度假村	jin hua du jia cun	1
+金槐村	jin huai cun	1
+金鸡山	jin ji shan	1
+金家老店	jin jia lao dian	1
+金家岭村	jin jia ling cun	1
+金家庄村	jin jia zhuang cun	1
+金剪刀	jin jian dao	1
+金康大药房	jin kang da yao fang	1
+金坑村	jin keng cun	1
+金乐门	jin le men	1
+金龙宾馆	jin long bin guan	1
+金马村	jin ma cun	1
+金马浴都	jin ma yu dou	1
+金磨庄	jin mo zhuang	1
+金牛山	jin niu shan	1
+金牛山路中段	jin niu shan lu zhong duan	1
+金鹏幼儿园	jin peng you er yuan	1
+金起点幼儿园	jin qi dian you er yuan	1
+金桥服装城	jin qiao fu zhuang cheng	1
+金桥小区	jin qiao xiao qu	1
+金山	jin shan	1
+锦山宾馆	jin shan bin guan	1
+金山公园	jin shan gong yuan	1
+金水湾度假村	jin shui wan du jia cun	1
+金泰大酒店	jin tai da jiu dian	1
+金太阳大酒店	jin tai yang da jiu dian	1
+金洼	jin wa	1
+进贤村	jin xian cun	1
+金星机械	jin xing ji xie	1
+金星加油站	jin xing jia you zhan	1
+金星社区	jin xing she qu	1
+金星小区	jin xing xiao qu	1
+锦绣谷	jin xiu gu	1
+进修学校	jin xiu xue xiao	1
+锦绣一方	jin xiu yi fang	1
+金叶苑小区	jin ye yuan xiao qu	1
+金源宾馆	jin yuan bin guan	1
+金悦大酒店	jin yue da jiu dian	1
+金庄	jin zhuang	1
+金庄村	jin zhuang cun	1
+金庄子	jin zhuang zi	1
+井仓村	jing cang cun	1
+警官培训中心	jing guan pei xun zhong xin	1
+晶华路	jing hua lu	1
+井家庄村	jing jia zhuang cun	1
+井家庄子	jing jia zhuang zi	1
+荆棵	jing ke	1
+井楼村	jing lou cun	1
+井楼小区	jing lou xiao qu	1
+精神病医院	jing shen bing yi yuan	1
+精神卫生中心	jing shen wei sheng zhong xin	1
+经石峪	jing shi yu	1
+京泰公司	jing tai gong si	1
+净雅大酒店	jing ya da jiu dian	1
+井峪	jing yu	1
+井峪村	jing yu cun	1
+景苑小区	jing yuan xiao qu	1
+精制盐厂	jing zhi yan chang	1
+井庄村	jing zhuang cun	1
+九顶凤凰山	jiu ding feng huang shan	1
+九顶山	jiu ding shan	1
+旧关村	jiu guan cun	1
+九龙村	jiu long cun	1
+九龙窝	jiu long wo	1
+九女泉村	jiu nv quan cun	1
+九女山	jiu nv shan	1
+九山	jiu shan	1
+九山沟	jiu shan gou	1
+旧寺	jiu si	1
+酒台村	jiu tai cun	1
+九天电子	jiu tian dian zi	1
+旧县乡	jiu xian xiang	1
+旧县乡政府	jiu xian xiang zheng fu	1
+旧县中学	jiu xian zhong xue	1
+九鑫花园	jiu xin hua yuan	1
+九星大酒店	jiu xing da jiu dian	1
+旧镇	jiu zhen	1
+旧镇村南	jiu zhen cun nan	1
+旧镇村委	jiu zhen cun wei	1
+旧镇附设站	jiu zhen fu she zhan	1
+旧镇路口	jiu zhen lu kou	1
+旧镇铝材市场	jiu zhen lv cai shi chang	1
+旧镇社区	jiu zhen she qu	1
+九州家园	jiu zhou jia yuan	1
+鞠家石碑	ju jia shi bei	1
+居岭庄村	ju ling zhuang cun	1
+巨龙宾馆	ju long bin guan	1
+爵山	jue shan	1
+军地村	jun di cun	1
+军分区	jun fen qu	1
+君和宾馆	jun he bin guan	1
+卡迪乐	ka di le	1
+开发区管委会	kai fa qu guan wei hui	1
+开山村	kai shan cun	1
+开元路	kai yuan lu	1
+开元小区	kai yuan xiao qu	1
+开元幼儿园	kai yuan you er yuan	1
+阚家庄村	kan jia zhuang cun	1
+看守所	kan shou suo	1
+康村	kang cun	1
+康汇桥	kang hui qiao	1
+康家河	kang jia he	1
+康家庄村	kang jia zhuang cun	1
+康乐村	kang le cun	1
+康平纳集团	kang ping na ji tuan	1
+康王店	kang wang dian	1
+康王酒业	kang wang jiu ye	1
+康威专卖	kang wei zhuan mai	1
+康庄子	kang zhuang zi	1
+栲山	kao shan	1
+科大宾馆	ke da bin guan	1
+科大中天	ke da zhong tian	1
+科技情报研究所	ke ji qing bao yan jiu suo	1
+科山路口	ke shan lu kou	1
+肯德基	ken de ji	1
+孔家村	kong jia cun	1
+孔家街	kong jia jie	1
+孔家岭村	kong jia ling cun	1
+孔家庄村	kong jia zhuang cun	1
+空空山	kong kong shan	1
+口腔病医院	kou qiang bing yi yuan	1
+蒯沟村	kuai gou cun	1
+宽店村	kuan dian cun	1
+矿工佳园	kuang gong jia yuan	1
+矿务局中心医院	kuang wu ju zhong xin yi yuan	1
+昆山	kun shan	1
+昆山村	kun shan cun	1
+拉马沟	la ma gou	1
+腊山	la shan	1
+来来永和豆浆	lai lai yong he dou jiang	1
+莱芜出口	lai wu chu kou	1
+莱茵假日酒店	lai yin jia ri jiu dian	1
+兰岭	lan ling	1
+蓝天宾馆	lan tian bin guan	1
+蓝天阁	lan tian ge	1
+蓝天加油站	lan tian jia you zhan	1
+蓝天商场	lan tian shang chang	1
+拦住山	lan zhu shan	1
+琅珰	lang dang	1
+狼山	lang shan	1
+狼尾山	lang wei shan	1
+老保山	lao bao shan	1
+涝北村	lao bei cun	1
+老城	lao cheng	1
+老城开发区	lao cheng kai fa qu	1
+老城派出所	lao cheng pai chu suo	1
+老城镇	lao cheng zhen	1
+老城镇政府	lao cheng zhen zheng fu	1
+老公山	lao gong shan	1
+涝沟	lao gou	1
+老鸹山	lao gua shan	1
+老虎洞	lao hu dong	1
+老虎山	lao hu shan	1
+老虎窝	lao hu wo	1
+老湖镇	lao hu zhen	1
+涝南村	lao nan cun	1
+老年大学	lao nian da xue	1
+老牛沟	lao niu gou	1
+老牛沟村	lao niu gou cun	1
+老牛坡	lao niu po	1
+老牛山	lao niu shan	1
+老平台	lao ping tai	1
+涝坡村	lao po cun	1
+老汽车站	lao qi che zhan	1
+老山	lao shan	1
+老树峪	lao shu yu	1
+涝滩	lao tan	1
+涝洼村	lao wa cun	1
+老王府村	lao wang fu cun	1
+老王庄村	lao wang zhuang cun	1
+涝西村	lao xi cun	1
+老寨山	lao zhai shan	1
+老转村	lao zhuan cun	1
+老庄村	lao zhuang cun	1
+老庄子村	lao zhuang zi cun	1
+乐购超市	le gou chao shi	1
+乐山村	le shan cun	1
+乐义庄村	le yi zhuang cun	1
+乐园小区	le yuan xiao qu	1
+擂鼓石花园	lei gu shi hua yuan	1
+擂鼓石路中段	lei gu shi lu zhong duan	1
+雷家庄	lei jia zhuang	1
+雷家庄村	lei jia zhuang cun	1
+雷明村	lei ming cun	1
+雷山	lei shan	1
+雷庄村	lei zhuang cun	1
+冷家庄	leng jia zhuang	1
+力博科技	li bo ke ji	1
+李村	li cun	1
+李村庄	li cun zhuang	1
+李大羊村	li da yang cun	1
+李店村	li dian cun	1
+丽都宾馆	li du bin guan	1
+丽都商务酒店	li du shang wu jiu dian	1
+李范村	li fan cun	1
+李官村	li guan cun	1
+李官庄村	li guan zhuang cun	1
+李海村	li hai cun	1
+李行	li hang	1
+栗杭村	li hang cun	1
+李胡村	li hu cun	1
+犁铧尖	li hua jian	1
+李家埠	li jia bu	1
+李家村	li jia cun	1
+李家大坡村	li jia da po cun	1
+李家店村	li jia dian cun	1
+李家阁村	li jia ge cun	1
+李家户村	li jia hu cun	1
+李家林	li jia lin	1
+李家楼村	li jia lou cun	1
+李家平	li jia ping	1
+李家坡	li jia po	1
+李家泉村	li jia quan cun	1
+李家峪	li jia yu	1
+李家峪村	li jia yu cun	1
+李家峪小学	li jia yu xiao xue	1
+李家园	li jia yuan	1
+李家院村	li jia yuan cun	1
+李家庄	li jia zhuang	1
+栗家庄	li jia zhuang	1
+李家庄村	li jia zhuang cun	1
+栗家庄村	li jia zhuang cun	1
+丽景宾馆	li jing bin guan	1
+李井村	li jing cun	1
+利郎男装	li lang nan zhuang	1
+力里村	li li cun	1
+栗林村	li lin cun	1
+李灵村	li ling cun	1
+里留村	li liu cun	1
+李楼村	li lou cun	1
+李马村	li ma cun	1
+李南庄	li nan zhuang	1
+李桥村	li qiao cun	1
+李圈村	li quan cun	1
+李泉子村	li quan zi cun	1
+李山头村	li shan tou cun	1
+离山庄	li shan zhuang	1
+立石村	li shi cun	1
+李台村	li tai cun	1
+李屯村	li tun cun	1
+李仙村	li xian cun	1
+李辛村	li xin cun	1
+里峪村	li yu cun	1
+李园	li yuan	1
+梨园	li yuan	1
+梨园村	li yuan cun	1
+梨园村村委	li yuan cun cun wei	1
+梨园沟村	li yuan gou cun	1
+梨园观光区	li yuan guan guang qu	1
+李寨村	li zhai cun	1
+李纸坊	li zhi fang	1
+李庄	li zhuang	1
+李庄村	li zhuang cun	1
+立庄村	li zhuang cun	1
+李子山	li zi shan	1
+李子峪村	li zi yu cun	1
+莲花池村	lian hua chi cun	1
+莲花山	lian hua shan	1
+莲花山加油站	lian hua shan jia you zhan	1
+莲花峪村	lian hua yu cun	1
+联盟村	lian meng cun	1
+连桥村	lian qiao cun	1
+联通	lian tong	1
+联谊工程塑料	lian yi gong cheng su liao	1
+梁场村	liang chang cun	1
+梁村	liang cun	1
+良村	liang cun	1
+梁记粥铺	liang ji zhou pu	1
+梁家庄	liang jia zhuang	1
+梁家庄村	liang jia zhuang cun	1
+梁林村	liang lin cun	1
+凉泉	liang quan	1
+粮食局	liang shi ju	1
+两县村	liang xian cun	1
+梁崖	liang ya	1
+良义村	liang yi cun	1
+梁庄村	liang zhuang cun	1
+良庄镇	liang zhuang zhen	1
+良子健身	liang zi jian shen	1
+廖村	liao cun	1
+廖桥村	liao qiao cun	1
+烈士祠	lie shi ci	1
+烈士公墓	lie shi gong mu	1
+烈士陵园	lie shi ling yuan	1
+林海村	lin hai cun	1
+林后村	lin hou cun	1
+林家庄村	lin jia zhuang cun	1
+林马庄村	lin ma zhuang cun	1
+林前村	lin qian cun	1
+林台	lin tai	1
+临汶	lin wen	1
+临溪村	lin xi cun	1
+林校操场	lin xiao cao chang	1
+林业大厦	lin ye da sha	1
+林子沟	lin zi gou	1
+零点书店	ling dian shu dian	1
+灵山	ling shan	1
+陵山	ling shan	1
+灵山大街	ling shan da jie	1
+灵山庄	ling shan zhuang	1
+灵应宫	ling ying gong	1
+凌云大厦	ling yun da sha	1
+灵芝大酒店	ling zhi da jiu dian	1
+灵芝小区	ling zhi xiao qu	1
+柳村	liu cun	1
+刘杜村	liu du cun	1
+刘杜工商所	liu du gong shang suo	1
+刘杜镇政府	liu du zhen zheng fu	1
+刘范村	liu fan cun	1
+柳沟村	liu gou cun	1
+刘官庄村	liu guan zhuang cun	1
+柳杭村	liu hang cun	1
+六和食品	liu he shi pin	1
+六和饲料	liu he si liao	1
+刘家埠村	liu jia bu cun	1
+刘家村	liu jia cun	1
+刘家沟	liu jia gou	1
+刘家沟村	liu jia gou cun	1
+柳家街	liu jia jie	1
+刘家山	liu jia shan	1
+刘家台村	liu jia tai cun	1
+刘家疃村	liu jia tuan cun	1
+刘家洼村	liu jia wa cun	1
+刘家峪	liu jia yu	1
+刘家峪村	liu jia yu cun	1
+刘家庄	liu jia zhuang	1
+刘家庄村	liu jia zhuang cun	1
+柳家庄村	liu jia zhuang cun	1
+刘家庄水库	liu jia zhuang shui ku	1
+六郎坟	liu lang fen	1
+六郎坟村	liu lang fen cun	1
+刘立村	liu li cun	1
+柳林村	liu lin cun	1
+刘楼村	liu lou cun	1
+刘庙村	liu miao cun	1
+刘圈村	liu quan cun	1
+柳山	liu shan	1
+留送村	liu song cun	1
+刘所村	liu suo cun	1
+柳台	liu tai	1
+刘洼村	liu wa cun	1
+刘王庄村	liu wang zhuang cun	1
+柳行	liu xing	1
+刘秀山	liu xiu shan	1
+柳营村	liu ying cun	1
+柳峪	liu yu	1
+柳园村	liu yuan cun	1
+刘张村	liu zhang cun	1
+柳州大酒店	liu zhou da jiu dian	1
+刘庄村	liu zhuang cun	1
+柳子沟村	liu zi gou cun	1
+龙船人	long chuan ren	1
+龙岗村	long gang cun	1
+龙海国际大酒店	long hai guo ji da jiu dian	1
+龙华村	long hua cun	1
+龙角山	long jiao shan	1
+龙居寺	long ju si	1
+龙马大酒店	long ma da jiu dian	1
+龙门	long men	1
+龙门口水库	long men kou shui ku	1
+龙泉村	long quan cun	1
+龙泉花苑	long quan hua yuan	1
+龙泉小区	long quan xiao qu	1
+龙山	long shan	1
+龙山村	long shan cun	1
+龙山公园	long shan gong yuan	1
+龙山派出所	long shan pai chu suo	1
+龙山屯村	long shan tun cun	1
+龙山小区	long shan xiao qu	1
+龙山中学	long shan zhong xue	1
+隆盛宾馆	long sheng bin guan	1
+龙潭宾馆	long tan bin guan	1
+龙潭大药店	long tan da yao dian	1
+龙潭飞瀑	long tan fei pu	1
+龙堂村	long tang cun	1
+龙廷镇	long ting zhen	1
+龙湾	long wan	1
+龙王庙	long wang miao	1
+龙王套	long wang tao	1
+龙祥纺织	long xiang fang zhi	1
+龙祥家园	long xiang jia yuan	1
+龙兴公司	long xing gong si	1
+聋哑学校	long ya xue xiao	1
+龙阳村	long yang cun	1
+龙爪峪	long zhua yu	1
+隆庄	long zhuang	1
+楼德镇	lou de zhen	1
+娄家庄村	lou jia zhuang cun	1
+楼台村	lou tai cun	1
+楼辛	lou xin	1
+楼子	lou zi	1
+路长安	lu chang an	1
+芦村	lu cun	1
+路村	lu cun	1
+路沟	lu gou	1
+卢家沟	lu jia gou	1
+卢家沟村	lu jia gou cun	1
+鲁家沟村	lu jia gou cun	1
+鹿家沟村	lu jia gou cun	1
+芦家岭	lu jia ling	1
+卢家营	lu jia ying	1
+芦家庄	lu jia zhuang	1
+逯家庄	lu jia zhuang	1
+芦家庄村	lu jia zhuang cun	1
+路家庄村	lu jia zhuang cun	1
+逯家庄村	lu jia zhuang cun	1
+鲁家庄村	lu jia zhuang cun	1
+鹿角村	lu jiao cun	1
+鲁科手机超市	lu ke shou ji chao shi	1
+芦里村	lu li cun	1
+鲁里村	lu li cun	1
+陆庙	lu miao	1
+鲁能烧鹅仔	lu neng shao e zai	1
+鲁泉大酒店	lu quan da jiu dian	1
+庐山	lu shan	1
+炉山	lu shan	1
+芦山村	lu shan cun	1
+鲁泰建工	lu tai jian gong	1
+鲁泰科技	lu tai ke ji	1
+卢屯村	lu tun cun	1
+鲁屯村	lu tun cun	1
+鲁威化工	lu wei hua gong	1
+鲁西家具大世界	lu xi jia ju da shi jie	1
+鲁祥集团	lu xiang ji tuan	1
+鲁中花园	lu zhong hua yuan	1
+鲁中商城	lu zhong shang cheng	1
+鹿庄	lu zhuang	1
+路庄村	lu zhuang cun	1
+陆庄村	lu zhuang cun	1
+鲁庄村	lu zhuang cun	1
+栾家庄	luan jia zhuang	1
+栾家庄村	luan jia zhuang cun	1
+栾庙村	luan miao cun	1
+栾庄	luan zhuang	1
+栾庄村	luan zhuang cun	1
+罗鼓山	luo gu shan	1
+罗锅地	luo guo di	1
+罗汉崖	luo han ya	1
+罗汉庄村	luo han zhuang cun	1
+落虎山	luo hu shan	1
+罗家堂	luo jia tang	1
+罗家峪	luo jia yu	1
+罗家庄	luo jia zhuang	1
+骆家庄	luo jia zhuang	1
+罗漫	luo man	1
+罗圈崖	luo quan ya	1
+骆驼岭	luo tuo ling	1
+骆驼山	luo tuo shan	1
+骆驼庄	luo tuo zhuang	1
+罗窑村	luo yao cun	1
+罗庄村	luo zhuang cun	1
+绿地公馆	lv di gong guan	1
+旅店村	lv dian cun	1
+吕家胡同	lv jia hu tong	1
+吕家庄	lv jia zhuang	1
+吕家庄村	lv jia zhuang cun	1
+吕楼村	lv lou cun	1
+吕漫	lv man	1
+绿色山庄	lv se shan zhuang	1
+吕仙村	lv xian cun	1
+吕兴村	lv xing cun	1
+吕营	lv ying	1
+绿源科技	lv yuan ke ji	1
+吕庄	lv zhuang	1
+马刨泉	ma bao quan	1
+马代村	ma dai cun	1
+马坊	ma fang	1
+麻风院	ma feng yuan	1
+马河村	ma he cun	1
+马虎台	ma hu tai	1
+马家埠村	ma jia bu cun	1
+马家店	ma jia dian	1
+马家店村	ma jia dian cun	1
+马家岗村	ma jia gang cun	1
+马家沟	ma jia gou	1
+马家林	ma jia lin	1
+马家岭	ma jia ling	1
+马家庙村	ma jia miao cun	1
+马家洼	ma jia wa	1
+马家洼村	ma jia wa cun	1
+马家院	ma jia yuan	1
+马家园村	ma jia yuan cun	1
+马家庄	ma jia zhuang	1
+马家庄村	ma jia zhuang cun	1
+马口	ma kou	1
+马口村	ma kou cun	1
+马郎村	ma lang cun	1
+马连村	ma lian cun	1
+马连河	ma lian he	1
+马连山	ma lian shan	1
+马凉村	ma liang cun	1
+马梁村	ma liang cun	1
+马岭庄村	ma ling zhuang cun	1
+马流泽村	ma liu ze cun	1
+马楼村	ma lou cun	1
+马庙村	ma miao cun	1
+马泉村	ma quan cun	1
+马山	ma shan	1
+马山村	ma shan cun	1
+马山头村	ma shan tou cun	1
+马堂村	ma tang cun	1
+马蹄山	ma ti shan	1
+马蹄峪	ma ti yu	1
+马蹄峪村	ma ti yu cun	1
+马头村	ma tou cun	1
+马湾村	ma wan cun	1
+马尾山	ma wei shan	1
+马新村	ma xin cun	1
+麻峪村	ma yu cun	1
+马寨村	ma zhai cun	1
+马赵村	ma zhao cun	1
+马庄	ma zhuang	1
+马庄村	ma zhuang cun	1
+马庄前村	ma zhuang qian cun	1
+马庄卫生院	ma zhuang wei sheng yuan	1
+马庄镇	ma zhuang zhen	1
+卖饭棚	mai fan peng	1
+麦黄山	mai huang shan	1
+麦肯基	mai ken ji	1
+满北村	man bei cun	1
+满村	man cun	1
+满家村	man jia cun	1
+满庄收费站	man zhuang shou fei zhan	1
+满庄镇	man zhuang zhen	1
+漫子村	man zi cun	1
+茅茨东村	mao ci dong cun	1
+毛家村	mao jia cun	1
+毛家饭店	mao jia fan dian	1
+毛家庄	mao jia zhuang	1
+毛家庄村	mao jia zhuang cun	1
+毛山头	mao shan tou	1
+毛山头村	mao shan tou cun	1
+茂盛村	mao sheng cun	1
+毛小庄村	mao xiao zhuang cun	1
+茅园	mao yuan	1
+毛庄	mao zhuang	1
+毛庄村	mao zhuang cun	1
+美安泰	mei an tai	1
+梅家村	mei jia cun	1
+煤矿医院	mei kuang yi yuan	1
+美廉美超市	mei lian mei chao shi	1
+煤气公司	mei qi gong si	1
+美石记	mei shi ji	1
+煤田地质机械厂	mei tian di zhi ji xie chang	1
+门家庄村	men jia zhuang cun	1
+门庄村	men zhuang cun	1
+孟村	meng cun	1
+孟家村	meng jia cun	1
+孟家岭	meng jia ling	1
+孟家屯村	meng jia tun cun	1
+孟家庄	meng jia zhuang	1
+孟家庄村	meng jia zhuang cun	1
+孟楼	meng lou	1
+蒙牛乳业东门	meng niu ru ye dong men	1
+蒙牛乳业泰安分公司	meng niu ru ye tai an fen gong si	1
+孟寨村	meng zhai cun	1
+孟庄	meng zhuang	1
+孟庄村	meng zhuang cun	1
+庙东村	miao dong cun	1
+苗东村	miao dong cun	1
+苗河	miao he	1
+苗河桥	miao he qiao	1
+庙山	miao shan	1
+庙西村	miao xi cun	1
+苗西村	miao xi cun	1
+苗庄村	miao zhuang cun	1
+庙子	miao zi	1
+庙子牌村	miao zi pai cun	1
+民政大厦	min zheng da sha	1
+民政局	min zheng ju	1
+民政医院	min zheng yi yuan	1
+民政招待所	min zheng zhao dai suo	1
+名茶楼	ming cha lou	1
+明桂花园	ming gui hua yuan	1
+明家庄	ming jia zhuang	1
+铭流府邸	ming liu fu di	1
+明瑞大酒店	ming rui da jiu dian	1
+明瑞化工	ming rui hua gong	1
+名山村	ming shan cun	1
+明天工业园	ming tian gong ye yuan	1
+明新村	ming xin cun	1
+名烟名酒超市	ming yan ming jiu chao shi	1
+名饮超市	ming yin chao shi	1
+明珠大酒店	ming zhu da jiu dian	1
+明珠健身俱乐部	ming zhu jian shen ju le bu	1
+磨山村	mo shan cun	1
+磨石埠村	mo shi bu cun	1
+磨石沟村	mo shi gou cun	1
+磨石口	mo shi kou	1
+摩天岭	mo tian ling	1
+牟汶河	mou wen he	1
+木厂峪村	mu chang yu cun	1
+牡丹大酒店	mu dan da jiu dian	1
+穆家店村	mu jia dian cun	1
+穆家屯	mu jia tun	1
+穆家庄	mu jia zhuang	1
+穆家庄村	mu jia zhuang cun	1
+木口峪	mu kou yu	1
+木营村	mu ying cun	1
+母猪山	mu zhu shan	1
+穆庄村	mu zhuang cun	1
+南安	nan an	1
+南岙阳村	nan ao yang cun	1
+南鲍村	nan bao cun	1
+南北王村	nan bei wang cun	1
+南鄙东村	nan bi dong cun	1
+南陈村	nan chen cun	1
+南城子	nan cheng zi	1
+南城子村	nan cheng zi cun	1
+南仇村	nan chou cun	1
+南村	nan cun	1
+南大留村	nan da liu cun	1
+南大路	nan da lu	1
+南店子村	nan dian zi cun	1
+南港	nan gang	1
+南高北村	nan gao bei cun	1
+南高余	nan gao yu	1
+南葛家圈村	nan ge jia quan cun	1
+南公东村	nan gong dong cun	1
+南沟	nan gou	1
+南故城村	nan gu cheng cun	1
+南谷里村	nan gu li cun	1
+南谷庄	nan gu zhuang	1
+南关	nan guan	1
+南关村	nan guan cun	1
+南关加油站	nan guan jia you zhan	1
+南关路口	nan guan lu kou	1
+南关南路	nan guan nan lu	1
+南关小学	nan guan xiao xue	1
+南关幼儿园	nan guan you er yuan	1
+南关中学	nan guan zhong xue	1
+南灌庄	nan guan zhuang	1
+南官庄村	nan guan zhuang cun	1
+南韩村	nan han cun	1
+南河	nan he	1
+南河东村	nan he dong cun	1
+南河西村	nan he xi cun	1
+南湖公园	nan hu gong yuan	1
+南湖公园南门	nan hu gong yuan nan men	1
+南黄村	nan huang cun	1
+南角峪村	nan jiao yu cun	1
+南井	nan jing	1
+南李庄村	nan li zhuang cun	1
+南岭	nan ling	1
+南岭村	nan ling cun	1
+南刘家庄	nan liu jia zhuang	1
+南留南村	nan liu nan cun	1
+南流泉村	nan liu quan cun	1
+南留屯村	nan liu tun cun	1
+南刘庄	nan liu zhuang	1
+南刘庄村	nan liu zhuang cun	1
+南栾村	nan luan cun	1
+南吕村	nan lv cun	1
+南麻套	nan ma tao	1
+南美宾馆	nan mei bin guan	1
+南门村	nan men cun	1
+南门农贸市场	nan men nong mao shi chang	1
+南平	nan ping	1
+南坡	nan po	1
+南桥村	nan qiao cun	1
+南泉	nan quan	1
+南山	nan shan	1
+南山头村	nan shan tou cun	1
+南上高	nan shang gao	1
+南上高村	nan shang gao cun	1
+南石沟村	nan shi gou cun	1
+南双村	nan shuang cun	1
+南水泉	nan shui quan	1
+南宋村	nan song cun	1
+南台	nan tai	1
+南台子	nan tai zi	1
+南腾村	nan teng cun	1
+南天门	nan tian men	1
+南屯村	nan tun cun	1
+南外环路	nan wai huan lu	1
+南王	nan wang	1
+南王村	nan wang cun	1
+南王家庄	nan wang jia zhuang	1
+南王家庄村	nan wang jia zhuang cun	1
+南王庄村	nan wang zhuang cun	1
+南窝	nan wo	1
+南西周村	nan xi zhou cun	1
+南夏村	nan xia cun	1
+南下庄	nan xia zhuang	1
+南贤村	nan xian cun	1
+南小胡	nan xiao hu	1
+南小庄	nan xiao zhuang	1
+南辛庄村	nan xin zhuang cun	1
+南邢家寨	nan xing jia zhai	1
+南许村	nan xu cun	1
+南杨村	nan yang cun	1
+南阳关村	nan yang guan cun	1
+南羊流村	nan yang liu cun	1
+南杨庄村	nan yang zhuang cun	1
+南驿村	nan yi cun	1
+南仪仙村	nan yi xian cun	1
+南迎村	nan ying cun	1
+南迎小学	nan ying xiao xue	1
+南峪	nan yu	1
+南峪村	nan yu cun	1
+南园村	nan yuan cun	1
+南宅	nan zhai	1
+南寨	nan zhai	1
+南寨村	nan zhai cun	1
+南站村	nan zhan cun	1
+南张庄村	nan zhang zhuang cun	1
+南赵庄村	nan zhao zhuang cun	1
+南朱村	nan zhu cun	1
+南庄村	nan zhuang cun	1
+泥沟村	ni gou cun	1
+泥家村	ni jia cun	1
+倪氏顺风肥牛	ni shi shun feng fei niu	1
+倪庄	ni zhuang	1
+倪庄村	ni zhuang cun	1
+廿里埠村	nian li bu cun	1
+碾子峪	nian zi yu	1
+娘娘庙山	niang niang miao shan	1
+聂家庄	nie jia zhuang	1
+聂家庄村	nie jia zhuang cun	1
+聂庄村	nie zhuang cun	1
+宁家村	ning jia cun	1
+宁家沟	ning jia gou	1
+宁家结庄	ning jia jie zhuang	1
+宁家结庄村	ning jia jie zhuang cun	1
+宁家庄村	ning jia zhuang cun	1
+宁结新村	ning jie xin cun	1
+宁阳宾馆	ning yang bin guan	1
+宁阳服务区	ning yang fu wu qu	1
+宁阳九中	ning yang jiu zhong	1
+宁阳汽车站	ning yang qi che zhan	1
+宁阳十八中	ning yang shi ba zhong	1
+宁阳十二中	ning yang shi er zhong	1
+宁阳实验高中	ning yang shi yan gao zhong	1
+宁阳实验中学	ning yang shi yan zhong xue	1
+宁阳十中	ning yang shi zhong	1
+宁阳四中	ning yang si zhong	1
+宁阳县	ning yang xian	1
+宁阳县财政局	ning yang xian cai zheng ju	1
+宁阳县法院	ning yang xian fa yuan	1
+宁阳县公安局	ning yang xian gong an ju	1
+宁阳县公路局	ning yang xian gong lu ju	1
+宁阳县环保局	ning yang xian huan bao ju	1
+宁阳县建设局	ning yang xian jian she ju	1
+宁阳县教育局	ning yang xian jiao yu ju	1
+宁阳县司法局	ning yang xian si fa ju	1
+宁阳县政府	ning yang xian zheng fu	1
+宁阳一中	ning yang yi zhong	1
+宁阳职教中心	ning yang zhi jiao zhong xin	1
+牛道	niu dao	1
+牛家村	niu jia cun	1
+牛家园	niu jia yuan	1
+牛家庄村	niu jia zhuang cun	1
+牛角	niu jiao	1
+牛角村	niu jiao cun	1
+牛角山	niu jiao shan	1
+牛圈村	niu juan cun	1
+牛口峪	niu kou yu	1
+牛楼	niu lou	1
+牛山村	niu shan cun	1
+牛山口村	niu shan kou cun	1
+牛山寺	niu shan si	1
+牛山庄	niu shan zhuang	1
+牛庄村	niu zhuang cun	1
+农村信用社	nong cun xin yong she	1
+农大宾馆	nong da bin guan	1
+农大后门	nong da hou men	1
+农大科技肥业	nong da ke ji fei ye	1
+农大新校	nong da xin xiao	1
+农行城南分理处	nong hang cheng nan fen li chu	1
+农行城西分理处	nong hang cheng xi fen li chu	1
+农行新城支行	nong hang xin cheng zhi hang	1
+农机公司	nong ji gong si	1
+农机局	nong ji ju	1
+农科院	nong ke yuan	1
+农业大学	nong ye da xue	1
+农业局	nong ye ju	1
+女人世界商城	nv ren shi jie shang cheng	1
+藕池村	ou chi cun	1
+琶山	pa shan	1
+琶山村	pa shan cun	1
+牌子村	pai zi cun	1
+盘车沟村	pan che gou cun	1
+盘古庄村	pan gu zhuang cun	1
+泮河中学	pan he zhong xue	1
+潘家庄村	pan jia zhuang cun	1
+盘龙山	pan long shan	1
+蟠龙山	pan long shan	1
+盘坡村	pan po cun	1
+潘台村	pan tai cun	1
+潘庄村	pan zhuang cun	1
+滂河大桥	pang he da qiao	1
+庞家庄村	pang jia zhuang cun	1
+旁角	pang jiao	1
+旁山	pang shan	1
+庞庄村	pang zhuang cun	1
+炮楼顶	pao lou ding	1
+裴家峪	pei jia yu	1
+裴家庄	pei jia zhuang	1
+裴家庄村	pei jia zhuang cun	1
+裴洼村	pei wa cun	1
+裴寨村	pei zhai cun	1
+彭集镇	peng ji zhen	1
+彭家峪	peng jia yu	1
+彭家寨	peng jia zhai	1
+彭家庄村	peng jia zhuang cun	1
+彭徐店村	peng xu dian cun	1
+皮肤病防治站	pi fu bing fang zhi zhan	1
+匹克运动	pi ke yun dong	1
+琵琶湾	pi pa wan	1
+皮山	pi shan	1
+皮屋顶	pi wu ding	1
+偏山	pian shan	1
+平安石油	ping an shi you	1
+平安停车场	ping an ting che chang	1
+平安药店	ping an yao dian	1
+平顶山	ping ding shan	1
+平湖花苑	ping hu hua yuan	1
+平价超市	ping jia chao shi	1
+平家村	ping jia cun	1
+平家官庄村	ping jia guan zhuang cun	1
+平价药店	ping jia yao dian	1
+平子村	ping zi cun	1
+坡里村	po li cun	1
+桲椤峪	po luo yu	1
+婆婆峪村	po po yu cun	1
+破玉石	po yu shi	1
+坡庄村	po zhuang cun	1
+破庄子	po zhuang zi	1
+普惠建工	pu hui jian gong	1
+铺上街	pu shang jie	1
+蒲台村	pu tai cun	1
+葡萄山	pu tao shan	1
+葡萄峪	pu tao yu	1
+普照宾馆	pu zhao bin guan	1
+普照寺	pu zhao si	1
+普照小区	pu zhao xiao qu	1
+埔庄	pu zhuang	1
+齐长城	qi chang cheng	1
+汽车修配厂	qi che xiu pei chang	1
+齐村	qi cun	1
+杞都宾馆	qi dou bin guan	1
+齐官屯	qi guan tun	1
+起驾店	qi jia dian	1
+齐家庄	qi jia zhuang	1
+亓家庄村	qi jia zhuang cun	1
+齐家庄村	qi jia zhuang cun	1
+七里	qi li	1
+七里铺村	qi li pu cun	1
+七里小区	qi li xiao qu	1
+其林	qi lin	1
+齐鲁银座	qi lu yin zuo	1
+齐鲁证券	qi lu zheng quan	1
+齐鲁证券公司	qi lu zheng quan gong si	1
+七匹狼	qi pi lang	1
+齐桥村	qi qiao cun	1
+七色光幼儿园	qi se guang you er yuan	1
+戚台村	qi tai cun	1
+亓庄村	qi zhuang cun	1
+洽洽食品公司	qia qia shi pin gong si	1
+前泊村	qian bo cun	1
+前仓村	qian cang cun	1
+前柴城村	qian chai cheng cun	1
+前代村	qian dai cun	1
+前店子	qian dian zi	1
+前东庄	qian dong zhuang	1
+前段庄	qian duan zhuang	1
+前伏山村	qian fu shan cun	1
+前高佐村	qian gao zuo cun	1
+浅沟	qian gou	1
+前官庄	qian guan zhuang	1
+前海子村	qian hai zi cun	1
+前韩庄村	qian han zhuang cun	1
+前贺庄	qian he zhuang	1
+前黄村	qian huang cun	1
+前集	qian ji	1
+钱家巷	qian jia xiang	1
+前街村	qian jie cun	1
+前进村	qian jin cun	1
+前旧县村	qian jiu xian cun	1
+前口头村	qian kou tou cun	1
+前李村	qian li cun	1
+前李楼	qian li lou	1
+前李庄	qian li zhuang	1
+前梁村	qian liang cun	1
+前楼村	qian lou cun	1
+前马村	qian ma cun	1
+前牛	qian niu	1
+前彭村	qian peng cun	1
+前桥村	qian qiao cun	1
+前沙村	qian sha cun	1
+钱山	qian shan	1
+前山村	qian shan cun	1
+前山屯村	qian shan tun cun	1
+前上庄村	qian shang zhuang cun	1
+前省庄村	qian sheng zhuang cun	1
+前水河村	qian shui he cun	1
+浅水湾大酒店	qian shui wan da jiu dian	1
+前寺庄村	qian si zhuang cun	1
+前屯	qian tun	1
+前望峰村	qian wang feng cun	1
+前王庄	qian wang zhuang	1
+前围	qian wei	1
+前辛庄村	qian xin zhuang cun	1
+前兴隆村	qian xing long cun	1
+前崖村	qian ya cun	1
+前杨村	qian yang cun	1
+前羊村	qian yang cun	1
+前一村	qian yi cun	1
+钱一村	qian yi cun	1
+前营	qian ying	1
+前营村	qian ying cun	1
+前于村	qian yu cun	1
+前寨	qian zhai	1
+前寨子村	qian zhai zi cun	1
+前张村	qian zhang cun	1
+前张庄村	qian zhang zhuang cun	1
+前赵庄	qian zhao zhuang	1
+前庄	qian zhuang	1
+钱庄村	qian zhuang cun	1
+乔村	qiao cun	1
+桥沟村	qiao gou cun	1
+乔家林	qiao jia lin	1
+乔家庄	qiao jia zhuang	1
+乔家庄村	qiao jia zhuang cun	1
+桥口村	qiao kou cun	1
+乔山	qiao shan	1
+巧山村	qiao shan cun	1
+桥头村	qiao tou cun	1
+桥湾	qiao wan	1
+桥西头村	qiao xi tou cun	1
+乔庄	qiao zhuang	1
+乔庄村	qiao zhuang cun	1
+桥子	qiao zi	1
+芹村	qin cun	1
+秦家庄村	qin jia zhuang cun	1
+秦岭村	qin ling cun	1
+秦楼村	qin lou cun	1
+琴山	qin shan	1
+秦庄	qin zhuang	1
+青川后	qing chuan hou	1
+青川站	qing chuan zhan	1
+青川中村	qing chuan zhong cun	1
+青春创业园	qing chun chuang ye yuan	1
+清大集团	qing da ji tuan	1
+清河村	qing he cun	1
+清河峪	qing he yu	1
+青后村	qing hou cun	1
+清华园	qing hua yuan	1
+清华苑	qing hua yuan	1
+清凉山	qing liang shan	1
+青龙背	qing long bei	1
+青龙路市场	qing long lu shi chang	1
+青龙山	qing long shan	1
+青龙峪	qing long yu	1
+青沙庄村	qing sha zhuang cun	1
+青山	qing shan	1
+青山家园	qing shan jia yuan	1
+青少年宫	qing shao nian gong	1
+青松宾馆	qing song bin guan	1
+青云湖公园	qing yun hu gong yuan	1
+青云花苑	qing yun hua yuan	1
+青云街道办	qing yun jie dao ban	1
+青云联华	qing yun lian hua	1
+青云山	qing yun shan	1
+青云山村	qing yun shan cun	1
+青云山庄	qing yun shan zhuang	1
+青云一中	qing yun yi zhong	1
+清真寺小区	qing zhen si xiao qu	1
+邱家店	qiu jia dian	1
+邱家店镇	qiu jia dian zhen	1
+邱家庄村	qiu jia zhuang cun	1
+秋林村	qiu lin cun	1
+屈楼村	qu lou cun	1
+泉沟	quan gou	1
+泉沟村	quan gou cun	1
+泉沟镇	quan gou zhen	1
+泉沟镇政府	quan gou zhen zheng fu	1
+泉河村	quan he cun	1
+泉南村	quan nan cun	1
+泉坡村	quan po cun	1
+泉上村	quan shang cun	1
+泉胜村	quan sheng cun	1
+泉盛大酒店	quan sheng da jiu dian	1
+泉水湾村	quan shui wan cun	1
+泉水峪	quan shui yu	1
+泉头	quan tou	1
+泉头村	quan tou cun	1
+泉西村	quan xi cun	1
+燃料公司	ran liao gong si	1
+燃气集团	ran qi ji tuan	1
+冉庄村	ran zhuang cun	1
+仁博医药公司	ren bo yi yao gong si	1
+人福宾馆	ren fu bin guan	1
+仁贵山	ren gui shan	1
+任家村	ren jia cun	1
+任家街村	ren jia jie cun	1
+任家峪	ren jia yu	1
+仁里村	ren li cun	1
+任门村	ren men cun	1
+人民会堂	ren min hui tang	1
+人民医院	ren min yi yuan	1
+人民银行	ren min yin hang	1
+仁盛饭店	ren sheng fan dian	1
+仁义庄村	ren yi zhuang cun	1
+仁庄村	ren zhuang cun	1
+日观峰	ri guan feng	1
+日泰皮鞋	ri tai pi xie	1
+日月星大酒店	ri yue xing da jiu dian	1
+荣村	rong cun	1
+荣华村	rong hua cun	1
+荣花树村	rong hua shu cun	1
+荣军医院	rong jun yi yuan	1
+荣庄村	rong zhuang cun	1
+如家酒店	ru jia jiu dian	1
+如意宾馆	ru yi bin guan	1
+如意山	ru yi shan	1
+瑞山村	rui shan cun	1
+瑞泰集团	rui tai ji tuan	1
+瑞鑫宾馆	rui xin bin guan	1
+瑞友宾馆	rui you bin guan	1
+萨家庄村	sa jia zhuang cun	1
+赛客咖啡	sai ke ka fei	1
+赛维干洗连锁	sai wei gan xi lian suo	1
+三卜村	san bu cun	1
+三岔沟	san cha gou	1
+三岔河村	san cha he cun	1
+三岔口村	san cha kou cun	1
+三丰摄影	san feng she ying	1
+三官寨	san guan zhai	1
+三和百货	san he bai huo	1
+三合村	san he cun	1
+三和公司	san he gong si	1
+三合水厂	san he shui chang	1
+三合庄	san he zhuang	1
+三环村	san huan cun	1
+三家沟	san jia gou	1
+三角山	san jiao shan	1
+三井村	san jing cun	1
+三里庄	san li zhuang	1
+三里庄村	san li zhuang cun	1
+三联家电商场	san lian jia dian shang chang	1
+三联书店	san lian shu dian	1
+三联小区	san lian xiao qu	1
+三良村	san liang cun	1
+三亩地	san mu di	1
+三娘庙村	san niang miao cun	1
+三山	san shan	1
+三山村	san shan cun	1
+三洼村	san wa cun	1
+三味书屋	san wei shu wu	1
+三星橡胶	san xing xiang jiao	1
+三阳观	san yang guan	1
+三义庄村	san yi zhuang cun	1
+三友新村	san you xin cun	1
+三源家电	san yuan jia dian	1
+桑杭村	sang hang cun	1
+桑家	sang jia	1
+桑家疃小区	sang jia tuan xiao qu	1
+桑家庄村	sang jia zhuang cun	1
+桑园村	sang yuan cun	1
+扫帚峪	sao zhou yu	1
+森马	sen ma	1
+沙岗	sha gang	1
+沙沟村	sha gou cun	1
+沙沟峪村	sha gou yu cun	1
+沙河站镇	sha he zhan zhen	1
+沙河站中学	sha he zhan zhong xue	1
+沙河庄村	sha he zhuang cun	1
+沙岭村	sha ling cun	1
+沙路村	sha lu cun	1
+沙坡	sha po	1
+沙窝村	sha wo cun	1
+沙峪	sha yu	1
+沙峪沟	sha yu gou	1
+沙庄	sha zhuang	1
+沙庄村	sha zhuang cun	1
+晒书城	shai shu cheng	1
+山城大酒店	shan cheng da jiu dian	1
+山东傲饰集团	shan dong ao shi ji tuan	1
+山东电力	shan dong dian li	1
+山东电校分校	shan dong dian xiao fen xiao	1
+山东服装学院	shan dong fu zhuang xue yuan	1
+山东宏康	shan dong hong kang	1
+山东科技大学	shan dong ke ji da xue	1
+山东龙业机械	shan dong long ye ji xie	1
+山东农业大学	shan dong nong ye da xue	1
+山东省电力学校	shan dong sheng dian li xue xiao	1
+山东省泰山中学	shan dong sheng tai shan zhong xue	1
+山东泰和集团	shan dong tai he ji tuan	1
+山东头	shan dong tou	1
+山东兴润	shan dong xing run	1
+山东兴润建设	shan dong xing run jian she	1
+山东一滕集团	shan dong yi teng ji tuan	1
+山东医药技师学院	shan dong yi yao ji shi xue yuan	1
+山根村	shan gen cun	1
+山后	shan hou	1
+山后村	shan hou cun	1
+山咀村	shan ju cun	1
+山科大泰山科技学院	shan ke da tai shan ke ji xue yuan	1
+山口	shan kou	1
+山口村	shan kou cun	1
+山口镇	shan kou zhen	1
+山岭村	shan ling cun	1
+山岭子	shan ling zi	1
+山前	shan qian	1
+山前村	shan qian cun	1
+山泉村	shan quan cun	1
+山神庙村	shan shen miao cun	1
+山水宾馆	shan shui bin guan	1
+山头村	shan tou cun	1
+山头水库	shan tou shui ku	1
+山洼村	shan wa cun	1
+山沃村	shan wo cun	1
+山窝村	shan wo cun	1
+山西头	shan xi tou	1
+山阳东村	shan yang dong cun	1
+山阳铺村	shan yang pu cun	1
+山羊山	shan yang shan	1
+山阳水库	shan yang shui ku	1
+山楂行	shan zha xing	1
+山赵村	shan zhao cun	1
+扇子面	shan zi mian	1
+山子坡	shan zi po	1
+山子前	shan zi qian	1
+扇子崖	shan zi ya	1
+上八分	shang ba fen	1
+上北山	shang bei shan	1
+商城宾馆	shang cheng bin guan	1
+上池	shang chi	1
+上大岭	shang da ling	1
+上岛咖啡西餐厅	shang dao ka fei xi can ting	1
+尚东村	shang dong cun	1
+上港村	shang gang cun	1
+上高乡	shang gao xiang	1
+尚古庄村	shang gu zhuang cun	1
+上官庄村	shang guan zhuang cun	1
+上海老凤祥银楼	shang hai lao feng xiang yin lou	1
+上河村	shang he cun	1
+上河桥	shang he qiao	1
+上红山	shang hong shan	1
+尚家楼	shang jia lou	1
+尚家寨	shang jia zhai	1
+尚家寨村	shang jia zhai cun	1
+商家庄	shang jia zhuang	1
+尚家庄村	shang jia zhuang cun	1
+商老庄乡	shang lao zhuang xiang	1
+上里村	shang li cun	1
+上梨园村	shang li yuan cun	1
+尚流泽村	shang liu ze cun	1
+商楼村	shang lou cun	1
+上前村	shang qian cun	1
+上泉村	shang quan cun	1
+尚任屯村	shang ren tun cun	1
+上水河村	shang shui he cun	1
+上套	shang tao	1
+上桃花	shang tao hua	1
+上疃	shang tuan	1
+上旺	shang wang	1
+上旺村	shang wang cun	1
+上王庄村	shang wang zhuang cun	1
+商务休闲女装	shang wu xiu xian nv zhuang	1
+尚西村	shang xi cun	1
+商业局	shang ye ju	1
+尚义庄村	shang yi zhuang cun	1
+上峪	shang yu	1
+上峪村	shang yu cun	1
+上寨村	shang zhai cun	1
+尚质村	shang zhi cun	1
+上庄村	shang zhuang cun	1
+商庄村	shang zhuang cun	1
+尚庄村	shang zhuang cun	1
+上庄子	shang zhuang zi	1
+邵家庄	shao jia zhuang	1
+邵家庄村	shao jia zhuang cun	1
+韶庄	shao zhuang	1
+佘庄村	she zhuang cun	1
+沈村	shen cun	1
+沈家屯村	shen jia tun cun	1
+沈家庄村	shen jia zhuang cun	1
+沈家庄镇	shen jia zhuang zhen	1
+沈楼村	shen lou cun	1
+沈铺村	shen pu cun	1
+沈屯村	shen tun cun	1
+申西村	shen xi cun	1
+神州宾馆	shen zhou bin guan	1
+神州大厦	shen zhou da sha	1
+神州药店	shen zhou yao dian	1
+椹子沟村	shen zi gou cun	1
+圣地国际公寓	sheng di guo ji gong yu	1
+圣佛寺村	sheng fo si cun	1
+生活秀	sheng huo xiu	1
+胜利水库	sheng li shui ku	1
+胜山	sheng shan	1
+圣水山	sheng shui shan	1
+圣天狐	sheng tian hu	1
+升仙坊	sheng xian fang	1
+省药材学校	sheng yao cai xue xiao	1
+盛源宾馆	sheng yuan bin guan	1
+圣元村	sheng yuan cun	1
+盛源小区	sheng yuan xiao qu	1
+省庄	sheng zhuang	1
+省庄镇	sheng zhuang zhen	1
+石碑村	shi bei cun	1
+市财政局	shi cai zheng ju	1
+石槽村	shi cao cun	1
+时代佳苑	shi dai jia yuan	1
+市第八中学	shi di ba zhong xue	1
+市第二中学	shi di er zhong xue	1
+市第九中学	shi di jiu zhong xue	1
+市第六中学	shi di liu zhong xue	1
+市第七中学	shi di qi zhong xue	1
+市第三中学	shi di san zhong xue	1
+市第十七中学	shi di shi qi zhong xue	1
+市第十中学	shi di shi zhong xue	1
+市第四中学	shi di si zhong xue	1
+市第五中学	shi di wu zhong xue	1
+市第一医院	shi di yi yi yuan	1
+石东村	shi dong cun	1
+石垛子	shi duo zi	1
+十二连桥	shi er lian qiao	1
+市儿童福利院	shi er tong fu li yuan	1
+石房村	shi fang cun	1
+十方院	shi fang yuan	1
+市福利院	shi fu li yuan	1
+事故处理中心	shi gu chu li zhong xin	1
+石河村	shi he cun	1
+石河庄村	shi he zhuang cun	1
+石横特殊钢厂	shi heng te shu gang chang	1
+石横镇	shi heng zhen	1
+石化宾馆	shi hua bin guan	1
+石灰峪村	shi hui yu cun	1
+石集	shi ji	1
+世纪城	shi ji cheng	1
+师集村	shi ji cun	1
+石集村	shi ji cun	1
+世纪花园	shi ji hua yuan	1
+市计生服务站	shi ji sheng fu wu zhan	1
+史家场	shi jia chang	1
+施家村	shi jia cun	1
+世家广场	shi jia guang chang	1
+施家结庄南段	shi jia jie zhuang nan duan	1
+石家岭	shi jia ling	1
+市驾驶员协会	shi jia shi yuan xie hui	1
+施家峪	shi jia yu	1
+石家峪	shi jia yu	1
+石家庄	shi jia zhuang	1
+史家庄村	shi jia zhuang cun	1
+时家庄村	shi jia zhuang cun	1
+石家庄村	shi jia zhuang cun	1
+市口腔病医院	shi kou qiang bing yi yuan	1
+石腊	shi la	1
+石莱镇	shi lai zhen	1
+十里河	shi li he	1
+十里铺	shi li pu	1
+十里堡村	shi li pu cun	1
+十里铺村	shi li pu cun	1
+市联通公司	shi lian tong gong si	1
+市粮食局	shi liang shi ju	1
+石龙沟	shi long gou	1
+石龙头村	shi long tou cun	1
+史楼村	shi lou cun	1
+石楼村	shi lou cun	1
+石马村	shi ma cun	1
+石门	shi men	1
+石门村	shi men cun	1
+石门山	shi men shan	1
+石门庄	shi men zhuang	1
+石庙村	shi miao cun	1
+石庙山	shi miao shan	1
+石棚	shi peng	1
+石棚村	shi peng cun	1
+石棚山	shi peng shan	1
+石桥村	shi qiao cun	1
+石桥庄	shi qiao zhuang	1
+石桥子	shi qiao zi	1
+石泉村	shi quan cun	1
+石泉庄村	shi quan zhuang cun	1
+市人大政协	shi ren da zheng xie	1
+市人大政协北门	shi ren da zheng xie bei men	1
+石山坡	shi shan po	1
+石山子	shi shan zi	1
+石山子村	shi shan zi cun	1
+时尚芭莎摄影	shi shang ba sha she ying	1
+市十四中学	shi shi si zhong xue	1
+市水泥制品厂	shi shui ni zhi pin chang	1
+石屯村	shi tun cun	1
+石湾村	shi wan cun	1
+市委	shi wei	1
+市委党校	shi wei dang xiao	1
+市委市政府	shi wei shi zheng fu	1
+石汶河	shi wen he	1
+石窝	shi wo	1
+石屋村	shi wu cun	1
+石崖村	shi ya cun	1
+试验设备制配厂	shi yan she bei zhi pei chang	1
+实验小学	shi yan xiao xue	1
+实验幼儿园	shi yan you er yuan	1
+实验中学	shi yan zhong xue	1
+市造纸厂	shi zao zhi chang	1
+市针织厂	shi zhen zhi chang	1
+市政工程处	shi zheng gong cheng chu	1
+市政广场	shi zheng guang chang	1
+市政加油站	shi zheng jia you zhan	1
+市政宿舍	shi zheng su she	1
+市中医院	shi zhong yi yuan	1
+史庄	shi zhuang	1
+施庄村	shi zhuang cun	1
+柿子沟	shi zi gou	1
+狮子山	shi zi shan	1
+柿子园	shi zi yuan	1
+守安村	shou an cun	1
+收费站	shou fei zhan	1
+曙光幼儿园	shu guang you er yuan	1
+疏里村	shu li cun	1
+漱玉平民大药房	shu yu ping min da yao fang	1
+双河	shuang he	1
+双河村	shuang he cun	1
+双柳村	shuang liu cun	1
+双刘庄	shuang liu zhuang	1
+双龙村	shuang long cun	1
+双龙大厦	shuang long da sha	1
+双龙物流	shuang long wu liu	1
+双楼村	shuang lou cun	1
+双庙	shuang miao	1
+双庙村	shuang miao cun	1
+双泉村	shuang quan cun	1
+双泉峪村	shuang quan yu cun	1
+双山	shuang shan	1
+双山村	shuang shan cun	1
+双塔村	shuang ta cun	1
+双塔山	shuang ta shan	1
+双星连锁店	shuang xing lian suo dian	1
+双峪村	shuang yu cun	1
+水沟	shui gou	1
+水浒村	shui hu cun	1
+水利机械厂	shui li ji xie chang	1
+水利局	shui li ju	1
+水牛埠村	shui niu bu cun	1
+水牛山	shui niu shan	1
+水坡村	shui po cun	1
+水泉村	shui quan cun	1
+水泉峪	shui quan yu	1
+水泉庄村	shui quan zhuang cun	1
+水泉子	shui quan zi	1
+水峪村	shui yu cun	1
+水云涧	shui yun jian	1
+水煮天下	shui zhu tian xia	1
+顺达加油站	shun da jia you zhan	1
+顺发超市	shun fa chao shi	1
+顺丰肥牛	shun feng fei niu	1
+顺风肥牛	shun feng fei niu	1
+顺河庄	shun he zhuang	1
+顺河庄村	shun he zhuang cun	1
+顺华肥牛	shun hua fei niu	1
+顺天桥	shun tian qiao	1
+顺义庄村	shun yi zhuang cun	1
+丝绸公司	si chou gong si	1
+四川酒村	si chuan jiu cun	1
+四川酒家	si chuan jiu jia	1
+泗店镇	si dian zhen	1
+四顶山	si ding shan	1
+四海商城	si hai shang cheng	1
+四合村	si he cun	1
+寺河村	si he cun	1
+四合庄村	si he zhuang cun	1
+四槐树	si huai shu	1
+四槐树村	si huai shu cun	1
+司家庄村	si jia zhuang cun	1
+寺近	si jin	1
+司里村	si li cun	1
+司里山	si li shan	1
+四里庄	si li zhuang	1
+寺岭村	si ling cun	1
+寺山	si shan	1
+寺头村	si tou cun	1
+四维制药	si wei zhi yao	1
+泗庄村	si zhuang cun	1
+宋村	song cun	1
+宋家沟	song jia gou	1
+宋家林	song jia lin	1
+宋家疃村	song jia tuan cun	1
+宋家庄	song jia zhuang	1
+宋家庄村	song jia zhuang cun	1
+送驾庄村	song jia zhuang cun	1
+宋梁村	song liang cun	1
+松棚	song peng	1
+松棚村	song peng cun	1
+宋圈村	song quan cun	1
+松树林村	song shu lin cun	1
+宋台村	song tai cun	1
+宋屯	song tun	1
+松园	song yuan	1
+宋园村	song yuan cun	1
+松园小区	song yuan xiao qu	1
+松园小区东门	song yuan xiao qu dong men	1
+宋庄	song zhuang	1
+宋庄村	song zhuang cun	1
+宿城村	su cheng cun	1
+塑钢门窗厂	su gang men chuang chang	1
+宿家庄村	su jia zhuang cun	1
+苏家庄村	su jia zhuang cun	1
+苏脑	su nao	1
+苏泉村	su quan cun	1
+苏庄村	su zhuang cun	1
+蒜园子	suan yuan zi	1
+穗山	sui shan	1
+孙伯镇	sun bo zhen	1
+孙村	sun cun	1
+孙岗	sun gang	1
+孙岗村	sun gang cun	1
+孙家沟村	sun jia gou cun	1
+孙家林	sun jia lin	1
+孙家岭	sun jia ling	1
+孙家楼村	sun jia lou cun	1
+孙家庙村	sun jia miao cun	1
+孙家疃村	sun jia tuan cun	1
+孙家小庄村	sun jia xiao zhuang cun	1
+孙家峪	sun jia yu	1
+孙家庄村	sun jia zhuang cun	1
+孙楼村	sun lou cun	1
+孙庙村	sun miao cun	1
+孙庄	sun zhuang	1
+孙庄村	sun zhuang cun	1
+孙庄村委会	sun zhuang cun wei hui	1
+所里村	suo li cun	1
+索庄村	suo zhuang cun	1
+塔房村	ta fang cun	1
+泰安奥林匹克花园	tai an ao lin pi ke hua yuan	1
+泰安百川纸业	tai an bai chuan zhi ye	1
+泰安宾馆	tai an bin guan	1
+泰安长城中学	tai an chang cheng zhong xue	1
+泰安昌达国际公司	tai an chang da guo ji gong si	1
+泰安长途汽车站	tai an chang tu qi che zhan	1
+泰安第二中学	tai an di er zhong xue	1
+泰安第十九中学	tai an di shi jiu zhong xue	1
+泰安第十五中学	tai an di shi wu zhong xue	1
+泰安第四中学	tai an di si zhong xue	1
+泰安电影院	tai an dian ying yuan	1
+泰安东方丰田	tai an dong fang feng tian	1
+泰安东岳中学	tai an dong yue zhong xue	1
+泰安饭店	tai an fan dian	1
+泰安服务区	tai an fu wu qu	1
+泰安海关	tai an hai guan	1
+泰安回民中学	tai an hui min zhong xue	1
+泰安六中	tai an liu zhong	1
+泰安酿酒总厂	tai an niang jiu zong chang	1
+泰安农业机械局	tai an nong ye ji xie ju	1
+泰安汽车站	tai an qi che zhan	1
+泰安强世行	tai an qiang shi hang	1
+泰安日报社	tai an ri bao she	1
+泰安市	tai an shi	1
+泰安市财政局	tai an shi cai zheng ju	1
+泰安市地税局	tai an shi di shui ju	1
+泰安市电业局	tai an shi dian ye ju	1
+泰安市公安局	tai an shi gong an ju	1
+泰安市公路局	tai an shi gong lu ju	1
+泰安市工商局	tai an shi gong shang ju	1
+泰安市国税局	tai an shi guo shui ju	1
+泰安市国土局	tai an shi guo tu ju	1
+泰安市检察院	tai an shi jian cha yuan	1
+泰安市建设局	tai an shi jian she ju	1
+泰安市交通局	tai an shi jiao tong ju	1
+泰安市救助站	tai an shi jiu zhu zhan	1
+泰安市粮食局	tai an shi liang shi ju	1
+泰安市林业局	tai an shi lin ye ju	1
+泰安市旅游局	tai an shi lv you ju	1
+泰安市农业局	tai an shi nong ye ju	1
+泰安市气象局	tai an shi qi xiang ju	1
+泰安市人才市场	tai an shi ren cai shi chang	1
+泰安市人大	tai an shi ren da	1
+泰安市人事局	tai an shi ren shi ju	1
+泰安市实验学校	tai an shi shi yan xue xiao	1
+泰安市实验学校西校	tai an shi shi yan xue xiao xi xiao	1
+泰安市司法局	tai an shi si fa ju	1
+泰安市体育局	tai an shi ti yu ju	1
+泰安市图书馆	tai an shi tu shu guan	1
+泰安市委	tai an shi wei	1
+泰安市委党校	tai an shi wei dang xiao	1
+泰安市盐务局	tai an shi yan wu ju	1
+泰安市邮政局	tai an shi you zheng ju	1
+泰安市政府	tai an shi zheng fu	1
+泰安市政协	tai an shi zheng xie	1
+泰安市质监局	tai an shi zhi jian ju	1
+泰安市中级法院	tai an shi zhong ji fa yuan	1
+泰安市中心医院	tai an shi zhong xin yi yuan	1
+泰安师专附中	tai an shi zhuan fu zhong	1
+泰安收费站	tai an shou fei zhan	1
+泰安水利局	tai an shui li ju	1
+泰安泰山站	tai an tai shan zhan	1
+泰安卫校	tai an wei xiao	1
+泰安卫校新校	tai an wei xiao xin xiao	1
+泰安艺校	tai an yi xiao	1
+泰安一中	tai an yi zhong	1
+泰安一中西校	tai an yi zhong xi xiao	1
+泰安英雄山中学	tai an ying xiong shan zhong xue	1
+泰安制药厂	tai an zhi yao chang	1
+泰安中医院	tai an zhong yi yuan	1
+泰玻路口	tai bo lu kou	1
+泰峰集团	tai feng ji tuan	1
+泰峰小区	tai feng xiao qu	1
+泰工集团	tai gong ji tuan	1
+太公峪村	tai gong yu cun	1
+泰和工业园	tai he gong ye yuan	1
+泰和纸业	tai he zhi ye	1
+泰华	tai hua	1
+泰开电器	tai kai dian qi	1
+泰开新区工业园	tai kai xin qu gong ye yuan	1
+泰龙集团	tai long ji tuan	1
+台门	tai men	1
+泰明路	tai ming lu	1
+泰鹏集团	tai peng ji tuan	1
+太平村	tai ping cun	1
+太平顶	tai ping ding	1
+太平官庄	tai ping guan zhuang	1
+太平山	tai ping shan	1
+太平山林场	tai ping shan lin chang	1
+太平山森林公园	tai ping shan sen lin gong yuan	1
+太平洋宾馆	tai ping yang bin guan	1
+太平庄	tai ping zhuang	1
+太平庄村	tai ping zhuang cun	1
+泰汽酒家	tai qi jiu jia	1
+泰前办事处	tai qian ban shi chu	1
+泰前大街西段	tai qian da jie xi duan	1
+泰前大街中段	tai qian da jie zhong duan	1
+泰前卫生院	tai qian wei sheng yuan	1
+泰山宾馆	tai shan bin guan	1
+泰山博文中学	tai shan bo wen zhong xue	1
+泰山玻纤	tai shan bo xian	1
+泰山菜馆	tai shan cai guan	1
+泰山大酒店	tai shan da jiu dian	1
+泰山大桥	tai shan da qiao	1
+泰山第一行宫	tai shan di yi xing gong	1
+泰山电脑城	tai shan dian nao cheng	1
+泰山饭店	tai shan fan dian	1
+泰山风景名胜区	tai shan feng jing ming sheng qu	1
+泰山风景区	tai shan feng jing qu	1
+泰山封头厂	tai shan feng tou chang	1
+泰山冯玉祥小学	tai shan feng yu xiang xiao xue	1
+泰山服务区	tai shan fu wu qu	1
+泰山广场	tai shan guang chang	1
+泰山国际采购中心	tai shan guo ji cai gou zhong xin	1
+泰山国际饭店	tai shan guo ji fan dian	1
+泰山国际学校	tai shan guo ji xue xiao	1
+泰山华侨大厦	tai shan hua qiao da sha	1
+泰山集团	tai shan ji tuan	1
+泰山剧院	tai shan ju yuan	1
+泰山科技城	tai shan ke ji cheng	1
+泰山客运运输中心	tai shan ke yun yun shu zhong xin	1
+泰山铝业	tai shan lv ye	1
+泰山铝业公司	tai shan lv ye gong si	1
+泰山民族中学	tai shan min zu zhong xue	1
+泰山名饮	tai shan ming yin	1
+泰山啤酒工业园	tai shan pi jiu gong ye yuan	1
+泰山汽车城	tai shan qi che cheng	1
+泰山奇石城	tai shan qi shi cheng	1
+泰山轻工机械厂	tai shan qing gong ji xie chang	1
+泰山区	tai shan qu	1
+泰山区公安分局	tai shan qu gong an fen ju	1
+泰山区疾病防控中心	tai shan qu ji bing fang kong zhong xin	1
+泰山区区委区政府	tai shan qu qu wei qu zheng fu	1
+泰山区委区政府	tai shan qu wei qu zheng fu	1
+泰山燃气集团	tai shan ran qi ji tuan	1
+泰山热电	tai shan re dian	1
+泰山实验中学	tai shan shi yan zhong xue	1
+泰山体育馆	tai shan ti yu guan	1
+泰山体育中心	tai shan ti yu zhong xin	1
+泰山文化城	tai shan wen hua cheng	1
+泰山文化广场	tai shan wen hua guang chang	1
+泰山温州商业步行街	tai shan wen zhou shang ye bu xing jie	1
+泰山西货场	tai shan xi huo chang	1
+泰山新区	tai shan xin qu	1
+泰山学院	tai shan xue yuan	1
+泰山学院附中	tai shan xue yuan fu zhong	1
+泰山学院南校区	tai shan xue yuan nan xiao qu	1
+泰山一家人	tai shan yi jia ren	1
+泰山医学院	tai shan yi xue yuan	1
+泰山医学院老校	tai shan yi xue yuan lao xiao	1
+泰山影剧院	tai shan ying ju yuan	1
+泰山幼儿园	tai shan you er yuan	1
+泰山职业学院	tai shan zhi ye xue yuan	1
+泰山装饰材料精品城	tai shan zhuang shi cai liao jing pin cheng	1
+台头	tai tou	1
+泰西宾馆	tai xi bin guan	1
+泰西中学	tai xi zhong xue	1
+泰艺金店	tai yi jin dian	1
+谭厂村	tan chang cun	1
+坦里村	tan li cun	1
+滩清湾村	tan qing wan cun	1
+滩头村	tan tou cun	1
+唐坊村	tang fang cun	1
+塘坊村	tang fang cun	1
+唐家沟	tang jia gou	1
+唐家庄	tang jia zhuang	1
+唐家庄村	tang jia zhuang cun	1
+唐立沟村	tang li gou cun	1
+唐楼村	tang lou cun	1
+唐庄	tang zhuang	1
+唐庄村	tang zhuang cun	1
+汤庄村	tang zhuang cun	1
+唐訾路口	tang zi lu kou	1
+桃花村	tao hua cun	1
+桃花峪	tao hua yu	1
+桃花峪村	tao hua yu cun	1
+桃花源度假村	tao hua yuan du jia cun	1
+桃花源海鲜食府	tao hua yuan hai xian shi fu	1
+桃花源派出所	tao hua yuan pai chu suo	1
+桃花源索道	tao hua yuan suo dao	1
+桃花源小区	tao hua yuan xiao qu	1
+桃里	tao li	1
+陶山	tao shan	1
+陶邵村	tao shao cun	1
+桃树园子	tao shu yuan zi	1
+桃行	tao xing	1
+陶阳村	tao yang cun	1
+桃峪	tao yu	1
+桃园	tao yuan	1
+桃园村	tao yuan cun	1
+桃源世界	tao yuan shi jie	1
+桃园医院	tao yuan yi yuan	1
+桃园镇	tao yuan zhen	1
+桃园中心卫生院	tao yuan zhong xin wei sheng yuan	1
+桃园子	tao yuan zi	1
+特步	te bu	1
+特警队	te jing dui	1
+特警支队	te jing zhi dui	1
+腾飞加油站	teng fei jia you zhan	1
+梯门乡	ti men xiang	1
+梯门乡政府	ti men xiang zheng fu	1
+梯门中学	ti men zhong xue	1
+体育中心	ti yu zhong xin	1
+天安保险	tian an bao xian	1
+天宝镇	tian bao zhen	1
+田村	tian cun	1
+天东宾馆	tian dong bin guan	1
+天府家宴	tian fu jia yan	1
+天虹大酒店	tian hong da jiu dian	1
+田家栗行	tian jia li xing	1
+田家山村	tian jia shan cun	1
+田家峪	tian jia yu	1
+田家峪村	tian jia yu cun	1
+田家庄	tian jia zhuang	1
+田家庄村	tian jia zhuang cun	1
+天街	tian jie	1
+天井湾	tian jing wan	1
+天龙宾馆	tian long bin guan	1
+天罗	tian luo	1
+天马顶	tian ma ding	1
+天平店	tian ping dian	1
+天平湖	tian ping hu	1
+天平湖水上乐园	tian ping hu shui shang le yuan	1
+天桥加油站	tian qiao jia you zhan	1
+天台宾馆	tian tai bin guan	1
+天庭乐园	tian ting le yuan	1
+天外村	tian wai cun	1
+天外村宾馆	tian wai cun bin guan	1
+天禧科技大厦	tian xi ke ji da sha	1
+天香缘	tian xiang yuan	1
+天一茗茶	tian yi ming cha	1
+天源公司	tian yuan gong si	1
+田园食府	tian yuan shi fu	1
+田园小区	tian yuan xiao qu	1
+天烛峰景区	tian zhu feng jing qu	1
+天竹花园	tian zhu hua yuan	1
+田庄村	tian zhuang cun	1
+天子山	tian zi shan	1
+调军岭	tiao jun ling	1
+铁道宾馆	tie dao bin guan	1
+铁道大厦	tie dao da sha	1
+铁佛寺村	tie fo si cun	1
+铁路医院	tie lu yi yuan	1
+铁山	tie shan	1
+停车场	ting che chang	1
+亭坡村	ting po cun	1
+通达宾馆	tong da bin guan	1
+桐花沟	tong hua gou	1
+通济村	tong ji cun	1
+佟家庄村	tong jia zhuang cun	1
+通天坊	tong tian fang	1
+通天桥	tong tian qiao	1
+童心幼儿园	tong xin you er yuan	1
+头道河子	tou dao he zi	1
+土安村	tu an cun	1
+土大力	tu da li	1
+土岭	tu ling	1
+土门村	tu men cun	1
+土山	tu shan	1
+突山	tu shan	1
+土山村	tu shan cun	1
+土山顶	tu shan ding	1
+团瓢	tuan piao	1
+团山	tuan shan	1
+团山子	tuan shan zi	1
+屯庄村	tun zhuang cun	1
+驼凹村	tuo ao cun	1
+拖拉机修配厂	tuo la ji xiu pei chang	1
+洼口村	wa kou cun	1
+洼里村	wa li cun	1
+瓦屋村	wa wu cun	1
+瓦屋头村	wa wu tou cun	1
+洼子村	wa zi cun	1
+洼子街	wa zi jie	1
+袜子铺村	wa zi pu cun	1
+外国语学校	wai guo yu xue xiao	1
+外经贸局	wai jing mao ju	1
+歪头山	wai tou shan	1
+万家村	wan jia cun	1
+万家林	wan jia lin	1
+万家庄	wan jia zhuang	1
+万家庄村	wan jia zhuang cun	1
+万力大厦	wan li da sha	1
+万力电子	wan li dian zi	1
+万里马	wan li ma	1
+万仙楼	wan xian lou	1
+碗窑头村	wan yao tou cun	1
+王卞东村	wang bian dong cun	1
+王场村	wang chang cun	1
+汪城宫村	wang cheng gong cun	1
+望村	wang cun	1
+王村	wang cun	1
+王坊村	wang fang cun	1
+王府村	wang fu cun	1
+王府地	wang fu di	1
+王付泉村	wang fu quan cun	1
+王瓜店镇	wang gua dian zhen	1
+王官村	wang guan cun	1
+王官屯村	wang guan tun cun	1
+汪家店	wang jia dian	1
+王家店菜市场	wang jia dian cai shi chang	1
+王家店村	wang jia dian cun	1
+王家店村委	wang jia dian cun wei	1
+王家沟	wang jia gou	1
+王家官庄村	wang jia guan zhuang cun	1
+王家河洼	wang jia he wa	1
+王家林	wang jia lin	1
+王家林村	wang jia lin cun	1
+王家岭	wang jia ling	1
+王家楼	wang jia lou	1
+王家圈	wang jia quan	1
+望驾山村	wang jia shan cun	1
+王家石山子村	wang jia shi shan zi cun	1
+王家台村	wang jia tai cun	1
+王家滩	wang jia tan	1
+王家洼村	wang jia wa cun	1
+王家小区	wang jia xiao qu	1
+王家小庄	wang jia xiao zhuang	1
+王家行	wang jia xing	1
+王家峪	wang jia yu	1
+王家园村	wang jia yuan cun	1
+王家院村	wang jia yuan cun	1
+王家寨	wang jia zhai	1
+王家寨村	wang jia zhai cun	1
+王家庄	wang jia zhuang	1
+王家庄村	wang jia zhuang cun	1
+王晋村	wang jin cun	1
+王林坡村	wang lin po cun	1
+王林山	wang lin shan	1
+王灵村	wang ling cun	1
+王柳村	wang liu cun	1
+王柳沟	wang liu gou	1
+王龙山	wang long shan	1
+王龙庄	wang long zhuang	1
+王楼	wang lou	1
+王楼村	wang lou cun	1
+王楼集村	wang lou ji cun	1
+望鲁山	wang lu shan	1
+王庙	wang miao	1
+王庙村	wang miao cun	1
+旺泉村	wang quan cun	1
+王圈村	wang quan cun	1
+汪泉屯村	wang quan tun cun	1
+望山	wang shan	1
+王山	wang shan	1
+望山宾馆	wang shan bin guan	1
+望山花园	wang shan hua yuan	1
+王士店	wang shi dian	1
+王思口	wang si kou	1
+王台村	wang tai cun	1
+王堂村	wang tang cun	1
+网通	wang tong	1
+王洼	wang wa	1
+王西新村	wang xi xin cun	1
+王崖	wang ya	1
+王义庄	wang yi zhuang	1
+王峪	wang yu	1
+王峪村	wang yu cun	1
+王院村	wang yuan cun	1
+望岳东路南段	wang yue dong lu nan duan	1
+望岳东路中段	wang yue dong lu zhong duan	1
+望岳花园	wang yue hua yuan	1
+望月花园	wang yue hua yuan	1
+望岳外国语培训学校	wang yue wai guo yu pei xun xue xiao	1
+望岳外语培训学校	wang yue wai yu pei xun xue xiao	1
+王仲口村	wang zhong kou cun	1
+王庄	wang zhuang	1
+王庄村	wang zhuang cun	1
+王庄派出所	wang zhuang pai chu suo	1
+王庄头	wang zhuang tou	1
+王庄小区	wang zhuang xiao qu	1
+王庄新村	wang zhuang xin cun	1
+王庄镇	wang zhuang zhen	1
+苇池村	wei chi cun	1
+魏坊村	wei fang cun	1
+魏河村	wei he cun	1
+魏家	wei jia	1
+魏家沟村	wei jia gou cun	1
+魏家河村	wei jia he cun	1
+魏家平	wei jia ping	1
+魏家峪村	wei jia yu cun	1
+魏家庄	wei jia zhuang	1
+卫驾庄村	wei jia zhuang cun	1
+魏家庄村	wei jia zhuang cun	1
+魏楼村	wei lou cun	1
+为民大药房	wei min da yao fang	1
+围山村	wei shan cun	1
+卫校	wei xiao	1
+卫校西院	wei xiao xi yuan	1
+韦周中心小学	wei zhou zhong xin xiao xue	1
+魏庄	wei zhuang	1
+魏庄村	wei zhuang cun	1
+围子村	wei zi cun	1
+围子里村	wei zi li cun	1
+汶城村	wen cheng cun	1
+文化村	wen hua cun	1
+文化路西段	wen hua lu xi duan	1
+汶南一中	wen nan yi zhong	1
+汶南镇	wen nan zhen	1
+汶南镇政府	wen nan zhen zheng fu	1
+温泉宾馆	wen quan bin guan	1
+温泉路口	wen quan lu kou	1
+温泉路南	wen quan lu nan	1
+温泉路南段	wen quan lu nan duan	1
+温泉小区	wen quan xiao qu	1
+温泉小区东区	wen quan xiao qu dong qu	1
+温馨园小区	wen xin yuan xiao qu	1
+温辛庄村	wen xin zhuang cun	1
+汶阳镇	wen yang zhen	1
+汶正大厦	wen zheng da sha	1
+卧虎山	wo hu shan	1
+卧虎山花园	wo hu shan hua yuan	1
+卧虎山南街东段	wo hu shan nan jie dong duan	1
+卧虎庄	wo hu zhuang	1
+窝角村	wo jiao cun	1
+卧龙村	wo long cun	1
+卧龙酒店	wo long jiu dian	1
+卧龙山花园	wo long shan hua yuan	1
+卧龙峪	wo long yu	1
+卧牛山	wo niu shan	1
+卧牛石	wo niu shi	1
+五埠村	wu bu cun	1
+武村	wu cun	1
+五丰村	wu feng cun	1
+五户村	wu hu cun	1
+五环小区	wu huan xiao qu	1
+无极庙	wu ji miao	1
+吴家官庄村	wu jia guan zhuang cun	1
+吴家井	wu jia jing	1
+吴家林	wu jia lin	1
+吴家泉村	wu jia quan cun	1
+吴家庄	wu jia zhuang	1
+武家庄	wu jia zhuang	1
+吴家庄村	wu jia zhuang cun	1
+五里堡村	wu li bao cun	1
+五里垢	wu li gou	1
+五里井村	wu li jing cun	1
+五里铺	wu li pu	1
+五里屯村	wu li tun cun	1
+五里庄村	wu li zhuang cun	1
+无梁殿	wu liang dian	1
+武陵山珍	wu ling shan zhen	1
+五龙山	wu long shan	1
+吴楼	wu lou	1
+吴楼村	wu lou cun	1
+五马街	wu ma jie	1
+五马市场	wu ma shi chang	1
+吴山	wu shan	1
+吴山村	wu shan cun	1
+污水处理厂	wu shui chu li chang	1
+五松亭	wu song ting	1
+武新村	wu xin cun	1
+无盐村	wu yan cun	1
+五一水库	wu yi shui ku	1
+无影山	wu ying shan	1
+五岳宾馆	wu yue bin guan	1
+乌珠台村	wu zhu tai cun	1
+吴庄村	wu zhuang cun	1
+物资大厦	wu zi da sha	1
+西安村	xi an cun	1
+西白沙村	xi bai sha cun	1
+西鲍村	xi bao cun	1
+西北沟	xi bei gou	1
+西北角村	xi bei jiao cun	1
+西北梁	xi bei liang	1
+西北岭	xi bei ling	1
+西北庄	xi bei zhuang	1
+西埠前村	xi bu qian cun	1
+西堡子	xi bu zi	1
+西柴城村	xi chai cheng cun	1
+西长安	xi chang an	1
+西场村	xi chang cun	1
+西城村	xi cheng cun	1
+西程村	xi cheng cun	1
+西村	xi cun	1
+西大地	xi da di	1
+西大封村	xi da feng cun	1
+西大梁	xi da liang	1
+西大吴村	xi da wu cun	1
+西代村	xi dai cun	1
+西道沟	xi dao gou	1
+西店子	xi dian zi	1
+西店子村	xi dian zi cun	1
+西钓台村	xi diao tai cun	1
+西豆山村	xi dou shan cun	1
+西杜村	xi du cun	1
+西都村	xi du cun	1
+西房村	xi fang cun	1
+西峰村	xi feng cun	1
+西付村	xi fu cun	1
+西高村	xi gao cun	1
+西高平村	xi gao ping cun	1
+西沟	xi gou	1
+西古城村	xi gu cheng cun	1
+西故城村	xi gu cheng cun	1
+西谷堆村	xi gu dui cun	1
+西关村	xi guan cun	1
+西关居委会	xi guan ju wei hui	1
+西关小区	xi guan xiao qu	1
+西关学校	xi guan xue xiao	1
+西官庄村	xi guan zhuang cun	1
+郗官庄村	xi guan zhuang cun	1
+西郭家庄	xi guo jia zhuang	1
+西郭庄村	xi guo zhuang cun	1
+西海子	xi hai zi	1
+西韩庄村	xi han zhuang cun	1
+西河	xi he	1
+西河北村	xi he bei cun	1
+西河村	xi he cun	1
+西湖西村	xi hu xi cun	1
+西华庄	xi hua zhuang	1
+西黄村	xi huang cun	1
+西焦村	xi jiao cun	1
+西金马村	xi jin ma cun	1
+西金山村	xi jin shan cun	1
+西井村	xi jing cun	1
+西孔村	xi kong cun	1
+西腊山村	xi la shan cun	1
+喜来登酒店	xi lai deng jiu dian	1
+西里村	xi li cun	1
+西李家庄村	xi li jia zhuang cun	1
+西李庄村	xi li zhuang cun	1
+西良庄	xi liang zhuang	1
+西良庄村	xi liang zhuang cun	1
+西林村	xi lin cun	1
+西岭	xi ling	1
+西岭村	xi ling cun	1
+西柳	xi liu	1
+西刘村	xi liu cun	1
+西刘家庄	xi liu jia zhuang	1
+西刘庄村	xi liu zhuang cun	1
+西龙山村	xi long shan cun	1
+西鲁村	xi lu cun	1
+西罗山村	xi luo shan cun	1
+西马山	xi ma shan	1
+西茂王村	xi mao wang cun	1
+西门村	xi men cun	1
+西穆河村	xi mu he cun	1
+西南辰村	xi nan chen cun	1
+西南村	xi nan cun	1
+西南峪	xi nan yu	1
+西南峪村	xi nan yu cun	1
+西南庄	xi nan zhuang	1
+西南庄村	xi nan zhuang cun	1
+西南佐村	xi nan zuo cun	1
+西牛村	xi niu cun	1
+西坡	xi po	1
+西坡村	xi po cun	1
+西蒲村	xi pu cun	1
+西铺村	xi pu cun	1
+席桥村	xi qiao cun	1
+西桥村	xi qiao cun	1
+西乔庄	xi qiao zhuang	1
+西邱村	xi qiu cun	1
+西圈村	xi quan cun	1
+西沙岗	xi sha gang	1
+西山	xi shan	1
+西山村	xi shan cun	1
+西山东村	xi shan dong cun	1
+西山前村	xi shan qian cun	1
+西山阴村	xi shan yin cun	1
+西山峪	xi shan yu	1
+西山庄	xi shan zhuang	1
+西沈村	xi shen cun	1
+西石井村	xi shi jing cun	1
+西石庙	xi shi miao	1
+西史庄村	xi shi zhuang cun	1
+西寺村	xi si cun	1
+西泰华	xi tai hua	1
+西太平村	xi tai ping cun	1
+西台子	xi tai zi	1
+西唐楼	xi tang lou	1
+西堂峪村	xi tang yu cun	1
+西堂子村	xi tang zi cun	1
+西桃园村	xi tao yuan cun	1
+西天边	xi tian bian	1
+西旺村	xi wang cun	1
+西汪村	xi wang cun	1
+西王村	xi wang cun	1
+希望路	xi wang lu	1
+西王庄村	xi wang zhuang cun	1
+西魏家庄	xi wei jia zhuang	1
+西坞村	xi wu cun	1
+西武家庄	xi wu jia zhuang	1
+西夏村	xi xia cun	1
+西贤村	xi xian cun	1
+西校	xi xiao	1
+西小胡庄	xi xiao hu zhuang	1
+西小王庄	xi xiao wang zhuang	1
+西辛村	xi xin cun	1
+洗心亭	xi xin ting	1
+西辛庄村	xi xin zhuang cun	1
+西徐村	xi xu cun	1
+西崖	xi ya	1
+西崖头	xi ya tou	1
+西杨村	xi yang cun	1
+西杨楼村	xi yang lou cun	1
+西羊舍村	xi yang she cun	1
+西杨庄村	xi yang zhuang cun	1
+西营村	xi ying cun	1
+西营西村	xi ying xi cun	1
+西峪	xi yu	1
+西隅村	xi yu cun	1
+西域骆驼	xi yu luo tuo	1
+西苑庄村	xi yuan zhuang cun	1
+西月庄	xi yue zhuang	1
+西枣林村	xi zao lin cun	1
+西寨村	xi zhai cun	1
+西张村	xi zhang cun	1
+西张店村	xi zhang dian cun	1
+西张家庄	xi zhang jia zhuang	1
+西张庄村	xi zhang zhuang cun	1
+西张庄镇	xi zhang zhuang zhen	1
+西赵村	xi zhao cun	1
+西赵庄	xi zhao zhuang	1
+西郑庄村	xi zheng zhuang cun	1
+西周村	xi zhou cun	1
+西朱村	xi zhu cun	1
+西庄	xi zhuang	1
+西庄村	xi zhuang cun	1
+西浊村	xi zhuo cun	1
+下长安	xia chang an	1
+下港乡	xia gang xiang	1
+下河桥	xia he qiao	1
+下红山	xia hong shan	1
+夏家隅村	xia jia yu cun	1
+夏家庄	xia jia zhuang	1
+夏家庄村	xia jia zhuang cun	1
+下井子	xia jing zi	1
+下里村	xia li cun	1
+下梨园村	xia li yuan cun	1
+下刘家沟	xia liu jia gou	1
+下马家峪村	xia ma jia yu cun	1
+下坡	xia po	1
+下三合村	xia san he cun	1
+下太和村	xia tai he cun	1
+下套村	xia tao cun	1
+下桃花	xia tao hua	1
+下土门	xia tu men	1
+下洼	xia wa	1
+下洼村	xia wa cun	1
+下洼子	xia wa zi	1
+下旺	xia wang	1
+下旺村	xia wang cun	1
+下峪村	xia yu cun	1
+下寨村	xia zhai cun	1
+夏张	xia zhang	1
+夏张镇	xia zhang zhen	1
+下庄村	xia zhuang cun	1
+夏庄村	xia zhuang cun	1
+贤村水库	xian cun shui ku	1
+现代中学	xian dai zhong xue	1
+先锋村	xian feng cun	1
+仙鹤村	xian he cun	1
+仙人桥村	xian ren qiao cun	1
+县卫生防疫站	xian wei sheng fang yi zhan	1
+响场村	xiang chang cun	1
+乡城北村	xiang cheng bei cun	1
+乡城南村	xiang cheng nan cun	1
+香格里拉	xiang ge li la	1
+祥惠时代广场	xiang hui shi dai guang chang	1
+相家沟	xiang jia gou	1
+橡胶厂宿舍	xiang jiao chang su she	1
+香炉石	xiang lu shi	1
+香铺村	xiang pu cun	1
+香山	xiang shan	1
+响水河	xiang shui he	1
+响水崖村	xiang shui ya cun	1
+香寺村	xiang si cun	1
+项屯	xiang tun	1
+项屯村	xiang tun cun	1
+向阳村	xiang yang cun	1
+向阳沟	xiang yang gou	1
+向阳加油站	xiang yang jia you zhan	1
+向阳小区	xiang yang xiao qu	1
+向阳幼儿园	xiang yang you er yuan	1
+乡饮乡	xiang yin xiang	1
+项庄	xiang zhuang	1
+箱子庄	xiang zi zhuang	1
+小安家	xiao an jia	1
+小安庄	xiao an zhuang	1
+小坝	xiao ba	1
+小白沙村	xiao bai sha cun	1
+小北岭	xiao bei ling	1
+小北坡	xiao bei po	1
+小伯村	xiao bo cun	1
+小博士幼儿园	xiao bo shi you er yuan	1
+小埠前村	xiao bu qian cun	1
+小布山	xiao bu shan	1
+校场街	xiao chang jie	1
+校场街南段	xiao chang jie nan duan	1
+肖村	xiao cun	1
+小店村	xiao dian cun	1
+肖店村	xiao dian cun	1
+小董家庄	xiao dong jia zhuang	1
+小东岭	xiao dong ling	1
+小董庄	xiao dong zhuang	1
+小东庄村	xiao dong zhuang cun	1
+小鹅山	xiao e shan	1
+消防队	xiao fang dui	1
+小肥羊	xiao fei yang	1
+小肥羊火锅城	xiao fei yang huo guo cheng	1
+肖付村	xiao fu cun	1
+小港村	xiao gang cun	1
+小岗子	xiao gang zi	1
+小高家庄	xiao gao jia zhuang	1
+小高桥	xiao gao qiao	1
+小高庄	xiao gao zhuang	1
+小高庄村	xiao gao zhuang cun	1
+小沟头	xiao gou tou	1
+小古城	xiao gu cheng	1
+小官庄	xiao guan zhuang	1
+小官庄村	xiao guan zhuang cun	1
+小果庄	xiao guo zhuang	1
+小河北	xiao he bei	1
+小河村	xiao he cun	1
+小河东村	xiao he dong cun	1
+小河洼	xiao he wa	1
+小河西	xiao he xi	1
+小河西村	xiao he xi cun	1
+小河崖	xiao he ya	1
+小河涯	xiao he ya	1
+小河峪	xiao he yu	1
+小黑山	xiao hei shan	1
+小横岭	xiao heng ling	1
+小横山	xiao heng shan	1
+小侯村	xiao hou cun	1
+小湖	xiao hu	1
+小湖村	xiao hu cun	1
+小胡庄	xiao hu zhuang	1
+小虎庄	xiao hu zhuang	1
+小胡庄村	xiao hu zhuang cun	1
+肖家村	xiao jia cun	1
+肖家岭	xiao jia ling	1
+肖家庄	xiao jia zhuang	1
+肖家庄村	xiao jia zhuang cun	1
+小姜庄村	xiao jiang zhuang cun	1
+小井	xiao jing	1
+小井村	xiao jing cun	1
+小酒店	xiao jiu dian	1
+霄岚村	xiao lan cun	1
+小李村	xiao li cun	1
+小李家庄	xiao li jia zhuang	1
+小李家庄村	xiao li jia zhuang cun	1
+小李庄	xiao li zhuang	1
+小良村	xiao liang cun	1
+小梁庄	xiao liang zhuang	1
+小良庄村	xiao liang zhuang cun	1
+小刘村	xiao liu cun	1
+小柳沟	xiao liu gou	1
+小刘庄	xiao liu zhuang	1
+小刘庄村	xiao liu zhuang cun	1
+小龙门	xiao long men	1
+小龙湾	xiao long wan	1
+小楼	xiao lou	1
+小罗圈	xiao luo quan	1
+小吕庄	xiao lv zhuang	1
+小马庄	xiao ma zhuang	1
+小马庄村	xiao ma zhuang cun	1
+孝门	xiao men	1
+小孟村	xiao meng cun	1
+小蒙羊	xiao meng yang	1
+小南岭	xiao nan ling	1
+小南峪	xiao nan yu	1
+小南庄	xiao nan zhuang	1
+小南庄村	xiao nan zhuang cun	1
+小聂村	xiao nie cun	1
+小牛村	xiao niu cun	1
+小清河	xiao qing he	1
+小圈	xiao quan	1
+小沙峪	xiao sha yu	1
+小山子	xiao shan zi	1
+小尚村	xiao shang cun	1
+小上峪	xiao shang yu	1
+小商庄	xiao shang zhuang	1
+小上庄村	xiao shang zhuang cun	1
+小水坡	xiao shui po	1
+小寺	xiao si	1
+小寺河	xiao si he	1
+小太平庄	xiao tai ping zhuang	1
+小泰山	xiao tai shan	1
+小太阳幼儿园	xiao tai yang you er yuan	1
+小谭村	xiao tan cun	1
+小天使幼儿园	xiao tian shi you er yuan	1
+小屯	xiao tun	1
+小屯村	xiao tun cun	1
+小洼村	xiao wa cun	1
+小湾子	xiao wan zi	1
+小王村	xiao wang cun	1
+小王府	xiao wang fu	1
+小王家寨	xiao wang jia zhai	1
+小王山	xiao wang shan	1
+小王营村	xiao wang ying cun	1
+小王庄	xiao wang zhuang	1
+小王庄村	xiao wang zhuang cun	1
+小吴村	xiao wu cun	1
+小吴家村	xiao wu jia cun	1
+小武家庄	xiao wu jia zhuang	1
+小吴庄	xiao wu zhuang	1
+小西沟	xiao xi gou	1
+小西庄	xiao xi zhuang	1
+小西庄村	xiao xi zhuang cun	1
+小夏庄村	xiao xia zhuang cun	1
+小小超市	xiao xiao chao shi	1
+小协镇	xiao xie zhen	1
+小新村	xiao xin cun	1
+小辛村	xiao xin cun	1
+小新庄	xiao xin zhuang	1
+小辛庄	xiao xin zhuang	1
+小辛庄村	xiao xin zhuang cun	1
+小徐村	xiao xu cun	1
+小徐庄村	xiao xu zhuang cun	1
+小堰堤	xiao yan di	1
+小堰堤村	xiao yan di cun	1
+小杨庄村	xiao yang zhuang cun	1
+小窑村	xiao yao cun	1
+小尹庄	xiao yin zhuang	1
+小峪	xiao yu	1
+小峪村	xiao yu cun	1
+小于家庄	xiao yu jia zhuang	1
+小张村	xiao zhang cun	1
+小张家庄	xiao zhang jia zhuang	1
+小张庄	xiao zhang zhuang	1
+小张庄村	xiao zhang zhuang cun	1
+小赵村	xiao zhao cun	1
+小赵家庄	xiao zhao jia zhuang	1
+小赵庄	xiao zhao zhuang	1
+小赵庄村	xiao zhao zhuang cun	1
+小驻马村	xiao zhu ma cun	1
+小朱庄	xiao zhu zhuang	1
+小柱子村	xiao zhu zi cun	1
+肖庄	xiao zhuang	1
+肖庄村	xiao zhuang cun	1
+孝子村	xiao zi cun	1
+谢官村	xie guan cun	1
+谢官庄村	xie guan zhuang cun	1
+协和石油	xie he shi you	1
+协和医院	xie he yi yuan	1
+卸甲河	xie jia he	1
+谢家庙	xie jia miao	1
+谢家庄	xie jia zhuang	1
+谢家庄村	xie jia zhuang cun	1
+谢楼村	xie lou cun	1
+歇马崖	xie ma ya	1
+谢台村	xie tai cun	1
+斜峪	xie yu	1
+谢庄	xie zhuang	1
+蝎子山	xie zi shan	1
+辛安店村	xin an dian cun	1
+新城办事处	xin cheng ban shi chu	1
+新城宾馆	xin cheng bin guan	1
+新城嘉园	xin cheng jia yuan	1
+新城医院	xin cheng yi yuan	1
+新村	xin cun	1
+新大都饭店	xin da du fan dian	1
+新店村	xin dian cun	1
+辛店铺村	xin dian pu cun	1
+新东岳集团	xin dong yue ji tuan	1
+新甫山	xin fu shan	1
+新官庄村	xin guan zhuang cun	1
+新光村	xin guang cun	1
+鑫海建工	xin hai jian gong	1
+新河西村	xin he xi cun	1
+新湖绿园	xin hu lv yuan	1
+新湖乡	xin hu xiang	1
+新华宾馆	xin hua bin guan	1
+新华村	xin hua cun	1
+新华大厦	xin hua da sha	1
+新华购物	xin hua gou wu	1
+新华加油站	xin hua jia you zhan	1
+新华鲁抗大药房	xin hua lu kang da yao fang	1
+新华农场	xin hua nong chang	1
+新华商场	xin hua shang chang	1
+新华书店	xin hua shu dian	1
+新华书店物流中心	xin hua shu dian wu liu zhong xin	1
+新集村	xin ji cun	1
+辛家庄	xin jia zhuang	1
+新街药店	xin jie yao dian	1
+新矿驾校	xin kuang jia xiao	1
+新刘村	xin liu cun	1
+鑫龙电器	xin long dian qi	1
+新苗幼儿园	xin miao you er yuan	1
+新民庄	xin min zhuang	1
+新汽车站	xin qi che zhan	1
+新前村	xin qian cun	1
+新胜村	xin sheng cun	1
+新世纪大酒店	xin shi ji da jiu dian	1
+新泰宾馆	xin tai bin guan	1
+新泰二中	xin tai er zhong	1
+新泰饭店	xin tai fan dian	1
+新泰服务区	xin tai fu wu qu	1
+新泰市	xin tai shi	1
+新泰市财政局	xin tai shi cai zheng ju	1
+新泰市地税局	xin tai shi di shui ju	1
+新泰市公安局	xin tai shi gong an ju	1
+新泰市工商局	xin tai shi gong shang ju	1
+新泰市国税局	xin tai shi guo shui ju	1
+新泰市环保局	xin tai shi huan bao ju	1
+新泰市交通局	xin tai shi jiao tong ju	1
+新泰市教育局	xin tai shi jiao yu ju	1
+新泰市平阳小学	xin tai shi ping yang xiao xue	1
+新泰市人民医院	xin tai shi ren min yi yuan	1
+新泰市实验中学	xin tai shi shi yan zhong xue	1
+新泰市邮政局	xin tai shi you zheng ju	1
+新泰市政府	xin tai shi zheng fu	1
+新泰市中医院	xin tai shi zhong yi yuan	1
+新泰收费站	xin tai shou fei zhan	1
+新泰站	xin tai zhan	1
+新田村	xin tian cun	1
+辛屯村	xin tun cun	1
+新汶办事处	xin wen ban shi chu	1
+新汶矿业集团	xin wen kuang ye ji tuan	1
+新汶收费站	xin wen shou fei zhan	1
+新汶站	xin wen zhan	1
+欣欣花园	xin xin hua yuan	1
+新杨庄村	xin yang zhuang cun	1
+信用大厦	xin yong da sha	1
+新元花园	xin yuan hua yuan	1
+鑫源花园	xin yuan hua yuan	1
+新宅	xin zhai	1
+新宅子	xin zhai zi	1
+新张庄村	xin zhang zhuang cun	1
+新赵庄村	xin zhao zhuang cun	1
+新镇村	xin zhen cun	1
+辛朱李村	xin zhu li cun	1
+新庄	xin zhuang	1
+辛庄	xin zhuang	1
+新庄村	xin zhuang cun	1
+辛庄村	xin zhuang cun	1
+新庄子	xin zhuang zi	1
+兴邦科技	xing bang ke ji	1
+兴达车业	xing da che ye	1
+星都宾馆	xing du bin guan	1
+幸福村	xing fu cun	1
+幸福鸟	xing fu niao	1
+幸福庄村	xing fu zhuang cun	1
+杏花村	xing hua cun	1
+杏花村大酒店	xing hua cun da jiu dian	1
+兴华公司	xing hua gong si	1
+杏花新村	xing hua xin cun	1
+星火科技园	xing huo ke ji yuan	1
+邢家寨	xing jia zhai	1
+邢家庄村	xing jia zhuang cun	1
+刑警大楼	xing jing da lou	1
+兴隆村	xing long cun	1
+兴龙村	xing long cun	1
+兴隆大厦	xing long da sha	1
+兴隆屯村	xing long tun cun	1
+兴隆庄	xing long zhuang	1
+兴隆庄村	xing long zhuang cun	1
+星泉村	xing quan cun	1
+杏山	xing shan	1
+杏山村	xing shan cun	1
+杏头村	xing tou cun	1
+杏峪	xing yu	1
+杏园村	xing yuan cun	1
+兴元花园	xing yuan hua yuan	1
+熊村	xiong cun	1
+秀水佳苑	xiu shui jia yuan	1
+秀水街	xiu shui jie	1
+徐村	xu cun	1
+许村	xu cun	1
+徐官村	xu guan cun	1
+徐家村	xu jia cun	1
+许家沟	xu jia gou	1
+徐家官庄村	xu jia guan zhuang cun	1
+徐家岭	xu jia ling	1
+徐家岭村	xu jia ling cun	1
+徐家楼	xu jia lou	1
+徐家楼村	xu jia lou cun	1
+徐家楼乡	xu jia lou xiang	1
+徐家庙村	xu jia miao cun	1
+徐家平	xu jia ping	1
+徐家桥	xu jia qiao	1
+徐家滩	xu jia tan	1
+徐家小庄	xu jia xiao zhuang	1
+徐家庄	xu jia zhuang	1
+许家庄	xu jia zhuang	1
+徐家庄村	xu jia zhuang cun	1
+许家庄村	xu jia zhuang cun	1
+徐楼村	xu lou cun	1
+许楼村	xu lou cun	1
+畜牧局	xu mu ju	1
+徐山	xu shan	1
+徐山子	xu shan zi	1
+徐坦村	xu tan cun	1
+许屯	xu tun	1
+徐洼村	xu wa cun	1
+徐营村	xu ying cun	1
+徐州出口	xu zhou chu kou	1
+徐庄	xu zhuang	1
+徐庄村	xu zhuang cun	1
+许庄村	xu zhuang cun	1
+旋崮	xuan gu	1
+旋崮河村	xuan gu he cun	1
+玄家楼	xuan jia lou	1
+玄桥村	xuan qiao cun	1
+雪华	xue hua	1
+薛家村	xue jia cun	1
+薛家岭	xue jia ling	1
+薛家庙	xue jia miao	1
+薛家庄	xue jia zhuang	1
+薛家庄村	xue jia zhuang cun	1
+薛岭村	xue ling cun	1
+薛寨村	xue zhai cun	1
+薛庄	xue zhuang	1
+薛庄村	xue zhuang cun	1
+薛庄南村	xue zhuang nan cun	1
+亚奥特乳业	ya ao te ru ye	1
+雅典皇宫	ya dian huang gong	1
+雅戈尔	ya ge er	1
+岈山	ya shan	1
+岈山村	ya shan cun	1
+崖头村	ya tou cun	1
+鸭鸭	ya ya	1
+崖庄村	ya zhuang cun	1
+迓庄村	ya zhuang cun	1
+堰北	yan bei	1
+延北村	yan bei cun	1
+烟草公司	yan cao gong si	1
+砚池河村	yan chi he cun	1
+阎村	yan cun	1
+堰东村	yan dong cun	1
+颜东村	yan dong cun	1
+烟墩村	yan dun cun	1
+闫海村	yan hai cun	1
+颜家庙	yan jia miao	1
+燕家庄	yan jia zhuang	1
+颜家庄	yan jia zhuang	1
+燕家庄村	yan jia zhuang cun	1
+阎家庄村	yan jia zhuang cun	1
+颜家庄村	yan jia zhuang cun	1
+颜庙	yan miao	1
+演南村	yan nan cun	1
+颜前村	yan qian cun	1
+闫屯村	yan tun cun	1
+阎旺	yan wang	1
+盐务局	yan wu ju	1
+艳阳天酒店	yan yang tian jiu dian	1
+阎庄村	yan zhuang cun	1
+颜庄村	yan zhuang cun	1
+杨场村	yang chang cun	1
+杨村	yang cun	1
+杨岱村	yang dai cun	1
+杨岗村	yang gang cun	1
+阳谷洞	yang gu dong	1
+杨官庄村	yang guan zhuang cun	1
+阳光钢构	yang guang gang gou	1
+阳光花园小区	yang guang hua yuan xiao qu	1
+阳光景园	yang guang jing yuan	1
+阳光食品	yang guang shi pin	1
+阳光舜城	yang guang shun cheng	1
+阳光舜花园	yang guang shun hua yuan	1
+阳光小区	yang guang xiao qu	1
+阳光幼儿园	yang guang you er yuan	1
+杨家村	yang jia cun	1
+杨家沟	yang jia gou	1
+杨家官庄村	yang jia guan zhuang cun	1
+杨家河村	yang jia he cun	1
+杨家林	yang jia lin	1
+杨家楼村	yang jia lou cun	1
+杨家坡村	yang jia po cun	1
+杨家山	yang jia shan	1
+杨家洼村	yang jia wa cun	1
+杨家峪	yang jia yu	1
+杨家隅村	yang jia yu cun	1
+杨家庄	yang jia zhuang	1
+杨家庄村	yang jia zhuang cun	1
+杨家庄新区	yang jia zhuang xin qu	1
+羊圈	yang juan	1
+杨李村	yang li cun	1
+羊流村	yang liu cun	1
+羊流大桥	yang liu da qiao	1
+羊流镇	yang liu zhen	1
+羊楼	yang lou	1
+杨楼村	yang lou cun	1
+羊南村	yang nan cun	1
+杨山	yang shan	1
+羊山	yang shan	1
+杨山根	yang shan gen	1
+仰圣街南段	yang sheng jie nan duan	1
+杨树滩	yang shu tan	1
+杨梭村	yang suo cun	1
+杨台村	yang tai cun	1
+羊蹄山	yang ti shan	1
+杨行	yang xing	1
+杨营村	yang ying cun	1
+养鱼池	yang yu chi	1
+杨闸村	yang zha cun	1
+杨庄村	yang zhuang cun	1
+杨庄矿宿舍	yang zhuang kuang su she	1
+杨庄水库	yang zhuang shui ku	1
+姚东村	yao dong cun	1
+尧观顶	yao guan ding	1
+姚家沟	yao jia gou	1
+姚家官庄村	yao jia guan zhuang cun	1
+姚家坡	yao jia po	1
+姚家坡村	yao jia po cun	1
+窑山	yao shan	1
+摇头岭	yao tou ling	1
+尧王墓	yao wang mu	1
+药校	yao xiao	1
+姚庄	yao zhuang	1
+腰庄	yao zhuang	1
+窑子沟	yao zi gou	1
+叶家庄村	ye jia zhuang cun	1
+冶炼加工厂	ye lian jia gong chang	1
+冶庄村	ye zhuang cun	1
+叶庄村	ye zhuang cun	1
+易初莲花	yi chu lian hua	1
+意丹奴	yi dan nu	1
+意尔康	yi er kang	1
+义和村	yi he cun	1
+义和庄	yi he zhuang	1
+义和庄村	yi he zhuang cun	1
+伊家沟村	yi jia gou cun	1
+亿家能太阳能	yi jia neng tai yang neng	1
+一米阳光酒吧	yi mi yang guang jiu ba	1
+一能重工	yi neng zhong gong	1
+一天门	yi tian men	1
+仪阳乡	yi yang xiang	1
+仪阳中学	yi yang zhong xue	1
+椅子山	yi zi shan	1
+银宝	yin bao	1
+银宝公司	yin bao gong si	1
+尹村	yin cun	1
+尹村一村	yin cun yi cun	1
+尹范村	yin fan cun	1
+尹家沟	yin jia gou	1
+殷家林村	yin jia lin cun	1
+尹家洼	yin jia wa	1
+尹家洼村	yin jia wa cun	1
+尹家屋村	yin jia wu cun	1
+殷家寨	yin jia zhai	1
+尹家寨村	yin jia zhai cun	1
+尹家庄	yin jia zhuang	1
+尹家庄村	yin jia zhuang cun	1
+殷家庄村	yin jia zhuang cun	1
+尹林	yin lin	1
+荫柳棵村	yin liu ke cun	1
+银山宾馆	yin shan bin guan	1
+银山派出所	yin shan pai chu suo	1
+银山小区	yin shan xiao qu	1
+银山镇	yin shan zhen	1
+尹山庄	yin shan zhuang	1
+尹庄	yin zhuang	1
+殷庄	yin zhuang	1
+银座佳驿酒店	yin zuo jia yi jiu dian	1
+银座商城	yin zuo shang cheng	1
+迎春路	ying chun lu	1
+迎春社区	ying chun she qu	1
+迎春小区	ying chun xiao qu	1
+迎春学校	ying chun xue xiao	1
+迎春园	ying chun yuan	1
+营里村	ying li cun	1
+营盘村	ying pan cun	1
+迎圣大酒店	ying sheng da jiu dian	1
+迎胜路北段	ying sheng lu bei duan	1
+迎胜路南段	ying sheng lu nan duan	1
+迎胜路中段	ying sheng lu zhong duan	1
+迎胜商场	ying sheng shang chang	1
+迎胜小学	ying sheng xiao xue	1
+樱桃园	ying tao yuan	1
+瀛汶河	ying wen he	1
+英雄山中学	ying xiong shan zhong xue	1
+营子村	ying zi cun	1
+永安寨村	yong an zhai cun	1
+永春堂	yong chun tang	1
+永春堂大药房	yong chun tang da yao fang	1
+永大食品	yong da shi pin	1
+永丰村	yong feng cun	1
+永康大药房	yong kang da yao fang	1
+油坊村	you fang cun	1
+友好宾馆	you hao bin guan	1
+尤洛卡公司	you luo ka gong si	1
+友谊村	you yi cun	1
+友谊大厦	you yi da sha	1
+友谊医院	you yi yi yuan	1
+育才学校	yu cai xue xiao	1
+禹村镇	yu cun zhen	1
+玉都观	yu dou guan	1
+御府苑小区	yu fu yuan xiao qu	1
+御府苑小区南门	yu fu yuan xiao qu nan men	1
+于海村	yu hai cun	1
+玉皇顶	yu huang ding	1
+玉皇阁	yu huang ge	1
+玉皇庙	yu huang miao	1
+玉皇山	yu huang shan	1
+于家沟村	yu jia gou cun	1
+于家官庄村	yu jia guan zhuang cun	1
+于家河	yu jia he	1
+于家河村	yu jia he cun	1
+于家庄	yu jia zhuang	1
+于家庄村	yu jia zhuang cun	1
+御景龙城	yu jing long cheng	1
+与狼共舞	yu lang gong wu	1
+余粮庄村	yu liang zhuang cun	1
+于柳林	yu liu lin	1
+裕隆宾馆	yu long bin guan	1
+玉龙花苑	yu long hua yuan	1
+于楼村	yu lou cun	1
+玉女山	yu nv shan	1
+御品坊	yu pin fang	1
+雨前村	yu qian cun	1
+玉泉寺	yu quan si	1
+榆山	yu shan	1
+雨山	yu shan	1
+鱼山	yu shan	1
+榆山村	yu shan cun	1
+雨山村	yu shan cun	1
+鱼山村	yu shan cun	1
+榆山前村	yu shan qian cun	1
+御膳园	yu shan yuan	1
+玉石村	yu shi cun	1
+于寺村	yu si cun	1
+于土	yu tu	1
+于王庄村	yu wang zhuang cun	1
+鱼西村	yu xi cun	1
+于辛村	yu xin cun	1
+渝新干锅辣鸭头	yu xin gan guo la ya tou	1
+郁庄	yu zhuang	1
+于庄村	yu zhuang cun	1
+御座宾馆	yu zuo bin guan	1
+元宝石	yuan bao shi	1
+袁沟村	yuan gou cun	1
+袁海村	yuan hai cun	1
+袁家庄	yuan jia zhuang	1
+苑家庄村	yuan jia zhuang cun	1
+袁家庄村	yuan jia zhuang cun	1
+元君庙	yuan jun miao	1
+园林处	yuan lin chu	1
+袁楼村	yuan lou cun	1
+员外庄村	yuan wai zhuang cun	1
+袁寨村	yuan zhai cun	1
+袁庄	yuan zhuang	1
+苑庄村	yuan zhuang cun	1
+袁庄村	yuan zhuang cun	1
+月观峰	yue guan feng	1
+岳海汽车集团	yue hai qi che ji tuan	1
+月河子	yue he zi	1
+岳家庄村	yue jia zhuang cun	1
+岳家庄乡	yue jia zhuang xiang	1
+跃进宾馆	yue jin bin guan	1
+岳首集团	yue shou ji tuan	1
+月牙河水库	yue ya he shui ku	1
+岳庄村	yue zhuang cun	1
+月庄村	yue zhuang cun	1
+玥庄村	yue zhuang cun	1
+云步桥	yun bu qiao	1
+云海饭店	yun hai fan dian	1
+云河村	yun he cun	1
+运河村	yun he cun	1
+云山	yun shan	1
+云山村	yun shan cun	1
+云亭山	yun ting shan	1
+云宇机械	yun yu ji xie	1
+运舟湖村	yun zhou hu cun	1
+在水一方	zai shui yi fang	1
+臧家庄村	zang jia zhuang cun	1
+臧庄村	zang zhuang cun	1
+枣杭村	zao hang cun	1
+皂角沟	zao jiao gou	1
+枣行村	zao xing cun	1
+造纸厂	zao zhi chang	1
+枣庄村	zao zhuang cun	1
+翟家庄村	zhai jia zhuang cun	1
+翟南村	zhai nan cun	1
+寨山	zhai shan	1
+翟镇	zhai zhen	1
+翟镇政府	zhai zhen zheng fu	1
+宅子村	zhai zi cun	1
+宅子村北段	zhai zi cun bei duan	1
+宅子村中段	zhai zi cun zhong duan	1
+站北头村	zhan bei tou cun	1
+展楼	zhan lou	1
+展营村	zhan ying cun	1
+战友驾校	zhan you jia xiao	1
+展庄村	zhan zhuang cun	1
+张安村	zhang an cun	1
+张场村	zhang chang cun	1
+张陈庄村	zhang chen zhuang cun	1
+鄣城村	zhang cheng cun	1
+张村	zhang cun	1
+张店村	zhang dian cun	1
+张垓村	zhang gai cun	1
+张官屯村	zhang guan tun cun	1
+张家埠村	zhang jia bu cun	1
+张家村	zhang jia cun	1
+张家店村	zhang jia dian cun	1
+张家户	zhang jia hu	1
+张家户村	zhang jia hu cun	1
+张家街	zhang jia jie	1
+张家结庄	zhang jia jie zhuang	1
+张家林	zhang jia lin	1
+张家楼	zhang jia lou	1
+张家坡	zhang jia po	1
+张家桥村	zhang jia qiao cun	1
+张家堂村	zhang jia tang cun	1
+张家洼村	zhang jia wa cun	1
+张家屋村	zhang jia wu cun	1
+张家行村	zhang jia xing cun	1
+张家营村	zhang jia ying cun	1
+张家峪	zhang jia yu	1
+张家峪村	zhang jia yu cun	1
+张家寨村	zhang jia zhai cun	1
+张家庄	zhang jia zhuang	1
+章家庄	zhang jia zhuang	1
+张家庄村	zhang jia zhuang cun	1
+张老庄村	zhang lao zhuang cun	1
+张良庄	zhang liang zhuang	1
+张岭村	zhang ling cun	1
+张柳林	zhang liu lin	1
+张楼村	zhang lou cun	1
+张庙村	zhang miao cun	1
+张南阳村	zhang nan yang cun	1
+张桥村	zhang qiao cun	1
+张圈村	zhang quan cun	1
+张山头村	zhang shan tou cun	1
+张梭村	zhang suo cun	1
+张坦村	zhang tan cun	1
+张屯村	zhang tun cun	1
+张徐村	zhang xu cun	1
+张崖村	zhang ya cun	1
+张袁村	zhang yuan cun	1
+张庄	zhang zhuang	1
+张庄村	zhang zhuang cun	1
+赵村	zhao cun	1
+赵家	zhao jia	1
+赵家坝村	zhao jia ba cun	1
+赵家村	zhao jia cun	1
+赵家店村	zhao jia dian cun	1
+赵家沟	zhao jia gou	1
+赵家沟村	zhao jia gou cun	1
+赵家沟水库	zhao jia gou shui ku	1
+赵家林	zhao jia lin	1
+赵家峪	zhao jia yu	1
+赵家峪村	zhao jia yu cun	1
+赵家庄	zhao jia zhuang	1
+赵家庄村	zhao jia zhuang cun	1
+赵楼村	zhao lou cun	1
+赵吕村	zhao lv cun	1
+赵桥村	zhao qiao cun	1
+赵山头	zhao shan tou	1
+赵石汶村	zhao shi wen cun	1
+赵王河桥	zhao wang he qiao	1
+朝阳村	zhao yang cun	1
+朝阳洞	zhao yang dong	1
+朝阳新村	zhao yang xin cun	1
+朝阳庄	zhao yang zhuang	1
+朝阳庄村	zhao yang zhuang cun	1
+赵峪村	zhao yu cun	1
+赵庄	zhao zhuang	1
+赵庄村	zhao zhuang cun	1
+赵庄桥	zhao zhuang qiao	1
+镇东加油站	zhen dong jia you zhan	1
+振华超市	zhen hua chao shi	1
+甄家庄村	zhen jia zhuang cun	1
+镇里村	zhen li cun	1
+真如意大酒店	zhen ru yi da jiu dian	1
+真维斯	zhen wei si	1
+镇武村	zhen wu cun	1
+振兴加油站	zhen xing jia you zhan	1
+镇砖瓦厂	zhen zhuan wa chang	1
+正大口腔	zheng da kou qiang	1
+正东村	zheng dong cun	1
+正方科技	zheng fang ke ji	1
+郑家场	zheng jia chang	1
+郑家沟	zheng jia gou	1
+郑家杭村	zheng jia hang cun	1
+郑家寨子村	zheng jia zhai zi cun	1
+郑家庄	zheng jia zhuang	1
+郑家庄村	zheng jia zhuang cun	1
+正明山村	zheng ming shan cun	1
+正泰电器	zheng tai dian qi	1
+郑屯村	zheng tun cun	1
+郑沃村	zheng wo cun	1
+政务大厅	zheng wu da ting	1
+正兴加油站	zheng xing jia you zhan	1
+郑庄村	zheng zhuang cun	1
+纸房	zhi fang	1
+纸坊村	zhi fang cun	1
+纸房村	zhi fang cun	1
+指挥庄村	zhi hui zhuang cun	1
+直机关幼儿园	zhi ji guan you er yuan	1
+质监局	zhi jian ju	1
+芝麻峪	zhi ma yu	1
+芝田村	zhi tian cun	1
+职业病防治院	zhi ye bing fang zhi yuan	1
+至尊皇牛	zhi zun huang niu	1
+中百大厦	zhong bai da sha	1
+中长安	zhong chang an	1
+中超科技	zhong chao ke ji	1
+众成公司	zhong cheng gong si	1
+中淳于村	zhong chun yu cun	1
+中大吴	zhong da wu	1
+中杜村	zhong du cun	1
+中高余	zhong gao yu	1
+中谷堆村	zhong gu dui cun	1
+中国人民银行	zhong guo ren min yin hang	1
+中国信合	zhong guo xin he	1
+中海大酒店	zhong hai da jiu dian	1
+中行泰安分行	zhong hang tai an fen hang	1
+中河村	zhong he cun	1
+重河村	zhong he cun	1
+钟家庄村	zhong jia zhuang cun	1
+中旧县村	zhong jiu xian cun	1
+中军帐	zhong jun zhang	1
+中李村	zhong li cun	1
+众力机械	zhong li ji xie	1
+中岭村	zhong ling cun	1
+中灵村	zhong ling cun	1
+肿瘤医院	zhong liu yi yuan	1
+中龙堂	zhong long tang	1
+中鲁村	zhong lu cun	1
+中鲁时空	zhong lu shi kong	1
+中坦村	zhong tan cun	1
+中套村	zhong tao cun	1
+中天宾馆	zhong tian bin guan	1
+中天大厦	zhong tian da sha	1
+中天门	zhong tian men	1
+中天门索道	zhong tian men suo dao	1
+中王村	zhong wang cun	1
+中王庄村	zhong wang zhuang cun	1
+中夏村	zhong xia cun	1
+中心村	zhong xin cun	1
+中心加油站	zhong xin jia you zhan	1
+中心医院	zhong xin yi yuan	1
+中心医院分院	zhong xin yi yuan fen yuan	1
+中医二院	zhong yi er yuan	1
+中医医院	zhong yi yi yuan	1
+中医院	zhong yi yuan	1
+中峪	zhong yu	1
+中原村	zhong yuan cun	1
+中月庄	zhong yue zhuang	1
+种子大厦	zhong zi da sha	1
+州城镇	zhou cheng zhen	1
+粥店办事处	zhou dian ban shi chu	1
+粥店桥	zhou dian qiao	1
+周岗村	zhou gang cun	1
+周公台	zhou gong tai	1
+周家沟村	zhou jia gou cun	1
+周家楼村	zhou jia lou cun	1
+周家坡村	zhou jia po cun	1
+周家泉村	zhou jia quan cun	1
+周家巷	zhou jia xiang	1
+周家庄	zhou jia zhuang	1
+周家庄村	zhou jia zhuang cun	1
+周林村	zhou lin cun	1
+周全村	zhou quan cun	1
+周山	zhou shan	1
+周王村	zhou wang cun	1
+周王庄村	zhou wang zhuang cun	1
+周吴	zhou wu	1
+周营	zhou ying	1
+周庄	zhou zhuang	1
+周庄村	zhou zhuang cun	1
+驻村	zhu cun	1
+朱官村	zhu guan cun	1
+朱官庄村	zhu guan zhuang cun	1
+朱家埠村	zhu jia bu cun	1
+朱家沟村	zhu jia gou cun	1
+朱家洼村	zhu jia wa cun	1
+朱家峪	zhu jia yu	1
+朱家庄	zhu jia zhuang	1
+祝家庄	zhu jia zhuang	1
+朱家庄村	zhu jia zhuang cun	1
+竹林寺	zhu lin si	1
+朱桥村	zhu qiao cun	1
+朱山	zhu shan	1
+猪山	zhu shan	1
+珠山	zhu shan	1
+朱屯	zhu tun	1
+竹窝	zhu wo	1
+祝阳镇	zhu yang zhen	1
+朱庄村	zhu zhuang cun	1
+竹子园	zhu zi yuan	1
+转山	zhuan shan	1
+转山子	zhuan shan zi	1
+砖瓦窑	zhuan wa yao	1
+砖西村	zhuan xi cun	1
+庄家庄村	zhuang jia zhuang cun	1
+庄科	zhuang ke	1
+庄科村	zhuang ke cun	1
+庄庙	zhuang miao	1
+庄头村	zhuang tou cun	1
+庄庄村	zhuang zhuang cun	1
+浊前村	zhuo qian cun	1
+訾家灌庄	zi jia guan zhuang	1
+訾家灌庄小区	zi jia guan zhuang xiao qu	1
+自来水公司	zi lai shui gong si	1
+籽粒村	zi li cun	1
+子路村	zi lu cun	1
+紫欣园小区	zi xin yuan xiao qu	1
+自由马	zi you ma	1
+紫竹山庄	zi zhu shan zhuang	1
+邹家岭	zou jia ling	1
+邹家庄村	zou jia zhuang cun	1
+左家沟村	zuo jia gou cun	1
